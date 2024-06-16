@@ -12,8 +12,12 @@ Welcome to mold's documentation!
 
 
 
-Mold and tables
+Mod3 an2d tables
 ==================
+
+.. raw:: html
+
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/ole8Nr1xmGU?si=tkuqJFLeuxYgNFFX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 * :ref:`genindex`
 * :ref:`modindex`
