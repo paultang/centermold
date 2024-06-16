@@ -12,7 +12,7 @@ Welcome to mold's documentation!
 
 
 
-Mold and tables
+Mold3 an2d tables
 ==================
 
 * :ref:`genindex`
