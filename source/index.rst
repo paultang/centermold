@@ -10,10 +10,36 @@ Welcome to mold's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   sample
+
 
 
 Mod3 an2d tables
 ==================
+
+  :doc:`sample`
+
+这是一个长段落  
+这里是强制换行。
+
+这是一个长段落，
+这里是强制换行。
+
+这是一个长段落，\
+这里是强制换行。
+
+| 这是一个长段落，
+| 这里是强制换行。
+
+Link to Sample Document
+=======================
+
+这是一个链接到 `sample.rst` 文件的示例：
+
+`点击这里查看 Sample Document <sample.rst>`_
+
+
+
 
 .. raw:: html
 
@@ -25,37 +51,7 @@ Features
 
 Here are some key features of your project.
 
-.. raw:: html
 
-   <!-- Start of LiveChat code -->
-   <script>
-       window.__lc = window.__lc || {};
-       window.__lc.license = 1234567;
-       (function() {
-           var lc = document.createElement('script');
-           lc.type = 'text/javascript';
-           lc.async = true;
-           lc.src = 'https://cdn.livechatinc.com/tracking.js';
-           var s = document.getElementsByTagName('script')[0];
-           s.parentNode.insertBefore(lc, s);
-       })();
-   </script>
-   <noscript><a href="https://www.livechatinc.com/chat-with/1234567/" rel="nofollow">Chat with us</a></noscript>
-   <!-- End of LiveChat code -->
-
-.. raw:: html
-
-   <style>
-       /* Position the LiveChat button in the bottom-right corner */
-       #chat-widget-container {
-           position: fixed;
-           bottom: 0;
-           right: 0;
-           z-index: 1000;
-       }
-   </style>
-
-   
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
