@@ -21,7 +21,7 @@ sphinx:
   configuration: source/conf.py
 
 # Optionally build your docs in additional formats such as PDF and ePub
-formats:
+# formats:
  # - htmlzip
  # - pdf
  # - ePub
