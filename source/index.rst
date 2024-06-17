@@ -5,19 +5,17 @@
 
 Welcome to mold's documentation!
 ================================
-
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
    sample
 
-
-
 Mod3 an2d tables
 ==================
 
-  :doc:`sample`
+    :doc:`sample`
+
 
 这是一个长段落  
 这里是强制换行。
