@@ -8,7 +8,9 @@ Welcome to CenterMold!
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-
+   
+   sample
+   
 Mod3 an2d tables
 ==================
 
