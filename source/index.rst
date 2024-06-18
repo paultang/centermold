@@ -7,10 +7,11 @@ Welcome to CenterMold!
 ================================
 .. toctree::
    :maxdepth: 2
+   :hidden:
    :caption: Contents:
    
    sample
-   
+
 Mod3 an2d tables
 ==================
 
