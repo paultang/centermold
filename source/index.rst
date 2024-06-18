@@ -3,13 +3,11 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to mold's documentation!
+Welcome to CenterMold!
 ================================
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-
-   sample
 
 Mod3 an2d tables
 ==================
@@ -17,14 +15,6 @@ Mod3 an2d tables
     :doc:`sample`
 
 
-这是一反对法个长段落  
-这里是强ddsss制换行。
-
-这是一个长段落，
-这里是强制换行。
-
-这是一个长段落，\
-这里是强制换行。
 
 | 这是一个长段落，
 | 这里是强制换行。
