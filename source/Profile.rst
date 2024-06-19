@@ -6,27 +6,9 @@
 Profile
 =======================
 
+Located in SHenzhen, Guangdong, the heart of China’s mold industry and conveniently near Hong Kong, CenterMold is a private company specializing in plastic mold manufacturing. Our strategic location provides excellent transportation benefits, ensuring timely delivery and efficient logistics.
 
-Mod3 an2d tables
--------------------
-
-    :doc:`RFQ`
-
-
-Link to Sample Document
-=======================
-
-这是一个链接到 `RFQ.rst` 文件的示例：
-
-`点击这里查看 Sample Document <RFQ.rst>`_
-
-
-
-Features
---------
-
-Here are some key features of your project.
-
+Established in 1998, CenterMold has grown into a medium-scale mold factory, boasting a 3,000 square meter facility and a dedicated team of 120 skilled employees. Our state-of-the-art manufacturing equipment, including CNC machines, EDM, and wire-cutting technology, allows us to produce up to 40 large to medium-sized molds per month.
 
 * :ref:`genindex`
 * :ref:`modindex`
