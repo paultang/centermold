@@ -8,7 +8,7 @@ Profile
 
 
 Mod3 an2d tables
-==================
+-------------------
 
     :doc:`RFQ`
 
