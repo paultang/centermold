@@ -74,7 +74,7 @@ Welcome to CenterMold!
    :caption: Case Studies
    
    Case-Study
-   Testimonials
+
 
 
 
