@@ -2,17 +2,17 @@
    sphinx-quickstart on Sat Jun 15 15:24:46 2024.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
-
+=======================
 Welcome to CenterMold!
-================================
+=======================
 .. toctree::
    :maxdepth: 2
    :hidden:
    :caption: Home
    
-   Company Overview
-   Core Services
-   Customer Testimonials
+   Company-Overview
+   Core-Services
+   Customer-Testimonials
 
 .. toctree::
    :maxdepth: 2
@@ -21,37 +21,37 @@ Welcome to CenterMold!
    
    Profile
    Facility
-   Contact Us
+   Contact-Us
 
 .. toctree::
    :maxdepth: 2
    :hidden:
    :caption: Capabilities
    
-   CNC Machining
-   Injection Molding
+   CNC-Machining
+   Injection-Molding
    Inspection
-   Project Management
-   Package and Delivery
-   Mold Maintence
+   Project-Management
+   Package-and-Delivery
+   Mold-Maintence
 
 .. toctree::
    :maxdepth: 2
    :hidden:
    :caption: Services
    
-   Mold Design
-   Mold Tooling
-   Injection Molding
-   CNC Machining
-   Other Services
+   Mold-Design
+   Mold-Tooling
+   Injection-Molding
+   CNC-Machining
+   Other-Services
 
 .. toctree::
    :maxdepth: 2
    :hidden:
    :caption: Industry
    
-   Consumer Products
+   Consumer-Products
    Medical
    Industry
    Other
@@ -62,17 +62,17 @@ Welcome to CenterMold!
    :caption: Project Management
    
    RFQ
-   Moldflow Analysis
-   Project Process Management
-   Quality Management
-   Mold Maintenence
+   Moldflow-Analysis
+   Project-Process-Management
+   Quality-Management
+   Mold-Maintenence
 
    .. toctree::
    :maxdepth: 2
    :hidden:
    :caption: Partners and Certifications
    
-   Key Partners
+   Key-Partners
    Certifications
 
    .. toctree::
@@ -80,7 +80,7 @@ Welcome to CenterMold!
    :hidden:
    :caption: Case Studies
    
-   Case Study
+   Case-Study
    Testimonials
 
 
