@@ -12,6 +12,7 @@ Welcome to CenterMold!
    
    Company-Overview
    Core-Services
+   Customer-Testimonials
 
 .. toctree::
    :maxdepth: 2
@@ -27,8 +28,11 @@ Welcome to CenterMold!
    :hidden:
    :caption: Capabilities
    
-   Manufacturing
+   CNC-Machining
+   Injection-Molding
    Inspection
+   Project-Management
+   Package-and-Delivery
    Mold-Maintence
 
 .. toctree::
@@ -36,10 +40,10 @@ Welcome to CenterMold!
    :hidden:
    :caption: Services
    
-   RFQ
    Mold-Design
    Mold-Tooling
    Injection-Molding
+   CNC-Machining
    Other-Services
 
 .. toctree::
@@ -57,8 +61,11 @@ Welcome to CenterMold!
    :hidden:
    :caption: Project Management
    
-   Moldflow
+   RFQ
+   Moldflow-Analysis
    Project-Process-Management
+   Quality-Management
+   Mold-Maintenence
 
    .. toctree::
    :maxdepth: 2
