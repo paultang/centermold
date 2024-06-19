@@ -7,7 +7,7 @@ Welcome to CenterMold!
 ================================
 .. toctree::
    :maxdepth: 2
-   :hiden:
+   :hidden:
    :caption: Home
    
    Company Overview
@@ -16,7 +16,7 @@ Welcome to CenterMold!
 
 .. toctree::
    :maxdepth: 2
-   :hiden:
+   :hidden:
    :caption: About Us
    
    Profile
@@ -25,7 +25,7 @@ Welcome to CenterMold!
 
 .. toctree::
    :maxdepth: 2
-   :hiden:
+   :hidden:
    :caption: Capabilities
    
    CNC Machining
@@ -37,7 +37,7 @@ Welcome to CenterMold!
 
 .. toctree::
    :maxdepth: 2
-   :hiden:
+   :hidden:
    :caption: Services
    
    Mold Design
@@ -48,7 +48,7 @@ Welcome to CenterMold!
 
 .. toctree::
    :maxdepth: 2
-   :hiden:
+   :hidden:
    :caption: Industry
    
    Consumer Products
@@ -58,7 +58,7 @@ Welcome to CenterMold!
 
 .. toctree::
    :maxdepth: 2
-   :hiden:
+   :hidden:
    :caption: Project Management
    
    RFQ
@@ -69,7 +69,7 @@ Welcome to CenterMold!
 
    .. toctree::
    :maxdepth: 2
-   :hiden:
+   :hidden:
    :caption: Partners and Certifications
    
    Key Partners
@@ -77,7 +77,7 @@ Welcome to CenterMold!
 
    .. toctree::
    :maxdepth: 2
-   :hiden:
+   :hidden:
    :caption: Case Studies
    
    Case Study
