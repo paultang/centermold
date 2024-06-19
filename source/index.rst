@@ -10,9 +10,9 @@ Welcome to CenterMold!
    :hidden:
    :caption: Contents:
    
-   Injection Quality Management
-   Mold process
-   RFQ process
+   InjectionManagement
+   moldprocess
+   RFQ
 
 Mod3 an2d tables
 ==================
@@ -23,16 +23,10 @@ Mod3 an2d tables
 Link to Sample Document
 =======================
 
-这是一个链接到 `sample.rst` 文件的示例：
+这是一个链接到 `RFQ.rst` 文件的示例：
 
-`点击这里查看 Sample Document <RFQ process.rst>`_
+`点击这里查看 Sample Document <RFQ.rst>`_
 
-
-
-
-.. raw:: html
-
-   <iframe width="560" height="315" src="https://www.youtube.com/embed/ole8Nr1xmGU?si=tkuqJFLeuxYgNFFX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 Features
