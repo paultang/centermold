@@ -5,13 +5,6 @@
 =======================
 Welcome to CenterMold!
 =======================
-.. toctree::
-   :maxdepth: 2
-   :hidden:
-   :caption: Home
-   
-   Company-Overview
-   Core-Services
 
 .. toctree::
    :maxdepth: 2
