@@ -10,7 +10,9 @@ Welcome to CenterMold!
    :hidden:
    :caption: Contents:
    
-   sample
+   Injection Quality Management
+   Mold process
+   RFQ process
 
 Mod3 an2d tables
 ==================
@@ -18,16 +20,12 @@ Mod3 an2d tables
     :doc:`sample`
 
 
-
-| 这是一个长段落，
-| 这里是强制换行。
-
 Link to Sample Document
 =======================
 
 这是一个链接到 `sample.rst` 文件的示例：
 
-`点击这里查看 Sample Document <sample.rst>`_
+`点击这里查看 Sample Document <RFQ process.rst>`_
 
 
 
