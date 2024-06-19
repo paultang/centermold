@@ -7,7 +7,6 @@ Welcome to CenterMold!
 ================================
 .. toctree::
    :maxdepth: 2
-   :hidden:
    :caption: Contents:
    
    InjectionManagement
@@ -38,3 +37,5 @@ Here are some key features of your project.
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
+
+.. :hidden:
