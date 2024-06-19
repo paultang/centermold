@@ -17,7 +17,7 @@ Welcome to CenterMold!
 Mod3 an2d tables
 ==================
 
-    :doc:`RFQ process`
+    :doc:`RFQ`
 
 
 Link to Sample Document
