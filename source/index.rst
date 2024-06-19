@@ -7,11 +7,84 @@ Welcome to CenterMold!
 ================================
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :hiden:
+   :caption: Home
    
-   InjectionManagement
-   moldprocess
+   Company Overview
+   Core Services
+   Customer Testimonials
+
+.. toctree::
+   :maxdepth: 2
+   :hiden:
+   :caption: About Us
+   
+   Profile
+   Facility
+   Contact Us
+
+.. toctree::
+   :maxdepth: 2
+   :hiden:
+   :caption: Capabilities
+   
+   CNC Machining
+   Injection Molding
+   Inspection
+   Project Management
+   Package and Delivery
+   Mold Maintence
+
+.. toctree::
+   :maxdepth: 2
+   :hiden:
+   :caption: Services
+   
+   Mold Design
+   Mold Tooling
+   Injection Molding
+   CNC Machining
+   Other Services
+
+.. toctree::
+   :maxdepth: 2
+   :hiden:
+   :caption: Industry
+   
+   Consumer Products
+   Medical
+   Industry
+   Other
+
+.. toctree::
+   :maxdepth: 2
+   :hiden:
+   :caption: Project Management
+   
    RFQ
+   Moldflow Analysis
+   Project Process Management
+   Quality Management
+   Mold Maintenence
+
+   .. toctree::
+   :maxdepth: 2
+   :hiden:
+   :caption: Partners and Certifications
+   
+   Key Partners
+   Certifications
+
+   .. toctree::
+   :maxdepth: 2
+   :hiden:
+   :caption: Case Studies
+   
+   Case Study
+   Testimonials
+
+
+
 
 Mod3 an2d tables
 ==================
