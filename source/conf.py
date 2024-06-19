@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'mold'
+project = 'CenterMold'
 copyright = '2024, bill'
 author = 'bill'
 
