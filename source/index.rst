@@ -13,6 +13,7 @@ Welcome to CenterMold!
    
    Profile
    Facility
+   Partners
    Contact-Us
 
 .. toctree::
