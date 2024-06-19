@@ -53,7 +53,7 @@ Welcome to CenterMold!
    Moldflow
    Project-Process-Management
 
-   .. toctree::
+.. toctree::
    :maxdepth: 2
    :hidden:
    :caption: Partners and Certifications
@@ -61,7 +61,7 @@ Welcome to CenterMold!
    Key-Partners
    Certifications
 
-   .. toctree::
+.. toctree::
    :maxdepth: 2
    :hidden:
    :caption: Case Studies
