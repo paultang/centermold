@@ -23,7 +23,7 @@ Welcome to CenterMold!
    
    Manufacturing
    Inspection
-   Mold-Maintence
+   Mold-Maintenance
 
 .. toctree::
    :maxdepth: 2
@@ -43,14 +43,6 @@ Welcome to CenterMold!
    
    Moldflow
    Project-Process-Management
-
-.. toctree::
-   :maxdepth: 2
-   :hidden:
-   :caption: Partners and Certifications
-   
-   Key-Partners
-   Certifications
 
 .. toctree::
    :maxdepth: 2
