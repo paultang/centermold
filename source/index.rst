@@ -38,16 +38,6 @@ Welcome to CenterMold!
 .. toctree::
    :maxdepth: 2
    :hidden:
-   :caption: Industry
-   
-   Consumer-Products
-   Medical
-   Industry
-   Other
-
-.. toctree::
-   :maxdepth: 2
-   :hidden:
    :caption: Project Management
    
    Moldflow
@@ -67,8 +57,9 @@ Welcome to CenterMold!
    :caption: Case Studies
    
    Case-Study
-
-
+   Consumer-Products
+   Medical
+   Industry
 
 
 
