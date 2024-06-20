@@ -16,13 +16,6 @@ Welcome to CenterMold!
    Partners
    Contact-Us
 
-.. toctree::
-   :maxdepth: 2
-   :hidden:
-   :caption: Specialized Services
-   
-   Manufacturing
-   Mold-Partners
 
 .. toctree::
    :maxdepth: 2
@@ -34,6 +27,14 @@ Welcome to CenterMold!
    Mold-Tooling
    Injection-Molding
    Other-Services
+
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: Specialized Services
+   
+   Manufacturing
+   Mold-Partners
 
 .. toctree::
    :maxdepth: 2
