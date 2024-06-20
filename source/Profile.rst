@@ -18,22 +18,24 @@ Our proximity to major ports in Shenzhen and Hong Kong offers significant advant
 
 North America
 
-Los Angeles, CA
-Long Beach, CA
-New York, NY
-Savannah, GA
-Vancouver, BC
+- Los Angeles, CA
+- Long Beach, CA
+- New York, NY
+- Savannah, GA
+- Vancouver, BC
+
 Europe
 
-Rotterdam, Netherlands
-Hamburg, Germany
-Antwerp, Belgium
-Le Havre, France
-Barcelona, Spain
+- Rotterdam, Netherlands
+- Hamburg, Germany
+- Antwerp, Belgium
+- Le Havre, France
+- Barcelona, Spain
+
 United Kingdom
 
-Felixstowe
-Southampton
-Liverpool
+- Southampton
+- Liverpool
+
 Our strategic location and efficient logistics network enable us to offer competitive shipping rates and reliable delivery schedules, ensuring your molds and products arrive on time and within budget.
 
