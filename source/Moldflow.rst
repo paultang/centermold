@@ -17,6 +17,7 @@ Core Analysis Areas
 - Fiber Orientation: Analyzing fiber orientation in fiber-reinforced materials to optimize part strength and performance.
 
 Mold Flow Analysis Software
+----------------------------
 We utilize industry-leading mold flow analysis software to deliver precise and reliable insights, including:
 
 - Moldflow
