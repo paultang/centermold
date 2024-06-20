@@ -9,7 +9,7 @@ Contact Us
 CenterMold
 ------------
 | Address
-| B17,XiBu industrial park, SongGang Town,  
+| B17,Tantou West industrial park, SongGang Town,  
 | Shenzhen, Guangdong, 
 | China
 | Phone: +86 0755 27226835  
