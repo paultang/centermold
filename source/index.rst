@@ -19,10 +19,9 @@ Welcome to CenterMold!
 .. toctree::
    :maxdepth: 2
    :hidden:
-   :caption: Capabilities
+   :caption: Specialized Services
    
    Manufacturing
-   Inspection
    Mold-Maintenance
 
 .. toctree::
