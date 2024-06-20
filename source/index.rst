@@ -22,7 +22,7 @@ Welcome to CenterMold!
    :caption: Specialized Services
    
    Manufacturing
-   Mold-Maintenance
+   Mold-Partners
 
 .. toctree::
    :maxdepth: 2
