@@ -8,13 +8,18 @@ Contact Us
 
 CenterMold
 ------------
-| Address:
+| Address
 | B17,XiBu industrial park, SongGang Town,  
 | Shenzhen, Guangdong, 
 | China
 | Phone: +86 0755 27226835  
 | Email: info@centermold.com  
 | Website: www.centermold.com  
+
+| CenterMold Branch Factory
+| 88 Yulong Road, Suining City, 
+| Sichuan Province, 
+| China
 
 Visit Us
 ----------
