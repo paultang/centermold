@@ -37,8 +37,3 @@ Southampton
 Liverpool
 Our strategic location and efficient logistics network enable us to offer competitive shipping rates and reliable delivery schedules, ensuring your molds and products arrive on time and within budget.
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-
-.. :hidden:

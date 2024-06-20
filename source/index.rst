@@ -80,8 +80,3 @@ Tony Tang
 Founder and General Manager
 
 CenterMold
-
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
