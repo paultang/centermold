@@ -21,7 +21,6 @@ Mold Flow Analysis Software
 We utilize industry-leading mold flow analysis software to deliver precise and reliable insights, including:
 
 - Moldflow
-- Simpoe-Mold
 - Moldex3D
 
 These tools allow us to simulate the injection molding process and make informed decisions to enhance mold design and part quality.
