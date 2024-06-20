@@ -7,29 +7,20 @@ Contact Us
 =======================
 Our Location
 ---------------------
-CenterMold 
+CenterMold  
 B17 xibu industrial park songgang town baoan distric
-
 Shenzhen, Guangdong, China
 
-Phone: +860755 27226835  
+Phone: +86 0755 27226835  
 Email: info@centermold.com  
-
 Website: www.centermold.com  
-
-Office Hours  
-
-Monday to Friday: 9:00 AM - 6:00 PM  
-
-Saturday: 9:00 AM - 5:00 PM  
-
-Sunday: Closed  
 
 Visit Us
 ----------
 Our facility is conveniently located near Shenzhen Bao'an International Airport, making it easily accessible for both domestic and international clients. Additionally, Shenzhen's proximity to Hong Kong ensures excellent connectivity and transportation options.
 
-How to Reach Us
+How to Reach Us  
+---------------
 From Shenzhen Bao'an International Airport:
 
 By Car: 
@@ -38,9 +29,6 @@ Approximately 20 minutes
 By Metro: Take Line 1 (Luobao Line) to [Nearest Metro Station]
 From Hong Kong:
 
-By Train: Take the high-speed train to Shenzhen North Railway Station, then transfer to Line 5 (Huanzhong Line) to [Nearest Metro Station]
-By Car: Approximately 1 hour via [Specific Route]
-
 .. raw:: html
 
-    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d29433.522332881064!2d113.80428711887161!3d22.758318285204993!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x34039693293a373b%3A0x5b730abee29a8b78!2sDekang%20Science%26Technology%20Garden%2C%20Baoan%2C%20Shenzhen%2C%20Guangdong%20Province%2C%20China%2C%20518104!5e0!3m2!1sen!2ssg!4v1718851277759!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14717.761672085962!2d113.82908424774722!3d22.749031269859703!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x340396a39ef704ab%3A0xad1ac68877d58d90!2sTantou%2C%20Baoan%2C%20Shenzhen%2C%20Guangdong%20Province%2C%20China%2C%20518105!5e0!3m2!1sen!2ssg!4v1718853182308!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
