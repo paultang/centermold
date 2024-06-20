@@ -16,7 +16,7 @@ Strategic Location and Shipping Advantages
 
 Our proximity to major ports in Shenzhen and Hong Kong offers significant advantages for international shipping. We have access to numerous direct sea routes, ensuring fast and cost-effective delivery to major ports around the world.
 
-North America
+Shenzhen or Hongkong - North America
 
 - Los Angeles, CA
 - Long Beach, CA
@@ -24,7 +24,7 @@ North America
 - Savannah, GA
 - Vancouver, BC
 
-Europe
+Shenzhen or Hongkong - Europe
 
 - Rotterdam, Netherlands
 - Hamburg, Germany
@@ -32,7 +32,7 @@ Europe
 - Le Havre, France
 - Barcelona, Spain
 
-United Kingdom
+Shenzhen or Hongkong - United Kingdom
 
 - Southampton
 - Liverpool
