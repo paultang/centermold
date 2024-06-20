@@ -5,31 +5,22 @@
 =======================
 Moldflow Analysis
 =======================
+At CenterMold, our extensive experience allows us to successfully manage the majority of projects with precision and expertise. For unique structures and specialized materials, we recommend conducting mold flow analysis to optimize mold design and production processes. This advanced analysis helps predict and prevent potential issues, ensuring the highest quality results for our clients.
 
+Core Analysis Areas
+---------------------
+- Filling Patterns: Analyzing how molten plastic flows into the mold to identify potential problems like short shots or air traps.
+- Cooling Time: Determining optimal cooling times to prevent warping and ensure consistent part quality.
+- Pressure Distribution: Evaluating pressure distribution during injection to avoid part defects and ensure uniformity.
+- Weld Lines: Identifying and minimizing weld lines that could weaken the part structure.
+- Shrinkage and Warpage: Predicting areas of shrinkage and warpage to adjust design and processing parameters for accurate parts.
+- Fiber Orientation: Analyzing fiber orientation in fiber-reinforced materials to optimize part strength and performance.
 
-Mod3 an2d tables
-==================
+Mold Flow Analysis Software
+We utilize industry-leading mold flow analysis software to deliver precise and reliable insights, including:
 
-    :doc:`RFQ`
+- Moldflow
+- Simpoe-Mold
+- Moldex3D
 
-
-Link to Sample Document
-=======================
-
-这是一个链接到 `RFQ.rst` 文件的示例：
-
-`点击这里查看 Sample Document <RFQ.rst>`_
-
-
-
-Features
---------
-
-Here are some key features of your project.
-
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-
-.. :hidden:
+These tools allow us to simulate the injection molding process and make informed decisions to enhance mold design and part quality.
