@@ -5,20 +5,24 @@
 =======================
 Contact Us
 =======================
-At CenterMold, we value our clients and partners. Whether you have a question, need a quote, or want to discuss a project, our team is here to assist you. Please feel free to reach out to us using the contact information below or by filling out the contact form.
-
 Our Location
 ---------------------
-CenterMold Manufacturing
-Your Full Address Here
+CenterMold 
+B17 xibu industrial park songgang town baoan distric
+
 Shenzhen, Guangdong, China
 
-Phone: +86 [Your Phone Number Here]  
-Email: [Your Email Address Here]  
+Phone: +860755 27226835  
+Email: info@centermold.com  
+
 Website: www.centermold.com  
+
 Office Hours  
+
 Monday to Friday: 9:00 AM - 6:00 PM  
+
 Saturday: 9:00 AM - 5:00 PM  
+
 Sunday: Closed  
 
 Visit Us
@@ -28,7 +32,9 @@ Our facility is conveniently located near Shenzhen Bao'an International Airport,
 How to Reach Us
 From Shenzhen Bao'an International Airport:
 
-By Car: Approximately 20 minutes
+By Car: 
+Approximately 20 minutes
+
 By Metro: Take Line 1 (Luobao Line) to [Nearest Metro Station]
 From Hong Kong:
 
