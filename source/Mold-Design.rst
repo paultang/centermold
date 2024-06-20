@@ -17,9 +17,10 @@ To provide the best mold design services, we utilize industry-leading software s
 Our Mold Design Process
 ------------------------
 - Initial Consultation and Design Review
+  
   - Needs Assessment: Understanding the client’s requirements, product specifications, and manufacturing goals.
-  - Conceptual Design: Developing initial design concepts and discussing potential approaches with the client.
-
+  - Conceptual Design: Developing initial design concepts and discussing potential approaches with the client.  
+  
 - Detailed Design Development
 
   - 3D Modeling: Creating detailed 3D models of the mold using UG and SolidWorks, ensuring accuracy and precision.
