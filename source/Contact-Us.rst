@@ -8,9 +8,10 @@ Contact Us
 
 CenterMold
 ------------
-| B17 xibu industrial park songgang town baoan distric  
-| Shenzhen, Guangdong, China
-
+| Address:
+| B17,XiBu industrial park, SongGang Town,  
+| Shenzhen, Guangdong, 
+| China
 | Phone: +86 0755 27226835  
 | Email: info@centermold.com  
 | Website: www.centermold.com  
@@ -25,9 +26,6 @@ From Shenzhen Bao'an International Airport:
 
 By Car: 
 Approximately 20 minutes
-
-By Metro: Take Line 1 (Luobao Line) to [Nearest Metro Station]
-From Hong Kong:
 
 .. raw:: html
 
