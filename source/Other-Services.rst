@@ -6,32 +6,19 @@
 Other Services
 =======================
 
+Additional Post-Injection Molding Services
+At CenterMold, we offer a comprehensive range of post-injection molding services to meet all our customers' needs. Beyond injection molding, our services include:
+
+- Silk Screening: Applying detailed graphics or text onto molded parts for branding or labeling purposes.
+- Laser Engraving: Precision engraving of logos, serial numbers, or other identifiers onto plastic parts.
+- Color Matching: Expert color matching services to ensure consistency and meet specific aesthetic requirements.
+- Assembly and Sub-Assembly: Integration of multiple components into finished assemblies to streamline production and reduce costs.
+- Surface Finishing: Various finishing techniques such as polishing, painting, or coating to enhance appearance and functionality.
+- Packaging Solutions: Customized packaging options to protect and present molded parts according to client specifications.
+
+At CenterMold, exceeding customer expectations through versatile and high-quality post-molding services is our commitment. Contact us today to discover how we can support your project with our expertise and capabilities.
 
 
 
-Mod3 an2d tables
-==================
-
-    :doc:`RFQ`
 
 
-Link to Sample Document
-=======================
-
-这是一个链接到 `RFQ.rst` 文件的示例：
-
-`点击这里查看 Sample Document <RFQ.rst>`_
-
-
-
-Features
---------
-
-Here are some key features of your project.
-
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-
-.. :hidden:
