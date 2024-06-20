@@ -34,4 +34,4 @@ Approximately 20 minutes
 
 .. raw:: html
 
-   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14717.761672085962!2d113.82908424774722!3d22.749031269859703!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x340396a39ef704ab%3A0xad1ac68877d58d90!2sTantou%2C%20Baoan%2C%20Shenzhen%2C%20Guangdong%20Province%2C%20China%2C%20518105!5e0!3m2!1sen!2ssg!4v1718853182308!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5037.248669032858!2d113.83332562018997!3d22.750141201438616!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x340396bcb9f5422b%3A0xf056c04070f4587d!2sTantou%20West%20Industrial%20Park!5e0!3m2!1sen!2ssg!4v1718877788249!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
