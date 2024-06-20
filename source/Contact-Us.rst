@@ -5,11 +5,15 @@
 =======================
 Contact Us
 =======================
-Our Location
----------------------
-CenterMold  
-B17 xibu industrial park songgang town baoan distric
+
+CenterMold
+
+B17 xibu industrial park songgang town baoan distric  
 Shenzhen, Guangdong, China
+
+This is a line of text.  
+This is the next line of text without an empty line between them.
+
 
 Phone: +86 0755 27226835  
 Email: info@centermold.com  
