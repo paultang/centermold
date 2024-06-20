@@ -16,19 +16,23 @@ To provide the best mold design services, we utilize industry-leading software s
 
 Our Mold Design Process
 ------------------------
-- Initial Consultation and Design Review
-  
+
+- Initial Consultation and Design Review  
+..
+
   - Needs Assessment: Understanding the client’s requirements, product specifications, and manufacturing goals.
   - Conceptual Design: Developing initial design concepts and discussing potential approaches with the client.  
   
 - Detailed Design Development
+..
 
   - 3D Modeling: Creating detailed 3D models of the mold using UG and SolidWorks, ensuring accuracy and precision.
   - Design for Manufacturability (DFM): Incorporating DFM principles to optimize the mold design for efficient production.
   - Export Considerations: Designing molds with export requirements in mind, considering the client's injection molding machine specifications and the availability of local mold components.
 
 - Component Specification and Documentation
-
+..
+    
   - Gate Location and Type: Specifying the location, type, and size of the gate to ensure optimal flow and minimal defects.
   - Parting Line: Clearly defining the parting line to ensure proper mold separation and ease of manufacturing.
   - Ejector Pin Placement: Strategically placing ejector pins to ensure smooth part removal without damaging the product.
