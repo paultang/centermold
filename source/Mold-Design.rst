@@ -5,6 +5,10 @@
 =======================
 Mold Design
 =======================
+.. figure:: _static/molddesign.jpg
+   :align: right
+   :width: 450px
+   
 At CenterMold, our mold design services are tailored to meet the unique needs of each client, ensuring the highest levels of precision, efficiency, and quality. With over 30 years of experience in mold design, tooling, and injection molding, we leverage advanced design software and a customer-centric approach to deliver exceptional results.
 
 Our Design Software
