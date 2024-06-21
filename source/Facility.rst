@@ -14,6 +14,10 @@ CNC Machining Centers
 	•	Capacity: Up to 0.002 mm tolerance
 	•	Quantity: 4 units
 
+.. figure:: _static/EDM.jpg
+   :align: right
+   :width: 450px
+
 Electrical Discharge Machines (EDM)
 	•	Quantity: 4 units
 
