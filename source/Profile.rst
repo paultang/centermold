@@ -7,7 +7,7 @@ Profile
 =======================
 
 .. figure:: _static/mini.jpg
-   :align: left
+   :align: right
    :width: 245px
 
 CenterMold: Your Partner in Precision Plastic Mold Manufacturing
