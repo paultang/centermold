@@ -23,19 +23,15 @@ Our proximity to major ports in Shenzhen and Hong Kong offers significant advant
 Shenzhen or Hongkong - North America
 
 - Los Angeles, CA
-- Long Beach, CA
 - New York, NY
-- Savannah, GA
 - Vancouver, BC
 
 Shenzhen or Hongkong - Europe
 
 - Rotterdam, Netherlands
 - Hamburg, Germany
-- Antwerp, Belgium
 - Le Havre, France
-- Barcelona, Spain
-
+ 
 Shenzhen or Hongkong - United Kingdom
 
 - Southampton
