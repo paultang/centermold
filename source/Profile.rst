@@ -10,7 +10,7 @@ Profile
    :align: right
    :width: 245px
 
-CenterMold: Your Partner in Precision Plastic Mold Manufacturing
+CenterMold: Your Partner in Plastic Mold Manufacturing
 
 Located in Shenzhen, Guangdong, the heart of China’s mold industry and conveniently near Hong Kong, CenterMold is a private company specializing in plastic mold manufacturing. Our strategic location provides excellent transportation benefits, ensuring timely delivery and efficient logistics.
 
