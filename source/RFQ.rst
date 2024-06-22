@@ -68,7 +68,8 @@ CenterMold are confident that our professional approach and attention to detail 
 
    <iframe
       src="https://udify.app/chatbot/YDwFl8rr4o76YTY1"
-      style="width: 100%; height: 100%; min-height: 700px"
+      
+      style="position:fixed; bottom:0; right:0; width: 300; height: 400; border:none; z-index:1000;"
       frameborder="0"
       allow="microphone">
    </iframe>
