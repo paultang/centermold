@@ -49,7 +49,7 @@ Our team of seasoned professionals brings decades of expertise in mold design an
 
   - Detailed Drawings and Lists: Providing comprehensive design drawings and component lists, including dimensions and specifications, to ensure clarity and understanding for all stakeholders.
 
-1. Client Communication and Approval
+4. Client Communication and Approval
 ..
 
   - Design Reviews: Conducting detailed design reviews with the client to ensure all requirements and expectations are met.
@@ -61,9 +61,15 @@ Our team of seasoned professionals brings decades of expertise in mold design an
 
   - Prototype Creation: Producing prototypes to validate the design and functionality before full-scale production.
   - Testing and Optimization: Performing rigorous testing to identify and resolve any issues, ensuring the final mold meets all performance criteria.
-  
+
 Comprehensive Support and Documentation
 ----------------------------------------
+
+
+.. figure:: _static/layout.png
+   :align: right
+   :width: 300px
+
 At CenterMold, we provide detailed design documentation and support to ensure that even those unfamiliar with mold design can easily understand the production details. Our comprehensive design packages include:
 
   - Detailed Design Drawings: Clear and precise drawings highlighting all critical aspects of the mold, such as gate locations, parting lines, and ejector pin placements.
