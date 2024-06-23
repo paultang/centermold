@@ -38,26 +38,3 @@ Shenzhen or Hongkong - United Kingdom
 - Liverpool
 
 Our strategic location and efficient logistics network enable us to offer competitive shipping rates and reliable delivery schedules, ensuring your molds and products arrive on time and within budget.
-
-.. raw:: html
-
-    <style>
-        .email-button {
-            display: inline-block;
-            padding: 15px 25px;
-            font-size: 24px;
-            font-weight: bold;
-            color: white;
-            background-color: #007BFF;
-            border: none;
-            border-radius: 5px;
-            text-align: center;
-            text-decoration: none;
-            cursor: pointer;
-        }
-        .email-button:hover {
-            background-color: #0056b3;
-        }
-    </style>
-    <a href="mailto:tony@centermold.com" class="email-button">Send Email</a>
-

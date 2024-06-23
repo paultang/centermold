@@ -32,22 +32,6 @@ From Shenzhen Bao'an International Airport:
 By Car: 
 Approximately 20 minutes
 
-.. raw:: html
-
-    <style>
-        .live-chat {
-            position: fixed;
-            right: 0;
-            top: 50%;
-            transform: translateY(-50%);
-            width: 400px;
-            height: 800px;
-            border: none;
-            z-index: 1000;
-        }
-    </style>
-    <iframe class="live-chat" src="https://udify.app/chatbot/YDwFl8rr4o76YTY1"></iframe>
-
 
 .. raw:: html
 
