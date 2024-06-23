@@ -11,7 +11,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
     const author = document.createElement('meta');
     author.name = 'author';
-    author.content = 'Center Mold';
+    author.content = 'CenterMold';
     document.getElementsByTagName('head')[0].appendChild(author);
 
     const robots = document.createElement('meta');
