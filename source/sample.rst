@@ -101,3 +101,8 @@ reStructuredText 示例
       frameborder="0"
       allow="microphone">
    </iframe>
+
+
+.. figure:: _static/layout.png
+   :align: right
+   :width: 300px

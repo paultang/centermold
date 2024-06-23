@@ -6,11 +6,15 @@
 Our Partners
 =======================
 
+.. figure:: _static/Three_plates.jpeg
+   :align: right
+   :width: 300px
+
 Our success is built not only on our expertise and dedication but also on the strong partnerships we have cultivated over the years. These partnerships ensure we can consistently deliver high-quality products and services. Our key partners include:
 
    Material Suppliers:
 
-    * Mold Steel Suppliers: We source our mold steel from reputable suppliers such as LKM, DME，ASSAB, and DAIDO. These suppliers are renowned for their high-quality materials, ensuring the durability and precision of our molds.
+    * Mold Steel Suppliers: We source our mold steel from reputable suppliers such as LKM, DME,ASSAB,. These suppliers are renowned for their high-quality materials, ensuring the durability and precision of our molds.
     * Plastic Resin Suppliers: Our plastic resins come from leading manufacturers like CHIMEI, DuPont, and BASF, providing a wide range of materials that meet the specific requirements of our clients' projects.
 
    Hot Runner Systems:
