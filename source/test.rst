@@ -3,16 +3,18 @@ Test
 
 .. raw:: html
 
-    <script>
-        window.difyChatbotConfig = {
-            token: 'YDwFl8rr4o76YTY1'
-        }
+   <script>
+ window.difyChatbotConfig = {
+  token: 'cCojG14fttEQHclh'
+ }
     </script>
-    <script
+        <script
         src="https://udify.app/embed.min.js"
-        id="YDwFl8rr4o76YTY1"
+        id="cCojG14fttEQHclh"
         defer>
     </script>
+
+
 
     <style>
         #dify-chat-widget {
