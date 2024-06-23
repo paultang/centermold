@@ -34,4 +34,21 @@ Approximately 20 minutes
 
 .. raw:: html
 
+    <style>
+        .live-chat {
+            position: fixed;
+            right: 0;
+            top: 50%;
+            transform: translateY(-50%);
+            width: 400px;
+            height: 800px;
+            border: none;
+            z-index: 1000;
+        }
+    </style>
+    <iframe class="live-chat" src="https://udify.app/chatbot/YDwFl8rr4o76YTY1"></iframe>
+
+
+.. raw:: html
+
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d409453.03124306316!2d113.6776177948536!3d22.600561858469085!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x340396bcb9f5422b%3A0xf056c04070f4587d!2sTantou%20West%20Industrial%20Park!5e0!3m2!1sen!2ssg!4v1718954985061!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe> 
