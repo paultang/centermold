@@ -39,6 +39,15 @@ We specialize in supporting new product development projects, which often requir
 
 Long-Term Partnerships
 -------------------------
+.. raw:: html
+
+    <div style="display: flex; justify-content: space-around;">
+        <img src="_static/cavity.png" alt="Image 1" style="width: 100px;"/>
+        <img src="_static/core.png" alt="Image 2" style="width: 100px;"/>
+        <img src="_static/slider.png" alt="Image 3" style="width: 100px;"/>
+    </div>
+
+
 Our long-standing relationships with mold and small injection molding companies in the UK and North America are a testament to our collaborative success. By working closely with our partners, we achieve the following:
 
 - Mutual Growth: We focus on building relationships that foster mutual growth and success.
