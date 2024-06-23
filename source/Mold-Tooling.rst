@@ -5,6 +5,10 @@
 =======================
 Mold Tooling
 =======================
+.. figure:: _static/MoldandHotrunner.jpg
+   :align: right
+   :width: 600px
+
 With over 30 years of expertise in mold design, tooling, and injection molding, CenterMold is dedicated to delivering top-tier molds through a comprehensive and precisely controlled manufacturing process. Our commitment to quality, precision, and customer satisfaction drives us to continuously refine our methods, ensuring we meet the diverse needs of our clients with exceptional efficiency and accuracy.
 
 Our Manufacturing Process
