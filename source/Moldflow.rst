@@ -7,6 +7,11 @@ Moldflow Analysis
 =======================
 At CenterMold, our extensive experience allows us to successfully manage the majority of projects with precision and expertise. For unique structures and specialized materials, we recommend conducting mold flow analysis to optimize mold design and production processes. This advanced analysis helps predict and prevent potential issues, ensuring the highest quality results for our clients.
 
+.. image:: _static/moldflow01.gif
+   :alt: This is an moldflow demo
+   :width: 300px
+   :align: right
+
 Core Analysis Areas
 ---------------------
 - Filling Patterns: Analyzing how molten plastic flows into the mold to identify potential problems like short shots or air traps.
