@@ -39,4 +39,3 @@ def setup(app):
 html_theme = 'sphinx_rtd_theme'
 html_static_path = ['_static']
 html_title = "CenterMold, a professtional Mold Tooling and Plastic Injection Molding Company"
-
