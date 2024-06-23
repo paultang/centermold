@@ -4,6 +4,10 @@ RFQ of CenterMold
 
 As a reputable and experienced company in the industry, CenterMold understand that providing an accurate and comprehensive quotation is essential to the success of your project. Our quotation process is thorough and detailed, ensuring that we meet your specific needs and deliver high-quality molds on time.
 
+.. figure:: _static/cavity.png
+   :align: right
+   :width: 300px
+
 Quotation Process Overview
 ===========================
 
