@@ -5,11 +5,11 @@
 =======================
 Our Facilities
 =======================
-.. figure:: _static/EDM.jpg
+.. image:: _static/EDM.jpg
    :align: right
-   :width: 450px
+   :width: 250px
 
-Work Areas and Operating Space: 3,000 square meters
+At Centermold, we pride ourselves on our state-of-the-art machining equipment and spacious, meticulously maintained facilities. Our advanced machinery ensures precision and efficiency in every mold we create, while our expansive 3,000 square meter, clean workspace promotes seamless operations and consistent quality. Whether it’s intricate mold manufacturing or precision injection molding, our facilities are designed to meet the highest standards and exceed your expectations.
 
 
 
