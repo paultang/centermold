@@ -9,28 +9,38 @@ Our Facilities
    :align: right
    :width: 450px
 
-Work Areas and Operating Space
-	•	3,000 square meters
-
-CNC Machining Centers: 1 unit
-	•	Capacity: Up to 0.002 mm tolerance
-
-Electrical Discharge Machines (EDM): 4 units
-
-Wire Cut EDM Machines: 1 unit
-	•	Capacity: Precision up to 0.1 mm
-
-Grinding Machines: 3 units
-	•	Capacity: Surface finish up to Ra 0.2
-
-Milling Machines: 4 units
-
-Injection Molding Machines: 10 units
-	•	Capacity: Clamping force range from 50 to 500 tons
+Work Areas and Operating Space: 3,000 square meters
 
 
-Coordinate Measuring Machines (CMM): 1 unit
-	•	Capacity: Precision measurement up to 0.002 mm
 
-Overhead Cranes
-	•	Capacity: Up to 10 tons
+.. list-table:: CenterMold Facilities
+   :widths: 30 20 50
+   :header-rows: 1
+
+   * - Name
+     - Amount
+     - Description
+   * - CNC Machine
+     - 4
+     - Up to 0.002 mm tolerance.
+   * - EDM
+     - 6
+     - 
+   * - Wire Cut EDM
+     - A much longer item that spans two lines
+     - Precision up to 0.1 mm
+   * - Grinding Machines
+     - 3
+     - Surface finish up to Ra 0.2
+   * - Milling Machines
+     - 3
+     - 
+   * - Injection Molding Machines
+     - 10
+     - 50-500  tons
+   * - CMM
+     - 1
+     - Precision measurement up to 0.002 mm
+   * - Overhead Cranes
+     - 
+     - Up to 10 tons
