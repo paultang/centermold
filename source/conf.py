@@ -21,6 +21,7 @@ extensions = [
 
 ]
 
+html_baseurl = 'https://centermold.readthedocs.io/'  # Replace with your Read the Docs URL
 
 # templates_path = ['_templates']
 exclude_patterns = []
