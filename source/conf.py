@@ -23,6 +23,8 @@ extensions = [
 
 html_baseurl = 'https://centermold.readthedocs.io//en/latest/'  # Replace with your Read the Docs URL
 
+sitemap_url_scheme = "{link}"
+
 # templates_path = ['_templates']
 exclude_patterns = []
 
