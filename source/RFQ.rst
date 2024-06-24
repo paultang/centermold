@@ -67,3 +67,28 @@ Why Choose Us?
 - Timely Delivery: We adhere to agreed timelines, ensuring your project stays on schedule.
 
 CenterMold are confident that our professional approach and attention to detail will provide you with a mold that meets your exact specifications and contributes to the success of your project. We look forward to the opportunity to work with you.
+
+.. raw:: html
+
+    <style>
+    .email-button {
+        display: inline-block;
+        padding: 10px 20px;
+        font-size: 16px;
+        color: #fff;
+        background-color: #007bff;
+        text-align: center;
+        text-decoration: none;
+        border-radius: 5px;
+        transition: background-color 0.3s;
+        position: fixed;
+        right: 20px;
+        top: 50%;
+        transform: translateY(-50%);
+    }
+    .email-button:hover {
+        background-color: #0056b3;
+    }
+    </style>
+
+    <a href="mailto:info@centermold.com" class="email-button">Send Email</a>
