@@ -2,6 +2,10 @@
    sphinx-quickstart on Sat Jun 15 15:24:46 2024.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
+
+
+.. _mold-design section:
+
 =======================
 Mold Design
 =======================

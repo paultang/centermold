@@ -29,7 +29,7 @@ reStructuredText 示例
 
 链接
 ====
-参考 `其他部分 <#列表>`_ 的内容。
+参考 `其他部分 <#Medical>`_ 的内容。
 
 访问 `Python 官方网站 <https://www.python.org/>`_ 了解更多。
 

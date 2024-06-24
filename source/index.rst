@@ -75,10 +75,29 @@ Understanding our clients' needs is paramount. Every year, I travel to North Ame
 
 To our loyal customers, thank you for your unwavering support and trust. Your feedback and partnership have been instrumental in our growth and success. To potential clients, we look forward to the opportunity to work with you and demonstrate the CenterMold commitment to excellence.
 
-Together, let's build the future of mold design and injection molding.
+Together, let's build the future of :ref:`mold-design section` mold design and injection molding.
 
 Warm regards,
 
 | Tony Tang
 | Founder and General Manager  \  
 | CenterMold
+
+.. raw:: html
+
+    <meta name="description" content="Centermold provides advanced machining equipment and spacious, clean workspaces for exceptional mold manufacturing and injection molding.">
+    <meta name="keywords" content="Centermold, mold manufacturing, injection molding, advanced machining, clean workspace">
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Organization",
+      "name": "Centermold,",
+      "url": "https://www.centermold.com",
+      "description": "Professtional mold maker and plastic injection molding provider",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "email": "info@centermold.com",
+        "contactType": "Customer Service"
+      }
+    }
+    </script>
