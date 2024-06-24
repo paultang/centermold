@@ -14,7 +14,7 @@ At Centermold, we pride ourselves on our state-of-the-art machining equipment an
 
 
 .. list-table:: CenterMold Facilities
-   :widths: 30 20 50
+   :widths: 30 10 50
    :header-rows: 1
 
    * - Name
@@ -27,7 +27,7 @@ At Centermold, we pride ourselves on our state-of-the-art machining equipment an
      - 6
      - 
    * - Wire Cut EDM
-     - A much longer item that spans two lines
+     - 1
      - Precision up to 0.1 mm
    * - Grinding Machines
      - 3
