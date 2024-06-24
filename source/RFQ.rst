@@ -91,4 +91,4 @@ CenterMold are confident that our professional approach and attention to detail 
     }
     </style>
 
-    <a href="mailto:info@centermold.com" class="email-button">Send Email</a>
+    <a href="mailto:info@centermold.com" class="email-button">RFQ EMail</a>
