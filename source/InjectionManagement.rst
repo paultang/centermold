@@ -1,3 +1,5 @@
+.. _Injection-management:
+
 ====================================
 Injection Molding Quality Assurance
 ====================================
