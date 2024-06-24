@@ -80,10 +80,13 @@ CenterMold are confident that our professional approach and attention to detail 
         right: 20px;
         top: 50%;
         transform: translateY(-50%);
+        width: 150px;  /* 设置按钮的宽度 */
+        height: 60px;  /* 设置按钮的高度 */
+        line-height: 60px;  /* 使文字在按钮内部垂直居中 */
     }
     .email-button:hover {
         background-color: #0056b3;
     }
     </style>
 
-    <a href="mailto:info@centermold.com" class="email-button">RFQ EMail</a>
+    <a href="mailto:info@centermold.com" class="email-button">RFQ for Mail</a>
