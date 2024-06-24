@@ -75,7 +75,7 @@ Understanding our clients' needs is paramount. Every year, I travel to North Ame
 
 To our loyal customers, thank you for your unwavering support and trust. Your feedback and partnership have been instrumental in our growth and success. To potential clients, we look forward to the opportunity to work with you and demonstrate the CenterMold commitment to excellence.
 
-Together, let's build the future of :ref:`mold-design section` and :ref:`Injection-molding section` plastic injection molding.
+Together, let's build the future of :ref:`mold-design section` and :ref:`Injection-molding` plastic injection molding.
 
 Warm regards,
 
