@@ -80,7 +80,5 @@ Together, let's build the future of mold design and injection molding.
 Warm regards,
 
 Tony Tang
-
 Founder and General Manager
-
 CenterMold
