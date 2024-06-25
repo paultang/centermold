@@ -1,32 +1,15 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <!-- 原有head内容 -->
-    {{ metatags }}
-    <meta name="description" content="Center Mold is a professional manufacturer of precision plastic molds offering comprehensive services including mold design, customization, injection molding, CNC parts processing, and assembly. Established in 2006, we are committed to providing high-quality and reliable mold solutions.">">
-    <meta name="keywords" content="mold design, mold tooling, plastic injection molding, CNC machining">
-    <meta name="author" content="bill tang">
-    <meta name="robots" content="index, follow">
-    <link rel="canonical" href="{{ pathto('', 1) }}">
-</head>
-<body>
-     <!-- Global site tag (gtag.js) - Google Analytics  {{ body }} -->
-    {% extends "!layout.html" %}
 
-    {% block extrahead %}
-      {{ super() }}
-      <!-- Global site tag (gtag.js) - Google Analytics -->
-      <script async src="https://www.googletagmanager.com/gtag/js?id={{ pathto(context['ga_tracking_id']) }}"></script>
-      <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
-    
-        gtag('config', '{{ context['ga_tracking_id'] }}');
-      </script>
-    {% endblock %}
+{% extends "!layout.html" %}
 
-</body>
-</html>
+{% block extrahead %}
+  {{ super() }}
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id={{ pathto(context['ga_tracking_id']) }}"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
 
-
+    gtag('config', '{{ context['ga_tracking_id'] }}');
+  </script>
+{% endblock %}
