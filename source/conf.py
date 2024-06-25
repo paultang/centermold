@@ -25,6 +25,8 @@ html_baseurl = 'https://www.centermold.com//en/latest/'  # Replace with your Rea
 
 sitemap_url_scheme = "{link}"
 
+templates_path = ['_templates']
+
 # templates_path = ['_templates']
 exclude_patterns = []
 
@@ -47,3 +49,4 @@ html_title = "CenterMold, a professtional Mold Tooling and Plastic Injection Mol
 html_context = {
     'ga_tracking_id': 'G-LJ9L3WNCW5',  # Replace with your tracking ID
 }
+
