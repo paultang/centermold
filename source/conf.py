@@ -47,21 +47,3 @@ html_title = "CenterMold, a professtional Mold Tooling and Plastic Injection Mol
 html_context = {
     'ga_tracking_id': 'G-LJ9L3WNCW5',  # Replace with your tracking ID
 }
-
-
-"""
-{% extends "!layout.html" %}
-
-{% block extrahead %}
-  {{ super() }}
-  <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-LJ9L3WNCW5"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-LJ9L3WNCW5');
-</script>
-{% endblock %}
-"""
