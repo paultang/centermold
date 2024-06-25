@@ -44,13 +44,6 @@ Welcome to CenterMold!
    Moldflow
    Project-Process-Management
 
-.. toctree::
-   :maxdepth: 2
-   :hidden:
-   :caption: Case Studies
-   
-   Case-Study
-
 
 
 
