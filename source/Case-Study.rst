@@ -29,9 +29,3 @@ Features
 
 Here are some key features of your project.
 
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-
-.. :hidden:
