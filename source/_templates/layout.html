@@ -1,8 +1,7 @@
+{% extends "!layout.html" %}
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-
+{% block extrahead %}
+  {{ super() }}
  <!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
   new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -27,5 +26,5 @@
   <!-- End Google Tag Manager (noscript) -->
 
   {{ body }}
-</body>
-</html>
+
+  {% endblock %}
