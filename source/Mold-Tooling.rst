@@ -56,18 +56,13 @@ Our Manufacturing Process
   - Final Machining: Performing any necessary final machining operations to ensure all parts fit together seamlessly.
   - Dimensional Verification: Conducting dimensional inspections to verify all components meet design requirements.
 
-8. Quality Control and Inspection
-
-  - In-Process Inspections: Conducting inspections at various stages of the manufacturing process.
-  - Final Inspection: Performing comprehensive final inspections to verify that the completed mold meets all design and quality standards.
-
-9. Testing and Validation
+8. Testing and Validation
 
   - Trial Runs: Conducting trial runs to test the mold.
   - Performance Evaluation: Assessing mold performance, identifying any issues, and making necessary adjustments.
   - Client Approval: Securing final client approval.
 
-10. Packaging and Delivery
+9. Packaging and Delivery
 
   - Protective Packaging: Ensuring molds are securely packaged to prevent damage during transportation.
   - Logistics Coordination: Coordinating with logistics partners to ensure timely and safe delivery to clients.
