@@ -13,6 +13,11 @@ Ensure high-quality injection molded products through meticulous material select
 
 Our Injection Molding Process
 ------------------------------
+
+.. figure:: _static/injection-molding.jpg
+   :align: right
+   :width: 300px
+
 1. Material Selection and Procurement
 
     * Resin Selection: Working with clients to select the appropriate resin based on the part’s functional requirements and application.
@@ -53,7 +58,3 @@ Our Injection Molding Process
     * Protective Packaging: Ensuring molded parts are securely packaged to prevent damage during transportation.
     * Custom Packaging Solutions: Providing packaging solutions tailored to the specific requirements of the parts, including anti-static bags, custom boxes, and protective wraps.
     * Logistics Coordination: Coordinating with trusted logistics partners to ensure timely and safe delivery to the client’s location.
-
-.. figure:: _static/injection-molding.jpg
-   :align: right
-   :width: 300px
