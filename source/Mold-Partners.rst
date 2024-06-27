@@ -33,7 +33,7 @@ Why choose us?
 - Competitive Pricing
 - Efficient Production: Leverage our efficient production processes to reduce lead times and overall project costs.
 
-Supporting New Product Development
+New Product Development Supporting
 -----------------------------------
 We specialize in supporting new product development projects, which often require frequent adjustments and refinements. Our flexible approach and dedication to continuous improvement make us an ideal partner for companies looking to innovate and adapt quickly.
 
@@ -51,13 +51,7 @@ Long-Term Partnerships
     </div>
 
 
-Our long-standing relationships with mold factories in the UK and North America are a testament to our collaborative success. By working closely with our partners, we achieve the following:
-
-- Mutual Growth
-- Shared Knowledge
-- Trust and Reliability: Consistency and reliability are the cornerstones of our collaborations, ensuring trust and confidence in our services.
-
-At CenterMold, we are committed to creating successful, long-term partnerships with companies worldwide. Our expertise, flexibility, and dedication to quality make us the ideal choice for your mold manufacturing business. 
+Our long-standing relationships with mold factories in the UK and North America are a testament to our collaborative success. By working closely with our partners, we achieve Mutual Growth and Trust.
 
 Contact us to learn more about how we can collaborate for mutual success.
 
