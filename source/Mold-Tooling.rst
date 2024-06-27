@@ -15,7 +15,7 @@ CenterMold is dedicated to delivering top-tier molds through a comprehensive and
 
 Our Manufacturing Process
 
-.. figure:: _static/Mold-Tooling.jpg
+.. figure:: _static/Mold Tooling.jpg
    :align: right
    :width: 300px
 
