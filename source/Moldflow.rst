@@ -14,6 +14,10 @@ At CenterMold, our extensive experience allows us to successfully manage the maj
    :width: 300px
    :align: right
 
+Mold Flow Analysis Software
+----------------------------
+We utilize industry-leading software, MoldFlow, to deliver precise and reliable insights. that allow us to simulate the injection molding process and make informed decisions to enhance mold design and part quality.
+
 Core Analysis Areas
 ---------------------
 - Filling Patterns: Analyzing how molten plastic flows into the mold to identify potential problems like short shots or air traps.
@@ -22,9 +26,3 @@ Core Analysis Areas
 - Weld Lines: Identifying and minimizing weld lines that could weaken the part structure.
 - Shrinkage and Warpage: Predicting areas of shrinkage and warpage to adjust design and processing parameters for accurate parts.
 - Fiber Orientation: Analyzing fiber orientation in fiber-reinforced materials to optimize part strength and performance.
-
-Mold Flow Analysis Software
-----------------------------
-We utilize industry-leading software, MoldFlow, to deliver precise and reliable insights, 
-
-These tools allow us to simulate the injection molding process and make informed decisions to enhance mold design and part quality.
