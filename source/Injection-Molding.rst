@@ -54,6 +54,6 @@ Our Injection Molding Process
     * Custom Packaging Solutions: Providing packaging solutions tailored to the specific requirements of the parts, including anti-static bags, custom boxes, and protective wraps.
     * Logistics Coordination: Coordinating with trusted logistics partners to ensure timely and safe delivery to the client’s location.
 
-.. figure:: _static/Injection-molding.jpg
+.. figure:: _static/injection-molding.jpg
    :align: right
    :width: 300px
