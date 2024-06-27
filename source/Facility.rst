@@ -36,7 +36,7 @@ At Centermold, we pride ourselves on our state-of-the-art machining equipment an
      - Surface finish up to Ra 0.2
    * - Milling Machines
      - 3
-  
+     -  
    * - Injection Molding Machines
      - 10
      - 50-500  tons
