@@ -24,7 +24,6 @@ Our Injection Molding Process
     * Mold Installation: Carefully installing the mold into the injection molding machine, ensuring all components are properly aligned.
     * Machine Calibration: Calibrating the injection molding machine settings to match the specific requirements of the mold and material.
     * Hot Runner Systems: For molds with hot runner systems, ensuring that the temperature settings are optimized for efficient material flow and minimal waste.
-    * Injection Molding Machine Range: Utilizing our extensive range of injection molding machines from 50 to 500 tons to accommodate various part sizes and complexities.
 
 3. Injection Molding Process Preparation
 
@@ -55,3 +54,6 @@ Our Injection Molding Process
     * Custom Packaging Solutions: Providing packaging solutions tailored to the specific requirements of the parts, including anti-static bags, custom boxes, and protective wraps.
     * Logistics Coordination: Coordinating with trusted logistics partners to ensure timely and safe delivery to the client’s location.
 
+.. figure:: _static/Injection-molding.jpg
+   :align: right
+   :width: 300px
