@@ -16,7 +16,7 @@ At CenterMold, we offer a comprehensive range of post-injection molding services
 - Color Matching
 - Assembly and Sub-Assembly: Integration of multiple components into finished assemblies to streamline production and reduce costs.
 
-At CenterMold, exceeding customer expectations through versatile and high-quality post-molding services is our commitment. Contact us today to discover how we can support your project with our expertise and capabilities.
+Contact us today to discover how we can support your project with our expertise and capabilities.
 
 
 
