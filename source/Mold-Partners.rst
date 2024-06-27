@@ -28,11 +28,6 @@ Why choose us?
 - Timely Communication
 - Iterative Development: We support iterative design processes, accommodating modifications and refinements to meet evolving project needs.
 
-4. Cost-Effective Solutions
-
-- Competitive Pricing
-- Efficient Production: Leverage our efficient production processes to reduce lead times and overall project costs.
-
 New Product Development Supporting
 -----------------------------------
 We specialize in supporting new product development projects, which often require frequent adjustments and refinements. Our flexible approach and dedication to continuous improvement make us an ideal partner for companies looking to innovate and adapt quickly.
