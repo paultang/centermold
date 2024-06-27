@@ -25,9 +25,6 @@ Core Analysis Areas
 
 Mold Flow Analysis Software
 ----------------------------
-We utilize industry-leading mold flow analysis software to deliver precise and reliable insights, including:
-
-- Moldflow
-- Moldex3D
+We utilize industry-leading software, MoldFlow, to deliver precise and reliable insights, 
 
 These tools allow us to simulate the injection molding process and make informed decisions to enhance mold design and part quality.
