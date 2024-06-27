@@ -41,7 +41,3 @@ Shenzhen or Hongkong - United Kingdom
 
 Our location and efficient logistics enable us to offer reliable delivery schedules, ensuring your molds and products arrive on time and within budget.
 
-
-.. figure:: _static/injection-molding.jpg
-   :align: right
-   :width: 300px
