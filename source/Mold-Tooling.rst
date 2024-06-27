@@ -14,6 +14,7 @@ Mold Tooling
 CenterMold is dedicated to delivering top-tier molds through a comprehensive and precisely controlled manufacturing process. Our commitment to quality and precision drives us to continuously refine our methods, ensuring we meet the diverse needs of our clients.
 
 Our Manufacturing Process
+
 .. figure:: _static/Mold-Tooling.jpg
    :align: right
    :width: 300px
