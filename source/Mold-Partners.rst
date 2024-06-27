@@ -6,7 +6,7 @@
 .. _Mold-partner:
 
 ==================================
-Mold Manufacturing Partner
+Manufacturing Partner
 ==================================
 
 At CenterMold, we pride ourselves on being a trusted partner for overseas companies, particularly those in the UK and North America. we are well-versed in European and North American standards, providing unparalleled service and support to our international partners.
