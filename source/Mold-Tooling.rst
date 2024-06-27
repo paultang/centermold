@@ -15,6 +15,7 @@ CenterMold is dedicated to delivering top-tier molds through a comprehensive and
 
 Our Manufacturing Process
 --------------------------
+
 1. Material Procurement
 
   - Mold Base Selection: Choosing the appropriate mold base according to the design requirements and specifications.
