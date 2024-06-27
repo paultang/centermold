@@ -12,15 +12,15 @@ Profile
    :align: right
    :width: 245px
 
-CenterMold: Your Partner in Plastic Mold Manufacturing
-
-Located in Shenzhen,China, the heart of China’s mold industry, CenterMold is a private company specializing in plastic mold manufacturing. 
+Your Partner in Plastic Mold Manufacturing
+-------------------------------------------
+Located in Shenzhen,the heart of China’s mold industry, CenterMold is a private company specializing in plastic mold manufacturing. 
 
 Established in 2003, CenterMold has grown into a medium-scale mold factory, boasting a 3,000 square meter facility and a dedicated team of 30 skilled employees. Our state-of-the-art manufacturing equipment, including CNC machines, EDM, and wire-cutting, allows us to produce up to 20 large to medium-sized molds per month.
 
 Location and Shipping Advantages
 -------------------------------------------
-Our proximity to major ports in Shenzhen and Hong Kong offers significant advantages for international shipping. We have access to numerous direct sea routes, ensuring fast and cost-effective delivery to major ports around the world.
+Our proximity to major ports in Shenzhen offers significant advantages for international shipping. We have access to numerous direct sea routes, ensuring fast and cost-effective delivery to major ports around the world.
 
 Shenzhen or Hongkong - North America
 
@@ -39,4 +39,4 @@ Shenzhen or Hongkong - United Kingdom
 - Southampton
 - Liverpool
 
-Our location and efficient logistics enable us to offer competitive shipping rates and reliable delivery schedules, ensuring your molds and products arrive on time and within budget.
+Our location and efficient logistics enable us to offer reliable delivery schedules, ensuring your molds and products arrive on time and within budget.
