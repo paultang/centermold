@@ -55,6 +55,11 @@ Our team of seasoned professionals brings decades of expertise in mold design an
   - Feedback and Iteration: Incorporating client feedback and making necessary adjustments.
   - Final Approval: Securing client approval on the final design before proceeding to manufacturing.
 
+Mold flow
+-----------
+At CenterMold, our extensive experience allows us to successfully manage the majority of projects with precision and expertise. For unique structures and specialized materials, we recommend conducting mold flow analysis to optimize mold design and production processes. This advanced analysis helps predict and prevent potential issues, ensuring the highest quality results for our clients.
+ :ref:`Mold-flow`
+
 
 Comprehensive Support
 ----------------------------------------
@@ -70,6 +75,3 @@ At CenterMold, we provide detailed design documentation to ensure that even thos
 ..
   
   - Component Lists: Comprehensive lists of all mold components, including dimensions and specifications, ensuring complete transparency.
-
-
- :ref:`Mold-flow`
