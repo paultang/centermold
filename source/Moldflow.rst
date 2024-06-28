@@ -14,7 +14,7 @@ At CenterMold, our extensive experience allows us to successfully manage the maj
    :width: 300px
    :align: right
 
-Mold Flow Analysis Software
+Analysis Software
 ----------------------------
 We utilize industry-leading software, MoldFlow, to deliver precise and reliable insights. that allow us to simulate the injection molding process and make informed decisions to enhance mold design and part quality.
 
