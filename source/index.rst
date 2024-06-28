@@ -11,7 +11,7 @@ Welcome to CenterMold!
    :hidden:
    :caption: Services
    
-   Index
+   index
    Mold-Design
    Mold-Tooling
    Injection-Molding
