@@ -9,8 +9,6 @@ Project Management
 =======================
 At CenterMold, we ensure that every step of the mold project is planned and executed to guarantee success. From creating detailed timelines and adhering to schedules to maintaining communication with clients, our goal is to deliver outstanding quality and ensure the success of every project. 
 
-Key Aspects of Our Project Management
-
 1. Initial Planning
 
     * Understanding the client’s needs, specifications.
@@ -23,21 +21,21 @@ Key Aspects of Our Project Management
     
 3. Design and Engineering
 
-    * CAD Modeling: Creating detailed 3D models using software like UG and SolidWorks.
-    * Design for Manufacturability (DFM): Conducting DFM analysis to ensure the design is optimized for production.
+    * Design for Manufacturability
+    * Modeling: Creating detailed 3D models using software like UG and SolidWorks.
     * Client Approval: Reviewing designs with the client.
 
 4. Mold Fabrication
 
-    * Material Procurement: Sourcing high-quality mold base, core and cavity steel, and mold components.
-    * Machining: Performing CNC machining, EDM, grinding, and other fabrication processes.
+    * Material Procurement
+    * Machining
     * Heat Treatment: Applying heat treatment to enhance material properties and durability.
     * Fitting and Assembly: Assembling the mold components and ensuring precise alignment and fit.
 
 5. Quality Control and Testing
 
-    * Dimensional Inspection: Using precision tools to verify dimensions.
-    * Functional Testing: Conducting tests to ensure the mold operates correctly and produces parts to specification.
+    * Dimensional Inspection
+    * Functional Testing
     * Sample Production: Producing sample parts for client approval.
 
 6. Project Monitoring and Control
@@ -48,9 +46,8 @@ Key Aspects of Our Project Management
 
 7. Delivery and Support
 
-    * Final Inspection: Performing a final inspection to ensure all requirements are met.
-    * Documentation: Providing comprehensive documentation, including design files, inspection reports.
-    * Logistics Coordination: Coordinating with logistics partners for safe and timely delivery.
+    * Final Inspection
+    * Logistics Coordination
     * After-Sales Support: Offering ongoing support and maintenance services as needed.
 
 

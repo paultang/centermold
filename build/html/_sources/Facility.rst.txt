@@ -11,7 +11,7 @@ Our Facilities
    :align: right
    :width: 250px
 
-At Centermold, we pride ourselves on our state-of-the-art machining equipment and spacious, meticulously maintained facilities. Our advanced machinery ensures precision and efficiency in every mold we create, while our expansive 3,000 square meter, clean workspace promotes seamless operations and consistent quality. Whether it’s intricate mold manufacturing or precision injection molding, our facilities are designed to meet the highest standards and exceed your expectations.
+At Centermold, we pride ourselves on our state-of-the-art machining equipment and spacious, meticulously maintained facilities. Our advanced machinery ensures precision and efficiency in every mold we create. Whether it’s intricate mold manufacturing or precision injection molding.
 
 
 
@@ -36,13 +36,11 @@ At Centermold, we pride ourselves on our state-of-the-art machining equipment an
      - Surface finish up to Ra 0.2
    * - Milling Machines
      - 3
-     - 
+     -  
    * - Injection Molding Machines
      - 10
      - 50-500  tons
    * - CMM
      - 1
      - Precision measurement up to 0.002 mm
-   * - Overhead Cranes
-     - 
-     - Up to 10 tons
+

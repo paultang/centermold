@@ -11,8 +11,14 @@ Plastic Injection Molding
 ==========================
 Ensure high-quality injection molded products through meticulous material selection, precise machine parameter settings, controlled molding processes, rigorous quality inspections, and efficient automation, all implemented according to CenterMold's rigorous standards.
 
+.. figure:: _static/molding.jpg
+   :align: right
+   :width: 300px
+
 Our Injection Molding Process
 ------------------------------
+
+
 1. Material Selection and Procurement
 
     * Resin Selection: Working with clients to select the appropriate resin based on the part’s functional requirements and application.
@@ -24,7 +30,6 @@ Our Injection Molding Process
     * Mold Installation: Carefully installing the mold into the injection molding machine, ensuring all components are properly aligned.
     * Machine Calibration: Calibrating the injection molding machine settings to match the specific requirements of the mold and material.
     * Hot Runner Systems: For molds with hot runner systems, ensuring that the temperature settings are optimized for efficient material flow and minimal waste.
-    * Injection Molding Machine Range: Utilizing our extensive range of injection molding machines from 50 to 500 tons to accommodate various part sizes and complexities.
 
 3. Injection Molding Process Preparation
 
@@ -54,4 +59,3 @@ Our Injection Molding Process
     * Protective Packaging: Ensuring molded parts are securely packaged to prevent damage during transportation.
     * Custom Packaging Solutions: Providing packaging solutions tailored to the specific requirements of the parts, including anti-static bags, custom boxes, and protective wraps.
     * Logistics Coordination: Coordinating with trusted logistics partners to ensure timely and safe delivery to the client’s location.
-

@@ -9,20 +9,8 @@ Welcome to CenterMold!
 .. toctree::
    :maxdepth: 2
    :hidden:
-   :caption: About Us
-   
-   Profile
-   Facility
-   Partners
-   Contact-Us
-
-
-.. toctree::
-   :maxdepth: 2
-   :hidden:
    :caption: Services
    
-   RFQ
    Mold-Design
    Mold-Tooling
    Injection-Molding
@@ -41,17 +29,16 @@ Welcome to CenterMold!
    :hidden:
    :caption: Project Management
    
-   Moldflow
    Project-Process-Management
 
 .. toctree::
    :maxdepth: 2
    :hidden:
-   :caption: Case Studies
+   :caption: About Us
    
-   Case-Study
-
-
+   Profile
+   Facility
+   Contact-Us
 
 
 

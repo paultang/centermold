@@ -8,20 +8,8 @@ Welcome to our sitemap. Here is an overview of all the sections and pages in our
 .. toctree::
    :maxdepth: 2
    :hidden:
-   :caption: About Us
-   
-   Profile
-   Facility
-   Partners
-   Contact-Us
-
-
-.. toctree::
-   :maxdepth: 2
-   :hidden:
    :caption: Services
    
-   RFQ
    Mold-Design
    Mold-Tooling
    Injection-Molding
@@ -39,12 +27,14 @@ Welcome to our sitemap. Here is an overview of all the sections and pages in our
    :maxdepth: 2
    :hidden:
    :caption: Project Management
-   
-   Moldflow
+
    Project-Process-Management
 
 .. toctree::
    :maxdepth: 2
    :hidden:
-   :caption: Case Studies
-
+   :caption: About Us
+   
+   Profile
+   Facility
+   Contact-Us
