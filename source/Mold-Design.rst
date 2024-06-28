@@ -72,4 +72,4 @@ At CenterMold, we provide detailed design documentation to ensure that even thos
   - Component Lists: Comprehensive lists of all mold components, including dimensions and specifications, ensuring complete transparency.
 
 
- :ref:`Moldflow Analys1is <Moldflow Analysis>`
+ :ref:`Moldflow Analysis <Moldflow Analysis>`
