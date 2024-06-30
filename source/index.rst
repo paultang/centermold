@@ -13,7 +13,7 @@ Welcome to CenterMold!
    :hidden:
    :caption: Services
    
-   index
+   Home
    Mold-Design
    Mold-Tooling
    Injection-Molding
