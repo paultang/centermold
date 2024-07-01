@@ -32,3 +32,6 @@ Chat With Us
             z-index: 1000;
         }
     </style>
+
+.. raw:: html
+  <iframe src="https://widget.taggbox.com/157869" style="width:100%;height:600px;border:none;"></iframe>
