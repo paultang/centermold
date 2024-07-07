@@ -54,11 +54,19 @@ Our Manufacturing Process
   - Tempering
   - Hardness Testing: Performing hardness tests to ensure the treated components meet the required specifications.
 
-7. Fitting and Assembly
+7. Fitting and Assemble
 
   - Component Fitting: Assembling mold components and ensuring proper fit and function.
   - Final Machining: Performing any necessary final machining operations to ensure all parts fit together seamlessly.
   - Dimensional Verification: Conducting dimensional inspections to verify all components meet design requirements.
+
+.. raw:: html
+
+    <video width="560" controls autoplay muted>
+      <source src="_static/centermold workshop.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+
 
 8. Testing and Validation
 
