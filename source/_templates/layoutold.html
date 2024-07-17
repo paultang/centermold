@@ -1,7 +1,16 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<!-- Google Tag Manager -->
+{% extends "!layout.html" %}
+
+{% block extrahead %}
+  {{ super() }}
+
+  <!-- Title -->
+  <title>{{ project }} - {{ theme_docname | escape }}</title>
+
+  <!-- Meta tags for SEO -->
+  <meta name="description" content="CenterMold, a professional mold maker">
+  <meta name="keywords" content="Custom Mould, Custom Mold Maker, Injection Molding">
+
+  <!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
   new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
   j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
@@ -10,18 +19,9 @@
   <!-- End Google Tag Manager -->
 
 
-    {% block head %}
-    ...
-    {% endblock %}
-</head>
-<body>
   <!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TQ77NZJ"
   height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-  <!-- End Google Tag Manager (noscript) -->  
+  <!-- End Google Tag Manager (noscript) -->
 
-    {% block body %}
-    ...
-    {% endblock %}
-</body>
-</html>
+  {% endblock %}
