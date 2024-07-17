@@ -1,5 +1,7 @@
 {% extends "!layout.html" %}
 
+{% block extrahead %}
+  {{ super() }}
 
   <!-- Title -->
   <title>{{ project }} - {{ theme_docname | escape }}</title>
