@@ -42,7 +42,7 @@ def setup(app):
 
 
 # html_theme = 'alabaster'
-# html_theme = 'sphinx_rtd_theme'
+html_theme = 'sphinx_rtd_theme'
 html_static_path = ['_static']
 html_title = "CenterMold, Professtional Mold Tooling and Plastic Injection Molding Provider"
 html_context = {
