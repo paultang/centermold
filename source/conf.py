@@ -48,3 +48,4 @@ html_title = "CenterMold, Professtional Mold Tooling and Plastic Injection Moldi
 html_context = {
     'ga_tracking_id': 'G-LJ9L3WNCW5',  # Replace with your tracking ID
 }
+html_favicon = '_static/favicon.ico'  # 修改成你的图标文件路径
