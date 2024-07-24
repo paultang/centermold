@@ -70,15 +70,16 @@ Together, let's build the future of :ref:`mold-design section` and :ref:`Injecti
 
 Warm regards,
 
-| Tony Tang
-| Founder and General Manager  \  
-| CenterMold
-
+| Tony Tang 
 .. raw:: html
 
     <a href="https://www.linkedin.com/in/billtang72/" target="_blank">
         <img src="_static/LI-Logo.png" alt="LinkedIn" style="width: 100px; height: auto;"/>
     </a>
+
+| Founder and General Manager  \  
+| CenterMold
+
 
 .. raw:: html
 
