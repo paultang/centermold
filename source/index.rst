@@ -51,11 +51,15 @@ Welcome to CenterMold!
 
 With over 30 years of experience in mold design, tooling, and injection molding, it has been my honor to lead CenterMold in our mission to deliver custom molds and small-batch plastic parts to international clients. 
 
-.. figure:: _static/factory1.jpg
-   :align: right
-   :width: 450px
 
 At CenterMold, we take pride in serving a diverse clientele that spans North America and Europe. Our customers include industry giants like Agilent, innovative high-tech companies in Southern California, and renowned equipment manufacturers in Germany. We also collaborate with numerous small and medium-sized mold and injection molding factories to provide exceptional service to clients in North America, Europe, and the UK.
+
+.. raw:: html
+
+    <video width="560" controls autoplay muted>
+      <source src="_static/indexofCenterMold.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
 
 CenterMold not only produce molds that meet export standards but also offer flexible small-batch production to meet our clients' unique needs. Each mold crafted by CenterMold is backed by our lifetime maintenance service.
 
