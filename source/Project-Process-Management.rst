@@ -53,4 +53,4 @@ At CenterMold, we ensure that every step of the mold project is planned and exec
 
 .. raw:: html
 
-    <iframe src="https://trello.com/b/gFxcTwyo.html" width="1200px" height="auto" frameborder="0"></iframe>
+    <iframe src="https://trello.com/b/gFxcTwyo.html" width="800" height="auto" frameborder="0"></iframe>
