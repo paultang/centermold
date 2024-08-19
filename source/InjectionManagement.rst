@@ -64,3 +64,7 @@ By optimizing and strictly implementing these detailed and professional quality 
 - Professional After-Sales Service: We provide comprehensive after-sales service and technical support to ensure your satisfaction.
 
 CenterMold are committed to establishing long-term partnerships with our customers by providing products and services that exceed expectations. By choosing us, you will receive the most reliable plastic injection molding solutions.
+
+.. raw:: html
+
+    <iframe src="https://trello.com/b/gFxcTwyo" width="1280" height="960" frameborder="0"></iframe>
