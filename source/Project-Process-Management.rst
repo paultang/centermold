@@ -57,7 +57,8 @@ At CenterMold, we ensure that every step of the mold project is planned and exec
    :width: 800px
    :align: center
 
-\n\n
+
+
 
 Management Template
 --------------------
