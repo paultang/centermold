@@ -58,3 +58,9 @@ At CenterMold, we ensure that every step of the mold project is planned and exec
 
 
 resouces :doc:`Resources` 
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Contents:
+
+   Resources
