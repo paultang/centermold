@@ -51,9 +51,9 @@ At CenterMold, we ensure that every step of the mold project is planned and exec
     * After-Sales Support: Offering ongoing support and maintenance services as needed.
 
 
-.. raw:: html
+.. image:: _static/mold_management_template_centermold.jpg
+   :alt: Mold management trello template of centermold
+   :width: 800px
+   :align: center
 
-    <iframe src="https://trello.com/b/gFxcTwyo.html" width="800" height="600" frameborder="0"></iframe>
-
-
-visit more :ref:`resources`
+visit more :ref:`Resources`
