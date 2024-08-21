@@ -48,7 +48,7 @@ Welcome to CenterMold!
    :hidden:
    :caption: Resources
 
-   Resources
+   resources
 
 
 
