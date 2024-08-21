@@ -1,6 +1,6 @@
-===============
+================
 Resources
-===============
+================
 
 
 Welcome to our Document Download Center! We have created a range of practical documents designed to assist engineers and project managers in communicating requirements, optimizing mold designs, and managing projects. Whether you're working on mold design, tracking project progress, or discussing specific needs, these documents will provide valuable support. Download now to enhance your workflow and ensure smooth project execution.
