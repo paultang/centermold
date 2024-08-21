@@ -17,4 +17,4 @@ Explore the template here.
 .. image:: _static/mold management template of centermold.jpg
    :alt: Trello Mold Management Template
    :width: auto
-   :align: auto
+   :align: center
