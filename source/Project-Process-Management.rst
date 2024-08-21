@@ -57,7 +57,7 @@ At CenterMold, we ensure that every step of the mold project is planned and exec
    :align: center
 
 
-resouces :doc:`Resources` 
+get more resouces :ref:`Resources` 
 
 .. toctree::
    :maxdepth: 1

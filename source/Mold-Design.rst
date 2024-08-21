@@ -4,7 +4,7 @@
    contain the root `toctree` directive.
 
 
-.. _mold-design section:
+.. _mold-design:
 
 =======================
 Mold Design
