@@ -56,4 +56,4 @@ At CenterMold, we ensure that every step of the mold project is planned and exec
    :width: 800px
    :align: center
 
-visit more :ref:`Resources`
+visit more .._Resources:
