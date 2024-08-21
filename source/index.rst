@@ -46,11 +46,9 @@ Welcome to CenterMold!
 .. toctree::
    :maxdepth: 2
    :hidden:
-   :caption: Resources
+   :caption: Resource
 
-   Resources
-
-
+   Resource
 
 Dear Valued Customers and Partners,
 
