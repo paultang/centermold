@@ -50,6 +50,7 @@ At CenterMold, we ensure that every step of the mold project is planned and exec
     * Logistics Coordination
     * After-Sales Support: Offering ongoing support and maintenance services as needed.
 
+get more :ref:`resources-download`  
 
 .. image:: _static/mold_management_template_centermold.jpg
    :alt: Mold management trello template of centermold
@@ -57,10 +58,3 @@ At CenterMold, we ensure that every step of the mold project is planned and exec
    :align: center
 
 
-get more resouces :ref:`resources-download` 
-
-.. toctree::
-   :maxdepth: 1
-   :caption: Contents:
-
-   Resources
