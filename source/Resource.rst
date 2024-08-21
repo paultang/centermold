@@ -22,3 +22,13 @@ Here’s a Trello Mold Management Template designed to streamline the entire mol
    :alt: This is an moldflow demo
    :width: 800px
    :align: center
+
+
+Question Before Quotation
+--------------------------
+
+We highly value your expertise and insights as we work together to design a mold that meets your specific requirements. By
+understanding your product’s demands, material choices, and production needs, we can create a mold that balances quality,
+efficiency, and cost-effectivenes
+
+Download the PDF version of this documentation: `My Documentation PDF <_static/question before quotation from centermold.pdf>`
