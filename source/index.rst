@@ -43,6 +43,13 @@ Welcome to CenterMold!
    Facility
    Contact-Us
 
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: Resources
+
+   Resources
+
 
 
 Dear Valued Customers and Partners,
