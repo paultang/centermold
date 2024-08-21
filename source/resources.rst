@@ -13,7 +13,7 @@ Explore the template here.
 
 `Trello Mold Project Management Template <https://trello.com/b/gFxcTwyo>`_
 
-.. image:: _static/mold management template of centermold.jpg
+.. image:: _static/mold_management_template_centermold.jpg
    :alt: This is an moldflow demo
    :width: 800px
    :align: right
