@@ -9,11 +9,10 @@ Trello Template
 ----------------
 Here’s a Trello Mold Management Template designed to streamline the entire mold development process. From design and manufacturing to assembly, de-molding, and testing, this template helps you efficiently manage every stage of the project. Use it to quickly set up and oversee all phases of mold production.
 
-Explore the template here.
 
 `Trello Mold Project Management Template <https://trello.com/b/gFxcTwyo>`_
 
 .. image:: _static/mold_management_template_centermold.jpg
    :alt: This is an moldflow demo
    :width: 800px
-   :align: right
+   :align: center
