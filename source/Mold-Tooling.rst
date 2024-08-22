@@ -13,12 +13,6 @@ Mold Tooling
 
 CenterMold is dedicated to delivering top-tier molds through a comprehensive and precisely controlled manufacturing process. Our commitment to quality and precision drives us to continuously refine our methods, ensuring we meet the diverse needs of our clients.
 
-.. raw:: html
-
-   <a href="_static/RFQ.pdf" style="display: inline-block; padding: 10px 20px; background-color: green; color: white; text-align: center; text-decoration: none; border-radius: 5px;">
-      Get Instant Quote
-   </a>
-
 
 Our Manufacturing Process
 
@@ -85,3 +79,22 @@ Our Manufacturing Process
 
   - Protective Packaging: Ensuring molds are securely packaged to prevent damage during transportation.
   - Logistics Coordination: Coordinating with logistics partners to ensure timely and safe delivery to clients.
+
+.. raw:: html
+
+   <a href="static/MyDocument.pdf" style="
+      display: inline-block;
+      padding: 10px 20px;
+      background-color: green;
+      color: white;
+      text-align: center;
+      text-decoration: none;
+      border-radius: 5px;
+      position: fixed;
+      right: 0;
+      top: 50%;
+      transform: translateY(-50%);
+      margin-right: 10px;
+      line-height: 20px; /* 使行高与按钮的高度一致 */">
+      Get Instant Quote
+   </a>

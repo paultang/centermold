@@ -65,3 +65,21 @@ By optimizing and strictly implementing these detailed and professional quality 
 
 CenterMold are committed to establishing long-term partnerships with our customers by providing products and services that exceed expectations. By choosing us, you will receive the most reliable plastic injection molding solutions.
 
+.. raw:: html
+
+   <a href="static/MyDocument.pdf" style="
+      display: inline-block;
+      padding: 10px 20px;
+      background-color: green;
+      color: white;
+      text-align: center;
+      text-decoration: none;
+      border-radius: 5px;
+      position: fixed;
+      right: 0;
+      top: 50%;
+      transform: translateY(-50%);
+      margin-right: 10px;
+      line-height: 20px; /* 使行高与按钮的高度一致 */">
+      Get Instant Quote
+   </a>

@@ -22,12 +22,6 @@ To provide the best mold design services, we utilize industry-leading software s
 - UG (Unigraphics)
 - SolidWorks
 
-.. raw:: html
-
-   <a href="_static/RFQ.pdf" style="display: inline-block; padding: 10px 20px; background-color: green; color: white; text-align: center; text-decoration: none; border-radius: 5px;">
-      Get Instant Quote
-   </a>
-
 
 Mold Design Process
 ------------------------
@@ -84,3 +78,23 @@ At CenterMold, we provide detailed design documentation to ensure that even thos
 ..
   
   - Component Lists: Comprehensive lists of all mold components, including dimensions and specifications, ensuring complete transparency.
+
+
+.. raw:: html
+
+   <a href="static/MyDocument.pdf" style="
+      display: inline-block;
+      padding: 10px 20px;
+      background-color: green;
+      color: white;
+      text-align: center;
+      text-decoration: none;
+      border-radius: 5px;
+      position: fixed;
+      right: 0;
+      top: 50%;
+      transform: translateY(-50%);
+      margin-right: 10px;
+      line-height: 20px; /* 使行高与按钮的高度一致 */">
+      Get Instant Quote
+   </a>

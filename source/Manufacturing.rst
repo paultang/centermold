@@ -11,11 +11,6 @@ Small Batch Production
 
 At CenterMold, we understand the importance of flexibility and efficiency in today's fast-paced market. That's why we specialize in providing professional small-batch production services that cater to your specific needs. 
 
-.. raw:: html
-
-   <a href="_static/RFQ.pdf" style="display: inline-block; padding: 10px 20px; background-color: green; color: white; text-align: center; text-decoration: none; border-radius: 5px;">
-      Get Instant Quote
-   </a>
 
 Mold Lifelone Maintenance
 --------------------------
@@ -33,3 +28,22 @@ China's robust infrastructure make CenterMold an excellent choice for small-batc
 Proven Success with Leading Companies
 --------------------------------------
 We are proud to serve industry leaders like Agilent, providing small-batch production services that meet their stringent requirements. Our ability to deliver high-quality, cost-effective solutions has earned us the trust and loyalty of clients worldwide.
+
+.. raw:: html
+
+   <a href="static/MyDocument.pdf" style="
+      display: inline-block;
+      padding: 10px 20px;
+      background-color: green;
+      color: white;
+      text-align: center;
+      text-decoration: none;
+      border-radius: 5px;
+      position: fixed;
+      right: 0;
+      top: 50%;
+      transform: translateY(-50%);
+      margin-right: 10px;
+      line-height: 20px; /* 使行高与按钮的高度一致 */">
+      Get Instant Quote
+   </a>

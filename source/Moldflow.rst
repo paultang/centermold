@@ -26,3 +26,23 @@ Core Analysis Areas
 - Weld Lines: Identifying and minimizing weld lines that could weaken the part structure.
 - Shrinkage and Warpage: Predicting areas of shrinkage and warpage to adjust design and processing parameters for accurate parts.
 - Fiber Orientation: Analyzing fiber orientation in fiber-reinforced materials to optimize part strength and performance.
+
+
+.. raw:: html
+
+   <a href="static/MyDocument.pdf" style="
+      display: inline-block;
+      padding: 10px 20px;
+      background-color: green;
+      color: white;
+      text-align: center;
+      text-decoration: none;
+      border-radius: 5px;
+      position: fixed;
+      right: 0;
+      top: 50%;
+      transform: translateY(-50%);
+      margin-right: 10px;
+      line-height: 20px; /* 使行高与按钮的高度一致 */">
+      Get Instant Quote
+   </a>

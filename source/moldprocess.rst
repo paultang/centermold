@@ -46,3 +46,23 @@ Detailed Mold Manufacturing Process
 - Documentation and Traceability: Detailed inspection reports and documentation provide full traceability and compliance with industry regulations, ensuring transparency and accountability.
 
 CenterMold is committed to delivering superior mold manufacturing solutions tailored to exceed your expectations. Our dedication to precision engineering, stringent quality control, and operational excellence positions us as your trusted partner in mold manufacturing. We look forward to discussing how we can support your projects and contribute to your success.
+
+
+.. raw:: html
+
+   <a href="static/MyDocument.pdf" style="
+      display: inline-block;
+      padding: 10px 20px;
+      background-color: green;
+      color: white;
+      text-align: center;
+      text-decoration: none;
+      border-radius: 5px;
+      position: fixed;
+      right: 0;
+      top: 50%;
+      transform: translateY(-50%);
+      margin-right: 10px;
+      line-height: 20px; /* 使行高与按钮的高度一致 */">
+      Get Instant Quote
+   </a>

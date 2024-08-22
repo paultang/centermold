@@ -18,12 +18,6 @@ Located in Shenzhen,the heart of China’s mold industry, CenterMold is a privat
 
 Established in 2003, CenterMold has grown into a medium-scale mold factory, boasting a 3,000 square meter facility and a dedicated team of 30 skilled employees. Our state-of-the-art manufacturing equipment, including CNC machines, EDM, and wire-cutting, allows us to produce up to 20 large to medium-sized molds per month.
 
-.. raw:: html
-
-   <a href="_static/RFQ.pdf" style="display: inline-block; padding: 10px 20px; background-color: green; color: white; text-align: center; text-decoration: none; border-radius: 5px;">
-      Get Instant Quote
-   </a>
-
 
 Location and Shipping Advantages
 -------------------------------------------
@@ -48,3 +42,22 @@ Shenzhen or Hongkong - United Kingdom
 
 Our location and efficient logistics enable us to offer reliable delivery schedules, ensuring your molds and products arrive on time and within budget.
 
+
+.. raw:: html
+
+   <a href="static/MyDocument.pdf" style="
+      display: inline-block;
+      padding: 10px 20px;
+      background-color: green;
+      color: white;
+      text-align: center;
+      text-decoration: none;
+      border-radius: 5px;
+      position: fixed;
+      right: 0;
+      top: 50%;
+      transform: translateY(-50%);
+      margin-right: 10px;
+      line-height: 20px; /* 使行高与按钮的高度一致 */">
+      Get Instant Quote
+   </a>
