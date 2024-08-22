@@ -15,6 +15,13 @@ Quotation Process Overview
 
 Our quotation process involves several key steps to ensure we capture all necessary details and provide an accurate estimate. Here is an overview of our professional quotation process:
 
+.. raw:: html
+
+   <a href="_static/RFQ.pdf" style="display: inline-block; padding: 10px 20px; background-color: green; color: white; text-align: center; text-decoration: none; border-radius: 5px;">
+      Get Instant Quote
+   </a>
+
+
 1. Initial Consultation and Requirement Gathering
 - Client Interaction: We begin with an discussion to understand your project requirements gathering information about the functionality, usage, and production plans.
 - Document Review: We review product design documents, technical drawings, or samples you provide. This helps us understand the specifications and complexity of the mold.
