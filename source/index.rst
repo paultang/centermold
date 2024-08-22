@@ -70,6 +70,20 @@ At CenterMold, we take pride in serving a diverse clientele that spans North Ame
 CenterMold not only produce molds that meet export standards but also offer flexible small-batch production to meet our clients' unique needs. Each mold crafted by CenterMold is backed by our lifetime maintenance service.
 
 
+
+
+
+Navigating the challenges of the COVID-19 pandemic, we stood by our clients, overcoming obstacles and continuing to provide top-tier service. This period tested our resilience and underscored the importance of strong, supportive relationships with our customers.
+
+Understanding our clients' needs is paramount. Every year, I travel to North America and Europe to visit our clients, listen to their feedback, and gain insights into their evolving requirements. 
+
+To our loyal customers, thank you for your support and trust. Your feedback and partnership have been instrumental in our growth and success. To potential clients, we look forward to work with you and demonstrate our commitment.
+
+
+Together, let's build the future of :ref:`mold-design` and :ref:`Injection-molding`.
+
+Warm regards,
+
 .. raw:: html
 
    <a href="static/MyDocument.pdf" style="
@@ -89,25 +103,6 @@ CenterMold not only produce molds that meet export standards but also offer flex
       Get Instant Quote
    </a>
 
-
-
-.. raw:: html
-
-   <a href="_static/RFQ.pdf" style="display: inline-block; padding: 10px 20px; background-color: green; color: white; text-align: center; text-decoration: none; border-radius: 5px;">
-      Get Instant Quote
-   </a>
-
-
-Navigating the challenges of the COVID-19 pandemic, we stood by our clients, overcoming obstacles and continuing to provide top-tier service. This period tested our resilience and underscored the importance of strong, supportive relationships with our customers.
-
-Understanding our clients' needs is paramount. Every year, I travel to North America and Europe to visit our clients, listen to their feedback, and gain insights into their evolving requirements. 
-
-To our loyal customers, thank you for your support and trust. Your feedback and partnership have been instrumental in our growth and success. To potential clients, we look forward to work with you and demonstrate our commitment.
-
-
-Together, let's build the future of :ref:`mold-design` and :ref:`Injection-molding`.
-
-Warm regards,
 
 | Tony Tang 
 .. raw:: html
