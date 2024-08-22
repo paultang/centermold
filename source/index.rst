@@ -66,13 +66,6 @@ At CenterMold, we take pride in serving a diverse clientele that spans North Ame
       Your browser does not support the video tag.
     </video>
 
-
-CenterMold not only produce molds that meet export standards but also offer flexible small-batch production to meet our clients' unique needs. Each mold crafted by CenterMold is backed by our lifetime maintenance service.
-
-
-
-
-
 Navigating the challenges of the COVID-19 pandemic, we stood by our clients, overcoming obstacles and continuing to provide top-tier service. This period tested our resilience and underscored the importance of strong, supportive relationships with our customers.
 
 Understanding our clients' needs is paramount. Every year, I travel to North America and Europe to visit our clients, listen to their feedback, and gain insights into their evolving requirements. 
