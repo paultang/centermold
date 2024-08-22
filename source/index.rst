@@ -69,6 +69,27 @@ At CenterMold, we take pride in serving a diverse clientele that spans North Ame
 
 CenterMold not only produce molds that meet export standards but also offer flexible small-batch production to meet our clients' unique needs. Each mold crafted by CenterMold is backed by our lifetime maintenance service.
 
+
+.. raw:: html
+
+   <a href="_static/RFQ.pdf" style="
+      display: inline-block;
+      padding: 10px 20px;
+      background-color: green;
+      color: white;
+      text-align: center;
+      text-decoration: none;
+      border-radius: 5px;
+      position: fixed;
+      right: 0;
+      top: 50%;
+      transform: translateY(-50%);
+      margin-right: 10px;">
+      Get Instant Quote
+   </a>
+
+
+
 .. raw:: html
 
    <a href="_static/RFQ.pdf" style="display: inline-block; padding: 10px 20px; background-color: green; color: white; text-align: center; text-decoration: none; border-radius: 5px;">
