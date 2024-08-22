@@ -72,7 +72,7 @@ CenterMold not only produce molds that meet export standards but also offer flex
 
 .. raw:: html
 
-   <a href="_static/RFQ.pdf" style="
+   <a href="static/MyDocument.pdf" style="
       display: inline-block;
       padding: 10px 20px;
       background-color: green;
@@ -84,7 +84,8 @@ CenterMold not only produce molds that meet export standards but also offer flex
       right: 0;
       top: 50%;
       transform: translateY(-50%);
-      margin-right: 10px;">
+      margin-right: 10px;
+      line-height: 20px; /* 使行高与按钮的高度一致 */">
       Get Instant Quote
    </a>
 
