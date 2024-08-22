@@ -70,7 +70,7 @@ CenterMold not only produce molds that meet export standards but also offer flex
 
 .. raw:: html
 
-   <a href="static/RFQ.pdf" style="display: inline-block; padding: 10px 20px; background-color: green; color: white; text-align: center; text-decoration: none; border-radius: 5px;">
+   <a href="_static/RFQ.pdf" style="display: inline-block; padding: 10px 20px; background-color: green; color: white; text-align: center; text-decoration: none; border-radius: 5px;">
       Get Instant Quote
    </a>
 
