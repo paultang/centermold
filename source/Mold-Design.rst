@@ -21,7 +21,13 @@ To provide the best mold design services, we utilize industry-leading software s
 
 - UG (Unigraphics)
 - SolidWorks
-  
+
+.. raw:: html
+
+   <a href="_static/RFQ.pdf" style="display: inline-block; padding: 10px 20px; background-color: green; color: white; text-align: center; text-decoration: none; border-radius: 5px;">
+      Get Instant Quote
+   </a>
+
 Mold Design Process
 ------------------------
 Our team of seasoned professionals brings decades of expertise in mold design and manufacturing.

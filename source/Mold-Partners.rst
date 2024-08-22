@@ -11,6 +11,12 @@ Manufacturing Partner
 
 At CenterMold, we pride ourselves on being a trusted partner for overseas companies, particularly those in the UK and North America. we are well-versed in European and North American standards, providing unparalleled service and support to our international partners.
 
+.. raw:: html
+
+   <a href="_static/RFQ.pdf" style="display: inline-block; padding: 10px 20px; background-color: green; color: white; text-align: center; text-decoration: none; border-radius: 5px;">
+      Get Instant Quote
+   </a>
+
 Why choose us?
 ---------------------------
 1. Expertise and Compliance

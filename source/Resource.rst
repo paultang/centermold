@@ -32,3 +32,6 @@ understanding your product’s demands, material choices, and production needs, 
 efficiency, and cost-effectivenes
 
 Download the PDF version of this documentation: `Questionnaire before Quotation <_static/question_before_quotation_from_centermold.pdf>`_
+
+
+Download the PDF about `Request for Quotation <_static/RFQ.pdf>`_

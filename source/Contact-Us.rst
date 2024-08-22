@@ -24,6 +24,12 @@ CenterMold
 | Sichuan Province, 
 | China
 
+.. raw:: html
+
+   <a href="_static/RFQ.pdf" style="display: inline-block; padding: 10px 20px; background-color: green; color: white; text-align: center; text-decoration: none; border-radius: 5px;">
+      Get Instant Quote
+   </a>
+
 Visit Us
 ----------
 Our facility is conveniently located near Shenzhen Bao'an International Airport, making it easily accessible for both domestic and international clients. Additionally, Shenzhen's proximity to Hong Kong ensures excellent connectivity and transportation options.

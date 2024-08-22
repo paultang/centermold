@@ -13,6 +13,11 @@ Our Facilities
 
 At Centermold, we pride ourselves on our state-of-the-art machining equipment and spacious, meticulously maintained facilities. Our advanced machinery ensures precision and efficiency in every mold we create. Whether it’s intricate mold manufacturing or precision injection molding.
 
+.. raw:: html
+
+   <a href="_static/RFQ.pdf" style="display: inline-block; padding: 10px 20px; background-color: green; color: white; text-align: center; text-decoration: none; border-radius: 5px;">
+      Get Instant Quote
+   </a>
 
 
 .. list-table:: CenterMold Facilities
