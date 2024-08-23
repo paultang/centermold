@@ -39,3 +39,10 @@ Welcome to our sitemap. Here is an overview of all the sections and pages in our
    Profile
    Facility
    Contact-Us
+
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: Resource
+
+   Resource

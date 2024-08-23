@@ -27,13 +27,12 @@ Core Analysis Areas
 - Shrinkage and Warpage: Predicting areas of shrinkage and warpage to adjust design and processing parameters for accurate parts.
 - Fiber Orientation: Analyzing fiber orientation in fiber-reinforced materials to optimize part strength and performance.
 
-
 .. raw:: html
 
    <a href="static/MyDocument.pdf" style="
       display: inline-block;
-      padding: 10px 20px;
-      background-color: green;
+      padding: 15px 30px;  /* 增加内边距，使按钮更大 */
+      background-color: #2980B9;
       color: white;
       text-align: center;
       text-decoration: none;
@@ -43,6 +42,7 @@ Core Analysis Areas
       top: 50%;
       transform: translateY(-50%);
       margin-right: 10px;
-      line-height: 20px; /* 使行高与按钮的高度一致 */">
+      font-size: 18px;  /* 增加字体大小 */
+      line-height: 20px;">
       Get Instant Quote
    </a>

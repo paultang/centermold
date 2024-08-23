@@ -35,3 +35,23 @@ Download the PDF version of this documentation: `Questionnaire before Quotation 
 
 
 Download the PDF about `Request for Quotation <_static/RFQ.pdf>`_
+
+.. raw:: html
+
+   <a href="static/MyDocument.pdf" style="
+      display: inline-block;
+      padding: 15px 30px;  /* 增加内边距，使按钮更大 */
+      background-color: #2980B9;
+      color: white;
+      text-align: center;
+      text-decoration: none;
+      border-radius: 5px;
+      position: fixed;
+      right: 0;
+      top: 50%;
+      transform: translateY(-50%);
+      margin-right: 10px;
+      font-size: 18px;  /* 增加字体大小 */
+      line-height: 20px;">
+      Get Instant Quote
+   </a>

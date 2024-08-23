@@ -37,8 +37,8 @@ Our success is built not only on our expertise and dedication but also on the st
 
    <a href="static/MyDocument.pdf" style="
       display: inline-block;
-      padding: 10px 20px;
-      background-color: green;
+      padding: 15px 30px;  /* 增加内边距，使按钮更大 */
+      background-color: #2980B9;
       color: white;
       text-align: center;
       text-decoration: none;
@@ -48,6 +48,7 @@ Our success is built not only on our expertise and dedication but also on the st
       top: 50%;
       transform: translateY(-50%);
       margin-right: 10px;
-      line-height: 20px; /* 使行高与按钮的高度一致 */">
+      font-size: 18px;  /* 增加字体大小 */
+      line-height: 20px;">
       Get Instant Quote
    </a>
