@@ -81,7 +81,7 @@ Warm regards,
 
    <a href="static/MyDocument.pdf" style="
       display: inline-block;
-      padding: 10px 20px;
+      padding: 10px 25px;
       background-color: #6197DB;
       color: white;
       text-align: center;
@@ -92,7 +92,7 @@ Warm regards,
       top: 50%;
       transform: translateY(-50%);
       margin-right: 10px;
-      line-height: 20px; /* 使行高与按钮的高度一致 */">
+      line-height: 25px; /* 使行高与按钮的高度一致 */">
       Get Instant Quote
    </a>
 
