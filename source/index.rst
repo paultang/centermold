@@ -81,7 +81,7 @@ Warm regards,
 
    <a href="static/MyDocument.pdf" style="
       display: inline-block;
-      padding: 10px 26px;
+      padding: 15px 30px;  /* 增加内边距，使按钮更大 */
       background-color: #2980B9;
       color: white;
       text-align: center;
@@ -92,10 +92,10 @@ Warm regards,
       top: 50%;
       transform: translateY(-50%);
       margin-right: 10px;
-      line-height: 26px; /* 使行高与按钮的高度一致 */">
+      font-size: 18px;  /* 增加字体大小 */
+      line-height: 20px;">  /* 调整行高，保持文字居中 */
       Get Instant Quote
    </a>
-
 
 | Tony Tang 
 .. raw:: html
