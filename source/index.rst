@@ -82,7 +82,7 @@ Warm regards,
    <a href="static/MyDocument.pdf" style="
       display: inline-block;
       padding: 10px 20px;
-      background-color: blue;
+      background-color: #6197DB;
       color: white;
       text-align: center;
       text-decoration: none;
