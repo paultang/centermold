@@ -93,7 +93,7 @@ Warm regards,
       transform: translateY(-50%);
       margin-right: 10px;
       font-size: 18px;  /* 增加字体大小 */
-      line-height: 20px;">  /* 调整行高，保持文字居中 */
+      line-height: 20px;">
       Get Instant Quote
    </a>
 
