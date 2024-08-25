@@ -18,7 +18,7 @@ Here’s a Trello Mold Management Template designed to streamline the entire mol
 
 `Trello Mold Project Management Template <https://trello.com/b/gFxcTwyo>`_
 
-.. image:: _static/mold_management_template_centermold.jpg
+.. image:: _static/template.png
    :alt: This is an moldflow demo
    :width: 800px
    :align: center
