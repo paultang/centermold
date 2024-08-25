@@ -31,11 +31,12 @@ We highly value your expertise and insights as we work together to design a mold
 understanding your product’s demands, material choices, and production needs, we can create a mold that balances quality,
 efficiency, and cost-effectivenes
 
+.. figure:: _static/question.png
+   :align: center
+   :width: 450px
+
 Download the PDF version of this documentation: `Questionnaire before Quotation <_static/question_before_quotation_from_centermold.pdf>`_
 
-.. figure:: _static/question.png
-   :align: right
-   :width: 450px
    
 
 Download the PDF about `Request for Quotation <_static/RFQ.pdf>`_
