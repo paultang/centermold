@@ -53,7 +53,7 @@ At CenterMold, we ensure that every step of the mold project is planned and exec
 
 
 
-.. image:: _static/mold_management_template_centermold.jpg
+.. image:: _static/template.png
    :alt: Mold management trello template of centermold
    :width: 800px
    :align: center
