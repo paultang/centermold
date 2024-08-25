@@ -67,11 +67,6 @@ At CenterMold, our extensive experience allows us to successfully manage the maj
 Comprehensive Support
 ----------------------------------------
 
-
-.. figure:: _static/layout.png
-   :align: right
-   :width: 300px
-
 At CenterMold, we provide detailed design documentation to ensure that even those unfamiliar with mold design can easily understand the production details. Our design packages include:
 
   - Detailed Design Drawings: Clear and precise drawings highlighting all critical aspects of the mold, such as gate locations, parting lines, and ejector pin placements.
