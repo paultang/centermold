@@ -2,8 +2,18 @@
 reStructuredText 示例
 ======================
 
+
 .. contents:: 目录
    :depth: 2
+
+
+.. raw:: html
+
+   <img src="_static/Home.jpg" usemap="#imagemap">
+
+   <map name="imagemap">
+    <area target="_blank" alt="RFQ" title="RFQ" href="https://www.google.com" coords="77,507,392,557" shape="rect">
+   </map>
 
 简介
 ====
