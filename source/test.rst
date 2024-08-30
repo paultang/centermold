@@ -7,7 +7,7 @@ Chat With Us
    <img src="_static/Home.jpg" usemap="#imagemap">
 
    <map name="imagemap">
-    <area target="_blank" alt="RFQ" title="RFQ" href="www.google.com" coords="133,534" shape="rect">
+    <area target="_blank" alt="RFQ" title="RFQ" href="www.google.com" coords="133,150,534,600" shape="rect">
    </map>
 
 
