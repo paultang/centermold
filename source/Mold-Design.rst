@@ -13,6 +13,16 @@ Mold Design
    :align: right
    :width: 450px
    
+
+.. raw:: html
+
+   <img src="_static/molddesign.jpg" usemap="#imagemap">
+
+   <map name="imagemap">
+     <area shape="rect" coords="34,44,270,350" href="http://google.com" alt="Description">
+     <area shape="circle" coords="100,100,50" href="http://another-example.com" alt="Another Description">
+   </map>
+
 At CenterMold, our mold design team work hard to meet the unique needs of each client, ensuring the high levels of precision, efficiency, and quality. With over 30 years of experience in design, tooling, and injection molding, we leverage advanced design software and a customer-centric approach to deliver exceptional results.
 
 Our Design Software
