@@ -13,7 +13,8 @@ reStructuredText 示例
   <img src="_static/Home.jpg" usemap="#image-map">
 
   <map name="image-map">
-    <area target="" alt="Mold Design" title="Mold Design" href="https://www.centermold.com/en/latest/Mold-Design.html" coords="28,222,177,246" shape="rect">
+   <area target="_blank" alt="Mold Design" title="Mold Design" href="https://www.centermold.com/en/latest/Mold-Design.html" coords="29,223,176,251" shape="rect">
+
   </map>
 
 简介
