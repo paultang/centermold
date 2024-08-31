@@ -49,9 +49,9 @@ Chat With Us
    :widths: 30 70
    :header-rows: 0
 
-   * - .. image:: _static/mold_design.jpg
-         :width: 400px
-         :align: left
+     - .. image:: https://www.centermold.com/en/latest/_static/mold_design.jpg
+        :width: 400px
+        :align: left
 
      - **Mold Design**  
        
