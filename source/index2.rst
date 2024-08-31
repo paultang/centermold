@@ -108,7 +108,7 @@ Dear Valued Customers and Partners,
 
     <div style="position: relative; display: inline-block;">
         <img src="_static/Sample Project.jpg" alt="Image">
-        <div style="position: absolute; top: 45px; left: 224px;">
+        <div style="position: absolute; top: 224px; left: 45px;">
             <a href="https://www.google.com" 
                style="color: blue; background-color: gray; padding: 5px; 
                       text-decoration: none; border: 1px solid black;">
