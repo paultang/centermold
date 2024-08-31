@@ -103,6 +103,20 @@ Dear Valued Customers and Partners,
     <area target="" alt="" title="" href="https://www.centermold.com/en/latest/Resource.html" coords="45,224,215,298" shape="rect">
  </map>
 
+
+.. raw:: html
+
+    <div style="position: relative; display: inline-block;">
+        <img src="_static/Sample Project.jpg" alt="Image">
+        <div style="position: absolute; top: 45px; left: 224px;">
+            <a href="https://www.google.com" 
+               style="color: blue; background-color: gray; padding: 5px; 
+                      text-decoration: none; border: 1px solid black;">
+                Your Text Here
+            </a>
+        </div>
+    </div>
+
 Welcome to CenterMold!
 
 With over 30 years of experience in mold design, tooling, and injection molding, it has been my honor to lead CenterMold in our mission to deliver custom molds and small-batch plastic parts to international clients. 
