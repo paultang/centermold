@@ -77,11 +77,11 @@ Dear Valued Customers and Partners,
   
   <img src="_static/mold_design.jpg" usemap="#image-map">
 
-  <map name="image-map">
+  <map name="image-map2">
   <area target="_blank" alt="Mold Design" title="Mold Design" href="https://www.centermold.com/en/latest/Mold-Design.html" coords="322,264,496,314" shape="rect">
  
   </map>
-  
+
 Welcome to CenterMold!
 
 With over 30 years of experience in mold design, tooling, and injection molding, it has been my honor to lead CenterMold in our mission to deliver custom molds and small-batch plastic parts to international clients. 
