@@ -45,7 +45,7 @@ Chat With Us
   <iframe src="https://widget.taggbox.com/157869" style="width:100%;height:600px;border:none;"></iframe>
 
 
-  .. list-table::
+.. list-table::
    :widths: 30 70
    :header-rows: 0
 
