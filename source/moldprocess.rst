@@ -50,7 +50,7 @@ CenterMold is committed to delivering superior mold manufacturing solutions tail
 
 .. raw:: html
 
-   <a href="static/MyDocument.pdf" style="
+   <a href="_static/RFQ.pdf" style="
       display: inline-block;
       padding: 15px 30px;  /* 增加内边距，使按钮更大 */
       background-color: #2980B9;
