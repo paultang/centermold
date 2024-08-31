@@ -56,7 +56,7 @@ Welcome to CenterMold!
   <img src="_static/home2.jpg" usemap="#image-map">
 
   <map name="image-map">
-    <area target="_blank" alt="i need a quote" title="i need a quote" href="email:info@centermold.com" coords="26,220,198,254" shape="rect">
+    <area target="_blank" alt="i need a quote" title="i need a quote" href="mailto:info@centermold.com" coords="26,220,198,254" shape="rect">
 
   </map>
 
