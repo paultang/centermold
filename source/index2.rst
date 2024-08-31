@@ -59,9 +59,26 @@ Welcome to CenterMold!
     <area target="_blank" alt="i need a quote" title="i need a quote" href="mailto:info@centermold.com" coords="26,220,198,254" shape="rect">
 
   </map>
+ <img src="_static/mold design.jpg" usemap="#image-map">
+
+  <map name="image-map">
+  <area target="_blank" alt="Mold Design" title="Mold Design" href="https://www.centermold.com/en/latest/Mold-Design.html" coords="322,264,496,314" shape="rect">
+ 
+  </map>
+
+
+
+
+
+
 
 
 Dear Valued Customers and Partners,
+
+
+ <area target="_blank" alt="Mold Design" title="Mold Design" href="https://www.centermold.com/en/latest/Mold-Design.html" coords="322,264,496,314" shape="rect">
+
+
 
 Welcome to CenterMold!
 
