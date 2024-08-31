@@ -43,3 +43,16 @@ Chat With Us
 .. raw:: html
     
   <iframe src="https://widget.taggbox.com/157869" style="width:100%;height:600px;border:none;"></iframe>
+
+
+  .. list-table::
+   :widths: 30 70
+   :header-rows: 0
+
+   * - .. image:: _static/mold_design.jpg
+         :width: 400px
+         :align: left
+
+     - **Mold Design**  
+       
+       Your paragraph text goes here. This can be multiple lines long.At CenterMold, our mold design team work hard to meet the unique needs of each client, ensuring the high levels of precision, efficiency, and quality. With over 30 years of experience in design, tooling, and injection molding, we leverage advanced design software and a customer-centric approach to deliver exceptional results.
