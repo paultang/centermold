@@ -75,7 +75,7 @@ Dear Valued Customers and Partners,
 
 .. raw:: html
   
-  <img src="_static/mold_design.jpg" usemap="#image-map">
+  <img src="_static/mold_design.jpg" usemap="#image-map2">
 
   <map name="image-map2">
   <area target="_blank" alt="Mold Design" title="Mold Design" href="https://www.centermold.com/en/latest/Mold-Design.html" coords="322,264,496,314" shape="rect">
