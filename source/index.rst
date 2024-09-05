@@ -74,7 +74,7 @@ Welcome to CenterMold!
  <img src="_static/mold_design.jpg" usemap="#image-map3">
 
  <map name="image-map3">
-    <area target="" alt="Get Resources" title="Get Resources" href="https://www.centermold.com/en/latest/Resource.html" coords="414,344,638,386" shape="rect">
+    <area target="" alt="Get Resources" title="Get Resources" href="https://www.centermold.com/en/latest/Resource.html" coords="404,324,648,396" shape="rect">
  </map>
 
 
