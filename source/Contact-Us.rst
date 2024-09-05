@@ -18,17 +18,16 @@ CenterMold
 | Phone: +86 0755 27226835  
 | Email: info@centermold.com  
 | Website: www.centermold.com  
-
-| CenterMold Branch Factory
-| 88 Yulong Road, Suining City, 
-| Sichuan Province, 
-| China
-
 .. raw:: html
 
     <a href="https://www.linkedin.com/in/billtang72/" target="_blank">
         <img src="_static/LI-Logo.png" alt="LinkedIn" style="width: 100px; height: auto;"/>
     </a>
+| CenterMold Branch Factory
+| 88 Yulong Road, Suining City, 
+| Sichuan Province, 
+| China
+
 
 .. raw:: html
 
