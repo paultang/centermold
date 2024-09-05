@@ -140,6 +140,10 @@ Welcome to CenterMold!
 
 .. raw:: html
 
+    <br><br>
+    
+.. raw:: html
+
     <a href="https://www.linkedin.com/in/billtang72/" target="_blank">
         <img src="_static/LI-Logo.png" alt="LinkedIn" style="width: 100px; height: auto;"/>
     </a>
