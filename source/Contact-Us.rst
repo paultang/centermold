@@ -17,7 +17,6 @@ CenterMold
 | China
 | Phone: +86 0755 27226835  
 | Email: info@centermold.com  
-| Website: www.centermold.com  
 .. raw:: html
 
     <a href="https://www.linkedin.com/in/billtang72/" target="_blank">
