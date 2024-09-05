@@ -118,6 +118,17 @@ Warm regards,
 
 
 .. raw:: html
+  
+  <img src="_static/smallbatch.jpg" usemap="#image-map2">
+
+  <map name="image-map2">
+  <area target="_blank" alt="Mold Design" title="Mold Design" href="https://www.centermold.com/en/latest/Resources.html" coords="322,264,496,314" shape="rect">
+ 
+  </map>
+
+
+
+.. raw:: html
 
     <meta name="description" content="Centermold provides advanced machining equipment and spacious, clean workspaces for exceptional mold manufacturing and injection molding.">
     <meta name="keywords" content="Centermold, mold manufacturing, injection molding, advanced machining, clean workspace">
