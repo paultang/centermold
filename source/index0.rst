@@ -107,6 +107,15 @@ Warm regards,
 | Founder and General Manager  \  
 | CenterMold
 
+.. raw:: html
+  
+  <img src="_static/service.jpg" usemap="#image-map2">
+
+  <map name="image-map2">
+  <area target="_blank" alt="Mold Design" title="Mold Design" href="https://www.centermold.com/en/latest/Resources.html" coords="322,264,496,314" shape="rect">
+ 
+  </map>
+
 
 .. raw:: html
 
