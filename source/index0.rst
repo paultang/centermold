@@ -119,9 +119,9 @@ Warm regards,
 
 .. raw:: html
   
-  <img src="_static/smallbatch.jpg" usemap="#image-map2">
+  <img src="_static/smallbatch.jpg" usemap="#image-map3">
 
-  <map name="image-map2">
+  <map name="image-map3">
   <area target="_blank" alt="Mold Design" title="Mold Design" href="https://www.centermold.com/en/latest/Resources.html" coords="322,264,496,314" shape="rect">
  
   </map>
