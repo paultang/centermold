@@ -20,7 +20,7 @@ Our Design Software
 --------------------
 To provide the best mold design services, we utilize industry-leading software such as:
 
-- UG (Unigraphics)
+- UG NX
 - SolidWorks
 
 
@@ -33,6 +33,8 @@ Our team of seasoned professionals brings decades of expertise in mold design an
   
   - Needs Assessment: Understanding the client’s requirements, product specifications, and manufacturing goals.
   - Conceptual Design: Developing initial design concepts and discussing potential approaches with the client.  
+  -  Gate Location and Type: Specifying the location, type, and size of the gate to ensure optimal flow and minimal defects.  
+  - Parting Line: Clearly defining the parting line to ensure proper mold separation and ease of manufacturing.
 ..
 
 2. Detailed Design
@@ -40,13 +42,11 @@ Our team of seasoned professionals brings decades of expertise in mold design an
 
   - 3D Modeling
   - Design for Manufacturability (DFM)
-  - Export Considerations: Designing molds with export requirements in mind, considering the client's injection molding machine specifications and the availability of local mold components.
+  - Export mold Considerations: Designing molds with export requirements in mind, considering the client's injection molding machine specifications.
 
 3. Component Specification
 ..
 
-  - Gate Location and Type: Specifying the location, type, and size of the gate to ensure optimal flow and minimal defects.  
-  - Parting Line: Clearly defining the parting line to ensure proper mold separation and ease of manufacturing.
   - Ejector Pin Placement: Strategically placing ejector pins to ensure smooth part removal without damaging the product.
   - Cooling System Design: Designing efficient cooling channels to maintain consistent temperature and reduce cycle times
 
