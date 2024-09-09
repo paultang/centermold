@@ -7,15 +7,12 @@
 =======================
 Our Facilities
 =======================
-.. image:: _static/EDM.jpg
-   :align: right
-   :width: 250px
 
 At Centermold, we pride ourselves on our state-of-the-art machining equipment and spacious, meticulously maintained facilities. Our advanced machinery ensures precision and efficiency in every mold we create. Whether it’s intricate mold manufacturing or precision injection molding.
 
 .. raw:: html
 
-   <a href="static/MyDocument.pdf" style="
+   <a href="_static/RFQ.pdf" style="
       display: inline-block;
       padding: 15px 30px;  /* 增加内边距，使按钮更大 */
       background-color: #2980B9;
