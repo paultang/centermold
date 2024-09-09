@@ -27,10 +27,10 @@ Why choose us?
 
 - Timely Communication
 - Iterative Development: We support iterative design processes, accommodating modifications and refinements to meet evolving project needs.
-
 .. raw:: html
 
- <img src="_static/case_study.jpg"> 
+ <img src="_static/whyCM.jpg"> 
+
 
 New Product Development Supporting
 -----------------------------------
@@ -43,7 +43,12 @@ Long-Term Partnerships
 -------------------------
 Our long-standing relationships with mold factories in the UK and North America are a testament to our collaborative success. By working closely with our partners, we achieve Mutual Growth and Trust.
 
+.. raw:: html
+
+ <img src="_static/case_study.jpg"> 
+
 Contact us to learn more about how we can collaborate for mutual success.
+
 
 
 .. raw:: html
