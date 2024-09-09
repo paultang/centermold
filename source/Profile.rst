@@ -7,14 +7,10 @@
 =======================
 Profile
 =======================
-
-.. figure:: _static/mini.jpg
-   :align: right
-   :width: 245px
-
 Your Partner in Plastic Mold Manufacturing
 -------------------------------------------
 .. raw:: html
+ 
  <img src="_static/vision.jpg" >
 
 Located in Shenzhen,the heart of China’s mold industry, CenterMold is a private company specializing in plastic mold manufacturing. 
