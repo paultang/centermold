@@ -43,7 +43,11 @@ Our Manufacturing Process
   - Wire EDM: Cutting intricate shapes.
   - Quality Control: ensure accuracy and surface finish meet quality standards.
 
-5. Grinding and Polishing
+.. raw:: html
+
+   <img src="_static/Process02.jpg">
+
+1. Grinding and Polishing
 
   - Surface Grinding: Achieving precise flatness and smooth surfaces.
   - Polishing: Hand and machine polishing to achieve the required surface finish and texture.
