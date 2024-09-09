@@ -55,13 +55,11 @@ Our team of seasoned professionals brings decades of expertise in mold design an
   - Feedback and Iteration: Incorporating client feedback and making necessary adjustments.
   - Final Approval: Securing client approval on the final design before proceeding to manufacturing.
 
-:ref:`Mold-flow` help us improve mold design process.
-
 
 Comprehensive Support
 ----------------------------------------
 
-At CenterMold, we provide detailed design documentation to ensure that even those unfamiliar with mold design can easily understand the production details. Our design packages include:
+We provide detailed design documentation to ensure that even those unfamiliar with mold design can easily understand the production details. Our design packages include:
 
   - Detailed Design Drawings: Clear and precise drawings highlighting all critical aspects of the mold, such as gate locations, parting lines, and ejector pin placements.
 ..
