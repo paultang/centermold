@@ -35,7 +35,7 @@ Our team of seasoned professionals brings decades of expertise in mold design an
   - Conceptual Design: Developing initial design concepts and discussing potential approaches with the client.  
   -  Gate Location and Type: Specifying the location, type, and size of the gate to ensure optimal flow and minimal defects.  
   - Parting Line: Clearly defining the parting line to ensure proper mold separation and ease of manufacturing.
-  - Ejector Pin Placement: Strategically placing ejector pins to ensure smooth part removal without damaging the product.
+  - Ejector Pin Placement: Placing ejector pins to ensure smooth part removal without damaging the product.
 ..
 
 2. Detailed Design
@@ -43,8 +43,9 @@ Our team of seasoned professionals brings decades of expertise in mold design an
 
   - 3D Modeling
   - Design for Manufacturability (DFM)
-  - Export mold Considerations: Designing molds with export requirements in mind, considering the client's injection molding machine specifications.
   - Cooling System Design: Designing efficient cooling channels to maintain consistent temperature and reduce cycle times
+  - Export mold Considerations: Designing molds with export requirements in mind, considering the client's injection molding machine specifications.
+ 
 
 3. Client Communication and Approval
 ..
