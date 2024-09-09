@@ -42,6 +42,7 @@ Our team of seasoned professionals brings decades of expertise in mold design an
 ..
 
   - 3D Modeling
+  - :ref:`Mold-flow` 
   - Design for Manufacturability (DFM)
   - Cooling System Design: Designing efficient cooling channels to maintain consistent temperature and reduce cycle times
   - Export mold Considerations: Designing molds with export requirements in mind, considering the client's injection molding machine specifications.
@@ -53,11 +54,6 @@ Our team of seasoned professionals brings decades of expertise in mold design an
   - Design Reviews: Conducting detailed design reviews with the client to ensure all requirements and expectations are met.
   - Feedback and Iteration: Incorporating client feedback and making necessary adjustments.
   - Final Approval: Securing client approval on the final design before proceeding to manufacturing.
-
-Mold flow Analysis
---------------------
-
-At CenterMold, our extensive experience allows us to successfully manage the majority of projects with precision and expertise. For unique structures and specialized materials, we recommend conducting mold flow analysis to optimize mold design and production processes. This advanced analysis helps predict and prevent potential issues, ensuring the highest quality results for our clients.
 
 :ref:`Mold-flow` help us improve mold design process.
 
