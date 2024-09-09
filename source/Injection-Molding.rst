@@ -65,6 +65,10 @@ Our Injection Molding Process
     * Dimensional Inspection: Using precision measuring tools to verify that the molded parts meet dimensional specifications.
     * Surface Finish Inspection: Checking for surface defects and ensuring the parts meet aesthetic and functional requirements.
 
+.. figure:: _static/t102.jpg
+   :align: right
+   :width: 300px
+
 5. Secondary Operations
 
     * Post-Molding Treatments: Performing additional treatments such as annealing, coating, or assembly as required by the client.
