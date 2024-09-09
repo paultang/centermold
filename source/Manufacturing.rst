@@ -11,6 +11,9 @@ Small Batch Production
 
 At CenterMold, we understand the importance of flexibility and efficiency in today's fast-paced market. That's why we specialize in providing professional small-batch production services that cater to your specific needs. 
 
+.. raw:: html
+
+ <img src="_static/small_batch.jpg" >
 
 Mold Lifelone Maintenance
 --------------------------
