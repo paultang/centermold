@@ -13,7 +13,11 @@ At CenterMold, we understand the importance of flexibility and efficiency in tod
 
 .. raw:: html
 
- <img src="_static/small_batch.jpg" >
+ <img src="_static/small_batch.jpg" usemap="#image-map4">
+
+ <map name="image-map4">
+    <area target="" alt="Get instant quote" title="Get instant quote" href="https://www.centermold.com/en/latest/_static/RFQ.pdf" coords="61,303,307,362" shape="rect">
+ </map>
 
 Mold Lifelone Maintenance
 --------------------------
