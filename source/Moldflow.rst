@@ -16,7 +16,7 @@ At CenterMold, our extensive experience allows us to successfully manage the maj
 
 Analysis Software
 ----------------------------
-We utilize industry-leading software, MoldFlow, to deliver precise and reliable insights. that allow us to simulate the injection molding process and make informed decisions to enhance mold design and part quality.
+We utilize industry-leading software, NG NX, to deliver precise and reliable insights. that allow us to simulate the injection molding process and make informed decisions to enhance mold design and part quality.
 
 Core Analysis Areas
 ---------------------
