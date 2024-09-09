@@ -9,7 +9,7 @@
 =======================
 Mold Design
 =======================
-.. figure:: _static/molddesign.jpg
+.. figure:: _static/moldesign.jpg
    :align: right
    :width: 450px
    
