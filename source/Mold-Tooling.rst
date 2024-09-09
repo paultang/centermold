@@ -47,7 +47,7 @@ Our Manufacturing Process
 
    <img src="_static/Process02.jpg">
 
-1. Grinding and Polishing
+5. Grinding and Polishing
 
   - Surface Grinding: Achieving precise flatness and smooth surfaces.
   - Polishing: Hand and machine polishing to achieve the required surface finish and texture.
