@@ -56,17 +56,6 @@ Our team of seasoned professionals brings decades of expertise in mold design an
   - Final Approval: Securing client approval on the final design before proceeding to manufacturing.
 
 
-Comprehensive Support
-----------------------------------------
-
-We provide detailed design documentation to ensure that even those unfamiliar with mold design can easily understand the production details. Our design packages include:
-
-  - Detailed Design Drawings: Clear and precise drawings highlighting all critical aspects of the mold, such as gate locations, parting lines, and ejector pin placements.
-..
-  
-  - Component Lists: Comprehensive lists of all mold components, including dimensions and specifications, ensuring complete transparency.
-
-
 .. raw:: html
 
    <a href="_static/RFQ.pdf" style="
