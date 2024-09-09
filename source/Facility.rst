@@ -8,7 +8,7 @@
 Our Facilities
 =======================
 
-At Centermold, we pride ourselves on our state-of-the-art machining equipment and spacious, meticulously maintained facilities. Our advanced machinery ensures precision and efficiency in every mold we create. Whether it’s intricate mold manufacturing or precision injection molding.
+At Centermold, we take pride in our advanced equipment and clean, spacious workshop. Our high-tech machinery ensures that every mold is produced with precision and efficiency. Whether it's complex mold design or precise injection molding, our dedicated team focuses on the details to deliver on time and meet the needs of our global clients.
 
 .. raw:: html
 
