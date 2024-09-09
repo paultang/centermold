@@ -7,7 +7,7 @@
 =======================
 Moldflow Analysis
 =======================
-At CenterMold, our extensive experience allows us to successfully manage the majority of projects with precision and expertise. For unique structures and specialized materials, we recommend conducting mold flow analysis to optimize mold design and production processes. This advanced analysis helps predict and prevent potential issues, ensuring the highest quality results for our clients.
+At CenterMold, our extensive experience allows us to manage the majority of projects with precision and expertise. For unique structures and specialized materials, we conduct mold flow analysis to optimize mold design and production. This advanced analysis helps predict and prevent potential issues, ensuring the high quality results for our clients.
 
 .. image:: _static/moldflow01.gif
    :alt: This is an moldflow demo
