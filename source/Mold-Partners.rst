@@ -28,6 +28,10 @@ Why choose us?
 - Timely Communication
 - Iterative Development: We support iterative design processes, accommodating modifications and refinements to meet evolving project needs.
 
+.. raw:: html
+
+ <img src="_static/case_study.jpg"> 
+
 New Product Development Supporting
 -----------------------------------
 We specialize in supporting new product development projects, which often require frequent adjustments and refinements. Our flexible approach and dedication to continuous improvement make us an ideal partner for companies looking to innovate and adapt quickly.
