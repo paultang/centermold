@@ -53,19 +53,20 @@ Welcome to CenterMold!
    Resource
 
 .. image:: _static/future.svg
-   :target: http://www.centermold.com/en/latest/_static/RFQ.pdf
+   :target: https://www.centermold.com/en/latest/_static/RFQ.pdf
 
 .. image:: _static/process.svg
-   :target: http://www.centermold.com/en/latest/_static/Resource.html
+   :target: https://www.centermold.com/en/latest/_static/Resource.html
 
 
 .. image:: _static/mold_design.svg
-   :target: http://www.centermold.com/en/latest/Mold-Design.html
+   :target: https://www.centermold.com/en/latest/Mold-Design.html
 
 .. image:: _static/tooling.svg
-   :target:  https://www.centermold.com/en/latest/Mold-Tooling.html
+   :target: https://www.centermold.com/en/latest/Mold-Tooling.html
 
 .. image:: _static/assembly.svg
+    
 .. image:: _static/t1trial.svg
    :target: https://www.centermold.com/en/latest/Other-Services.html
 
