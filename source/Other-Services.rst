@@ -11,7 +11,7 @@ Other Services
 Additional Post-Injection Molding Services
 At CenterMold, we offer a comprehensive range of post-injection molding services to meet all our customers' needs. Beyond injection molding, our services include:
 
-.. figure:: _static/t102.jpg
+.. figure:: _static/t1.svg
    :align: right
    :width: 300px
 
