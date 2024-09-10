@@ -65,8 +65,10 @@ Welcome to CenterMold!
 .. image:: _static/tooling.svg
    :target: https://www.centermold.com/en/latest/Mold-Tooling.html
 
+assembly 
+
 .. image:: _static/assembly.svg
-    
+
 .. image:: _static/t1trial.svg
    :target: https://www.centermold.com/en/latest/Other-Services.html
 
