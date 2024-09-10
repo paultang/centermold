@@ -74,8 +74,8 @@ Welcome to CenterMold!
 
 
 .. raw:: html
- <br><br>
-    <video width="560" controls autoplay muted>
+
+    <video width="560" controls autoplay muted style="margin-top: 20px;"">
       <source src="_static/indexofCenterMold.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
