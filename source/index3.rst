@@ -52,8 +52,6 @@ Welcome to CenterMold!
 
    Resource
 
-
-
 .. image:: _static/future.svg
    :target: http://www.centermold.com/en/latest/_static/RFQ.pdf
 
@@ -65,14 +63,16 @@ Welcome to CenterMold!
    :target: http://www.centermold.com/en/latest/Mold-Design.html
 
 .. image:: _static/tooling.svg
+   :target:  https://www.centermold.com/en/latest/Mold-Tooling.html
+
 .. image:: _static/assembly.svg
 .. image:: _static/t1trial.svg
+   :target: https://www.centermold.com/en/latest/Other-Services.html
+
 .. image:: _static/case_study.svg
 
 .. image:: _static/small_batch.svg
-   :target: https://www.centermold.com/en/latest/_static/RFQ.pdf
-
-.. image:: _static/clients.svg
+   :target: https://www.centermold.com/en/latest/Manufacturing.html
 
 .. image:: _static/project_tracking.svg
    :target: https://www.centermold.com/en/latest/Resource.html 
