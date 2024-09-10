@@ -29,7 +29,7 @@ Why choose us?
 - Iterative Development: We support iterative design processes, accommodating modifications and refinements to meet evolving project needs.
 .. raw:: html
 
- <img src="_static/whyCM.jpg"> 
+ <img src="_static/whyCM.svg"> 
 
 
 New Product Development Supporting
