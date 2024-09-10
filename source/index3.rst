@@ -70,15 +70,15 @@ assembly  asdejlk fdklhsafk
 .. image:: _static/assembly.svg
 
 .. image:: _static/t1trial.svg
-   :target: https://www.centermold.com/en/latest/Other-Services.html
+   :target: http://www.centermold.com/en/latest/Other-Services.html
 
 .. image:: _static/case_study.svg
 
 .. image:: _static/small_batch.svg
-   :target: https://www.centermold.com/en/latest/Manufacturing.html
+   :target: http://www.centermold.com/en/latest/Manufacturing.html
 
 .. image:: _static/project_tracking.svg
-   :target: https://www.centermold.com/en/latest/Resource.html 
+   :target: http://www.centermold.com/en/latest/Resource.html 
 
 
 .. raw:: html
