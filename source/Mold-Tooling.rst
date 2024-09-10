@@ -45,7 +45,7 @@ Our Manufacturing Process
 
 .. raw:: html
 
-   <img src="_static/Process02.jpg">
+   <img src="_static/Process02.svg">
 
 5. Grinding and Polishing
 
@@ -67,7 +67,7 @@ Our Manufacturing Process
 
 .. raw:: html
 
-    <video width="560" controls autoplay muted>
+    <video width="700" controls autoplay muted>
       <source src="_static/centermold workshop.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
