@@ -56,7 +56,6 @@ Welcome to CenterMold!
 
 .. image:: _static/process.svg
    :align: center
-   :target: https://www.centermold.com/en/latest/_static/Resource.html
 
 
 .. image:: _static/mold_design.svg
