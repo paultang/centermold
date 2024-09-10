@@ -45,7 +45,7 @@ Our long-standing relationships with mold factories in the UK and North America 
 
 .. raw:: html
 
- <img src="_static/case_study.jpg"> 
+ <img src="_static/case_study.svg"> 
 
 Contact us to learn more about how we can collaborate for mutual success.
 
