@@ -65,7 +65,7 @@ Our Injection Molding Process
     * Dimensional Inspection: Using precision measuring tools to verify that the molded parts meet dimensional specifications.
     * Surface Finish Inspection: Checking for surface defects and ensuring the parts meet aesthetic and functional requirements.
 
-.. figure:: _static/t102.jpg
+.. figure:: _static/t1.svg
    :align: right
    :width: 300px
 
