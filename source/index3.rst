@@ -72,15 +72,9 @@ Welcome to CenterMold!
    :align: center
    :target: https://www.centermold.com/en/latest/Manufacturing.html
 
-.. image:: _static/project_tracking.svg
-   :align: center
-   :target: https://www.centermold.com/en/latest/Resource.html 
 
 .. raw:: html
-    <br><br>
-
-.. raw:: html
-
+ <br><br>
     <video width="560" controls autoplay muted>
       <source src="_static/indexofCenterMold.mp4" type="video/mp4">
       Your browser does not support the video tag.
