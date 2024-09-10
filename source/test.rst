@@ -2,14 +2,9 @@
 Chat With Us
 ================
 
-.. raw:: html
-
-   <img src="_static/Home.jpg" usemap="#imagemap">
-
-   <map name="imagemap">
-    <area target="_blank" alt="RFQ" title="RFQ" href="https://www.google.com" coords="77,507,392,557" shape="rect">
-   </map>
-
+.. image:: /_static/banner.svg
+   :alt: Description of the image
+   :target: https://www.google.com
 
 .. raw:: html
 
