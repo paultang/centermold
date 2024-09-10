@@ -4,9 +4,6 @@ Chat With Us
 
 .. image:: _static/banner.svg
    :alt: Description of the image
-   :width: auto
-   :height: auto
-   :align: center
 
 .. raw:: html
 
