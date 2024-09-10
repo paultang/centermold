@@ -82,7 +82,12 @@ Welcome to CenterMold!
 .. image:: _static/t1trial.svg
    :align: center
    :target: https://www.centermold.com/en/latest/Other-Services.html
+   :class: img-spacing
 
+.. raw:: html
+
+   <div style="height: 20px;"></div>
+   
 .. image:: _static/small_batch.svg
    :align: center
    :target: https://www.centermold.com/en/latest/Manufacturing.html
@@ -94,7 +99,7 @@ Welcome to CenterMold!
 
 .. raw:: html
 
-    <video width="680" controls autoplay muted style="margin-top: 20px;"">
+    <video width="750" controls autoplay muted style="margin-top: 20px;"">
       <source src="_static/indexofCenterMold.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
