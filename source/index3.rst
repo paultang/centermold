@@ -53,10 +53,8 @@ Welcome to CenterMold!
    Resource
 
 
-
 .. image:: _static/process.svg
    :align: center
-
 
 .. image:: _static/mold_design.svg
    :align: center
@@ -77,10 +75,10 @@ Welcome to CenterMold!
 .. image:: _static/project_tracking.svg
    :align: center
    :target: https://www.centermold.com/en/latest/Resource.html 
-
+   
 .. image:: _static/future.svg
    :align: center
-   :target: https://www.centermold.com/en/latest/_static/RFQ.pdf
+
 
  <br><br>
 
