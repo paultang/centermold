@@ -52,9 +52,7 @@ Welcome to CenterMold!
 
    Resource
 
-.. image:: _static/future.svg
-   :align: center
-   :target: https://www.centermold.com/en/latest/_static/RFQ.pdf
+
 
 .. image:: _static/process.svg
    :align: center
@@ -88,8 +86,13 @@ assembly
    :align: center
    :target: https://www.centermold.com/en/latest/Resource.html 
 
+
+.. image:: _static/future.svg
+   :align: center
+   :target: https://www.centermold.com/en/latest/_static/RFQ.pdf
+   
  <br><br>
- 
+
 .. raw:: html
 
     <video width="560" controls autoplay muted>
