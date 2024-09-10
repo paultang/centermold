@@ -75,12 +75,9 @@ Welcome to CenterMold!
 .. image:: _static/project_tracking.svg
    :align: center
    :target: https://www.centermold.com/en/latest/Resource.html 
-   
-.. image:: _static/future.svg
-   :align: center
 
-
- <br><br>
+.. raw:: html
+    <br><br>
 
 .. raw:: html
 
