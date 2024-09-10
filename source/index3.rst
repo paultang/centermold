@@ -52,33 +52,33 @@ Welcome to CenterMold!
 
    Resource
 
-.. image:: _static/future.svg
-   :target: https://www.centermold.com/en/latest/_static/RFQ.pdf
+`.. image:: _static/future.svg
+   :target: https://www.centermold.com/en/latest/_static/RFQ.pdf`
 
-.. image:: _static/process.svg
-   :target: https://www.centermold.com/en/latest/_static/Resource.html
+`.. image:: _static/process.svg
+   :target: https://www.centermold.com/en/latest/_static/Resource.html`
 
 
-.. image:: _static/mold_design.svg
-   :target: https://www.centermold.com/en/latest/Mold-Design.html
+`.. image:: _static/mold_design.svg
+   :target: https://www.centermold.com/en/latest/Mold-Design.html`
 
-.. image:: _static/tooling.svg
-   :target: https://www.centermold.com/en/latest/Mold-Tooling.html
+`.. image:: _static/tooling.svg
+   :target: https://www.centermold.com/en/latest/Mold-Tooling.html`
 
 assembly  asdejlk fdklhsafk 
 
-.. image:: _static/assembly.svg
+`.. image:: _static/assembly.svg`
 
-.. image:: _static/t1trial.svg
-   :target: https://www.centermold.com/en/latest/Other-Services.html
+`.. image:: _static/t1trial.svg
+   :target: https://www.centermold.com/en/latest/Other-Services.html`
 
-.. image:: _static/case_study.svg
+`.. image:: _static/case_study.svg
 
-.. image:: _static/small_batch.svg
-   :target: https://www.centermold.com/en/latest/Manufacturing.html
+`.. image:: _static/small_batch.svg
+   :target: https://www.centermold.com/en/latest/Manufacturing.html`
 
-.. image:: _static/project_tracking.svg
-   :target: https://www.centermold.com/en/latest/Resource.html 
+`.. image:: _static/project_tracking.svg
+   :target: https://www.centermold.com/en/latest/Resource.html `
 
 
 .. raw:: html
