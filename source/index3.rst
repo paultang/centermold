@@ -67,16 +67,9 @@ Welcome to CenterMold!
    :align: center
    :target: https://www.centermold.com/en/latest/Mold-Tooling.html
 
-assembly 
-
-.. image:: _static/assembly.svg
-   :align: center
 .. image:: _static/t1trial.svg
    :align: center
    :target: https://www.centermold.com/en/latest/Other-Services.html
-
-.. image:: _static/case_study.svg
-   :align: center
 
 .. image:: _static/small_batch.svg
    :align: center
@@ -86,11 +79,10 @@ assembly
    :align: center
    :target: https://www.centermold.com/en/latest/Resource.html 
 
-
 .. image:: _static/future.svg
    :align: center
    :target: https://www.centermold.com/en/latest/_static/RFQ.pdf
-   
+
  <br><br>
 
 .. raw:: html
