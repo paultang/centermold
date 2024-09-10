@@ -121,18 +121,6 @@ Welcome to CenterMold!
       Get Instant Quote
    </a>
 
-
-.. raw:: html
-
-    <br><br>
-    
-.. raw:: html
-
-    <a href="https://www.linkedin.com/in/billtang72/" target="_blank">
-        <img src="_static/LI-Logo.png" alt="LinkedIn" style="width: 100px; height: auto;"/>
-    </a>
-
-
 .. raw:: html
 
     <meta name="description" content="Centermold provides advanced machining equipment and spacious, clean workspaces for exceptional mold manufacturing and injection molding.">
