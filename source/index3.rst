@@ -55,47 +55,43 @@ Welcome to CenterMold!
 
 .. image:: _static/process.svg
    :align: center
-   :class: img-spacing
+   
 
 .. raw:: html
 
-   <div style="height: 20px;"></div>
+   <div style="margin-bottom: 20px;"></div>
 
 .. image:: _static/mold_design.svg
    :align: center
    :target: https://www.centermold.com/en/latest/Mold-Design.html
-   :class: img-spacing
-
+   
 .. raw:: html
 
-   <div style="height: 20px;"></div>
+   <div style="margin-bottom: 20px;"></div>
 
 .. image:: _static/tooling.svg
    :align: center
    :target: https://www.centermold.com/en/latest/Mold-Tooling.html
-   :class: img-spacing
-
+   
 .. raw:: html
 
-   <div style="height: 20px;"></div>
+   <div style="margin-bottom: 20px;"></div>
 
 .. image:: _static/t1trial.svg
    :align: center
    :target: https://www.centermold.com/en/latest/Other-Services.html
-   :class: img-spacing
-
+   
 .. raw:: html
 
-   <div style="height: 20px;"></div>
-   
+   <div style="margin-bottom: 20px;"></div>
+
 .. image:: _static/small_batch.svg
    :align: center
    :target: https://www.centermold.com/en/latest/Manufacturing.html
-   :class: img-spacing
-
+   
 .. raw:: html
 
-   <div style="height: 20px;"></div>
+   <div style="margin-bottom: 20px;"></div>
 
 .. raw:: html
 
