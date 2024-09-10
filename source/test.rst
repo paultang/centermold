@@ -4,6 +4,7 @@ Chat With Us
 
 .. image:: /_static/banner.svg
    :alt: Description of the image
+   :target: https://www.google.com
 
 .. raw:: html
 
