@@ -34,12 +34,14 @@ efficiency, and cost-effectivenes
 .. figure:: _static/question.svg
    :align: center
    :width: 450px
+   :target: https://www.centermold.com/en/latest/_static/question_before_quotation_from_centermold.pdf
 
 Download the PDF version of this documentation: `Questionnaire before Quotation <_static/question_before_quotation_from_centermold.pdf>`_
 
 .. figure:: _static/RFQ.svg
    :align: center
    :width: 450px
+   :target: https://www.centermold.com/en/latest/_static/RFQ.pdf
 
 Download the PDF about `Request for Quotation <_static/RFQ.pdf>`_
 
