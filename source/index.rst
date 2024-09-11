@@ -52,6 +52,9 @@ Welcome to CenterMold!
 
    Resource
 
+.. raw:: html
+  
+   <script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="1aead5fc-9cf4-4e96-9e11-9384bf1bcd3b" data-blockingmode="auto" type="text/javascript"></script>
 
 .. image:: _static/process.svg
    :align: center
