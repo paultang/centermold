@@ -52,6 +52,9 @@ Welcome to CenterMold!
 
 Dear Valued Customers and Partners,
 
+.. raw:: html
+ <script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="1aead5fc-9cf4-4e96-9e11-9384bf1bcd3b" data-blockingmode="auto" type="text/javascript"></script>
+
 Welcome to CenterMold!
 
 With over 30 years of experience in mold design, tooling, and injection molding, it has been my honor to lead CenterMold in our mission to deliver custom molds and small-batch plastic parts to international clients. 
