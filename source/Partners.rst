@@ -32,6 +32,9 @@ Our success is built not only on our expertise and dedication but also on the st
     * For ocean freight, we collaborate with reputable shipping companies like OOCL, Maersk, and Hapag-Lloyd to handle bulk shipments efficiently.
     * For smaller, time-sensitive shipments, we work with FedEx, UPS  and DHL that guarantee fast and secure delivery.
 
+.. figure:: _static/Package_al.svg
+   :align: right
+   :width: 300px
 
 .. raw:: html
 
