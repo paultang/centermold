@@ -84,6 +84,9 @@ Our Manufacturing Process
   - Protective Packaging: Ensuring molds are securely packaged to prevent damage during transportation.
   - Logistics Coordination: Coordinating with logistics partners to ensure timely and safe delivery to clients.
 
+.. figure:: _static/Package_al.svg
+   :align: center
+
 .. raw:: html
 
    <a href="_static/RFQ.pdf" style="
