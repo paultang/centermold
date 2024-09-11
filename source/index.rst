@@ -85,14 +85,6 @@ Welcome to CenterMold!
 
    <div style="margin-bottom: 20px;"></div>
 
-.. image:: _static/small_batch.svg
-   :align: center
-   :target: https://www.centermold.com/en/latest/Manufacturing.html
-   
-.. raw:: html
-
-   <div style="margin-bottom: 20px;"></div>
-
 .. raw:: html
 
     <video width="700" controls autoplay muted style="margin-top: 20px;"">
