@@ -61,3 +61,6 @@ At Centermold, we take pride in our advanced equipment and clean, spacious works
      - 1
      - Precision measurement up to 0.002 mm
 
+.. figure:: _static/inhousecapability.svg
+   :align: center
+   :width: 750px

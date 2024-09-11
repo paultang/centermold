@@ -16,6 +16,7 @@ Mold Design
 
 At CenterMold, our mold design team work hard to meet the unique needs of each client, ensuring the high levels of precision, efficiency, and quality. With over 30 years of experience in design, tooling, and injection molding, we leverage advanced design software and a customer-centric approach to deliver exceptional results.
 
+
 Our Design Software
 --------------------
 To provide the best mold design services, we utilize industry-leading software such as:
@@ -54,6 +55,10 @@ Our team of seasoned professionals brings decades of expertise in mold design an
   - Design Reviews: Conducting detailed design reviews with the client to ensure all requirements and expectations are met.
   - Feedback and Iteration: Incorporating client feedback and making necessary adjustments.
   - Final Approval: Securing client approval on the final design before proceeding to manufacturing.
+
+.. figure:: _static/mold process.svg
+   :align: center
+
 
 
 .. raw:: html
