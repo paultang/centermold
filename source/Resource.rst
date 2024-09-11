@@ -29,21 +29,6 @@ Question Before Quotation
 We value your expertise and insights as we work together to design a mold that meets your specific requirements. By understanding your product’s demands we can create a mold that balances quality,
 efficiency.
 
-.. figure:: _static/question.svg
-   :align: center
-   :width: 450px
-   :target: https://www.centermold.com/en/latest/_static/question_before_quotation_from_centermold.pdf
-
-Download the PDF version of this documentation: `Questionnaire before Quotation <_static/question_before_quotation_from_centermold.pdf>`_
-
-.. figure:: _static/RFQ.svg
-   :align: center
-   :width: 450px
-   :target: https://www.centermold.com/en/latest/_static/RFQ.pdf
-
-Download the PDF about `Request for Quotation <_static/RFQ.pdf>`_
-
-
 .. raw:: html
 
     <div style="display: flex; justify-content: space-between;">
