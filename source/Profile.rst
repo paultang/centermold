@@ -33,9 +33,6 @@ Shenzhen or Hongkong - Europe
 - Rotterdam, Netherlands
 - Hamburg, Germany
 - Le Havre, France
- 
-Shenzhen or Hongkong - United Kingdom
-
 - Southampton
 - Liverpool
 
