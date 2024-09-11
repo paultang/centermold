@@ -56,6 +56,8 @@ Our team of seasoned professionals brings decades of expertise in mold design an
   - Feedback and Iteration: Incorporating client feedback and making necessary adjustments.
   - Final Approval: Securing client approval on the final design before proceeding to manufacturing.
 
+.. raw:: html
+   
 .. figure:: _static/mold process.svg
    :align: center
 
