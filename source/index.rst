@@ -126,10 +126,10 @@ Welcome to CenterMold!
       "@type": "Organization",
       "name": "Centermold,",
       "url": "https://www.centermold.com",
-      "description": "Professtional mold maker and plastic injection molding provider",
+      "description": "A Professtional mold maker and plastic injection molding provider",
       "contactPoint": {
         "@type": "ContactPoint",
-        "email": "info@centermold.com",
+        "email": "inquiry@centermold.com",
         "contactType": "Customer Service"
       }
     }
