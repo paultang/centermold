@@ -50,6 +50,10 @@ html_context = {
 }
 html_favicon = '_static/favicon.ico'  # 修改成你的图标文件路径
 
+html_css_files = [
+    'custom.css',
+]
+
 # conf.py 文件
 
 rst_epilog = """
