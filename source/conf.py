@@ -52,12 +52,11 @@ html_favicon = '_static/favicon.ico'  # 修改成你的图标文件路径
 
 # conf.py 文件
 
-html_context = {
-    'contact_info': '''
+rst_epilog = """
+.. raw:: html
+
+    <hr>
     <div style="text-align:center; margin-top:20px;">
-        <hr>
-        <p>Contact us: <a href="mailto:inquiry@centermold.com">inquiry@centermold.com</a></p>
-        <p>A professional Mold Maker</p>
-    </div>
-    '''
-}
+    <p>Contact us: <a href="mailto:inquiry@centermold.com">inquiry@centermold.com</a></p>
+    <p>A professional Mold Maker</p>
+"""
