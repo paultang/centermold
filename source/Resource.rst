@@ -17,7 +17,7 @@ From design and manufacturing to assembly, de-molding, and testing, this templat
 
 `Trello Mold Project Management Template <https://trello.com/b/gFxcTwyo>`_
 
-.. image:: _static/template.png
+.. image:: _static/project_tracking.jpg
    :alt: This is an moldflow demo
    :width: 800px
    :align: center
