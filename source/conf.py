@@ -58,5 +58,5 @@ rst_epilog = """
     <hr>
     <div style="text-align:center; margin-top:20px;">
     <p>Contact us: <a href="mailto:inquiry@centermold.com">inquiry@centermold.com</a></p>
-    <p>A professional Mold Maker</p>
+    <p>a free quotation for you</p>
 """
