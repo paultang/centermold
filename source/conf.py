@@ -49,3 +49,15 @@ html_context = {
     'ga_tracking_id': 'G-LJ9L3WNCW5',  # Replace with your tracking ID
 }
 html_favicon = '_static/favicon.ico'  # 修改成你的图标文件路径
+
+# conf.py 文件
+
+html_context = {
+    'contact_info': '''
+    <div style="text-align:center; margin-top:20px;">
+        <hr>
+        <p>Contact us: <a href="mailto:inquiry@centermold.com">inquiry@centermold.com</a></p>
+        <p>A professional Mold Maker</p>
+    </div>
+    '''
+}
