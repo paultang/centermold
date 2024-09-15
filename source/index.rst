@@ -88,13 +88,15 @@ Welcome to CenterMold!
 
    <div style="margin-bottom: 20px;"></div>
 
+
 .. raw:: html
 
-    <video width="700" controls autoplay muted style="margin-top: 20px;"">
-      <source src="_static/indexofCenterMold.mp4" type="video/mp4">
-      Your browser does not support the video tag.
-    </video>
-
+    <div style="display: flex; justify-content: center; margin-top: 20px;">
+      <video width="780" controls autoplay muted>
+        <source src="_static/indexofCenterMold.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </div>
 
 .. raw:: html
 
