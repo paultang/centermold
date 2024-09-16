@@ -58,7 +58,7 @@ Welcome to CenterMold!
 
 .. image:: _static/quotes.svg
    :align: center
-   
+   :target: https://www.centermold.com/en/latest/Mold-Design.html
 
 .. raw:: html
 
@@ -66,7 +66,7 @@ Welcome to CenterMold!
 
 .. image:: _static/designfb.svg
    :align: center
-   :target: https://www.centermold.com/en/latest/Mold-Design.html
+
    
 .. raw:: html
 
@@ -74,7 +74,6 @@ Welcome to CenterMold!
 
 .. image:: _static/ordertrack.svg
    :align: center
-   :target: https://www.centermold.com/en/latest/Mold-Tooling.html
    
 .. raw:: html
 
@@ -82,7 +81,6 @@ Welcome to CenterMold!
 
 .. image:: _static/project_lifecycle.svg
    :align: center
-   :target: https://www.centermold.com/en/latest/Other-Services.html
    
 .. raw:: html
 
