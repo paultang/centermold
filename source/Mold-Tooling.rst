@@ -46,7 +46,6 @@ Precision Tooling and Machining
    :align: center
 
 .. raw:: html
-   
    <div style="margin-bottom: 20px;"></div>
 
 .. figure:: _static/3d_conformal.svg
