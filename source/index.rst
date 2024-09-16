@@ -59,7 +59,10 @@ Welcome to CenterMold!
 .. image:: _static/Misssion.svg
    :align: center
    
+.. raw:: html
 
+   <div style="margin-bottom: 20px;"></div>
+   
 .. image:: _static/quotes.svg
    :align: center
    :target: https://www.centermold.com/en/latest/Mold-Design.html
