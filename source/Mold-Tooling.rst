@@ -45,12 +45,6 @@ Precision Tooling and Machining
 .. figure:: _static/Process02.svg
    :align: center
 
-.. raw:: html
-   <div style="margin-bottom: 20px;"></div>
-
-.. figure:: _static/3d_conformal.svg
-   :align: center
-
   - Rough Machining
   - Precision Machining: Utilizing advanced CNC machines to achieve precise dimensions and tolerances.
   - Sinker EDM: Creating complex shapes and fine details in mold components.
@@ -85,6 +79,11 @@ T0 Trial shot
       Your browser does not support the video tag.
     </video>
 
+.. raw:: html
+   <div style="margin-bottom: 20px;"></div>
+
+.. figure:: _static/3d_conformal.svg
+   :align: center
 
 .. raw:: html
 
