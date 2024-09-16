@@ -59,7 +59,7 @@ Welcome to CenterMold!
 .. raw:: html
 
    <div style="margin-bottom: 20px;"></div>
-   
+
 .. image:: _static/Misssion.svg
    :align: center
    
@@ -69,7 +69,7 @@ Welcome to CenterMold!
 
 .. image:: _static/quotes.svg
    :align: center
-   :target: https://www.centermold.com/en/latest/Mold-Design.html
+   :target: mailto: inquiry@centermold.com
 
 .. raw:: html
 
@@ -92,7 +92,7 @@ Welcome to CenterMold!
 
 .. image:: _static/project_lifecycle.svg
    :align: center
-   :target: https://www.centermold.com/en/latest/Mold-Design.html
+   :target: mailto:inquiry@centermold.com
 
 .. raw:: html
 
