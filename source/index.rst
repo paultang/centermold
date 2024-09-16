@@ -56,7 +56,7 @@ Welcome to CenterMold!
   
    <script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="1aead5fc-9cf4-4e96-9e11-9384bf1bcd3b" data-blockingmode="auto" type="text/javascript"></script>
 
-.. image:: _static/process.svg
+.. image:: _static/quotes.svg
    :align: center
    
 
@@ -64,7 +64,7 @@ Welcome to CenterMold!
 
    <div style="margin-bottom: 20px;"></div>
 
-.. image:: _static/mold_design.svg
+.. image:: _static/designfb.svg
    :align: center
    :target: https://www.centermold.com/en/latest/Mold-Design.html
    
@@ -72,7 +72,7 @@ Welcome to CenterMold!
 
    <div style="margin-bottom: 20px;"></div>
 
-.. image:: _static/tooling.svg
+.. image:: _static/ordertrack.svg
    :align: center
    :target: https://www.centermold.com/en/latest/Mold-Tooling.html
    
@@ -80,7 +80,7 @@ Welcome to CenterMold!
 
    <div style="margin-bottom: 20px;"></div>
 
-.. image:: _static/t1trial.svg
+.. image:: _static/project lifecycle.svg
    :align: center
    :target: https://www.centermold.com/en/latest/Other-Services.html
    
