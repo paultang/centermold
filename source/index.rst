@@ -67,9 +67,11 @@ Welcome to CenterMold!
 
    <div style="margin-bottom: 20px;"></div>
 
-.. image:: _static/quotes.svg
-   :align: center
-   :target: mailto:inquiry&#64;centermold&#46;com
+.. raw:: html
+
+   <a href="mailto:inquiry&#64;centermold&#46;com">
+      <img src="_static/quotes.svg" align="center" />
+   </a>
 
 .. raw:: html
 
