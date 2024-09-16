@@ -96,10 +96,10 @@ Welcome to CenterMold!
 
 .. raw:: html
 
-   <a href="mailto:inquiry@centermold.com">
+   <a href="mailto:inquiry&#64;centermold&#46;com">
       <img src="_static/project_lifecycle.svg" align="center" />
    </a>
-
+   
 .. raw:: html
 
    <div style="margin-bottom: 20px;"></div>
