@@ -27,6 +27,9 @@ To provide the best mold design services, we utilize industry-leading software s
 
 Mold Design Process
 ------------------------
+
+
+
 Our team of seasoned professionals brings decades of expertise in mold design and manufacturing.
 
 1. Initial Consultation and Design Review  
@@ -39,7 +42,11 @@ Our team of seasoned professionals brings decades of expertise in mold design an
   - Ejector Pin Placement: Placing ejector pins to ensure smooth part removal without damaging the product.
 ..
 
-2. Detailed Design
+ .. figure:: _static/design_process.svg
+   :align: center
+    :target: mailto:inquiry@centermold.com
+
+1. Detailed Design
 ..
 
   - 3D Modeling
@@ -57,8 +64,6 @@ Our team of seasoned professionals brings decades of expertise in mold design an
   - Final Approval: Securing client approval on the final design before proceeding to manufacturing.
 
 
- .. figure:: _static/design_process.svg
-   :align: center
 
 
 
