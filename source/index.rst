@@ -69,7 +69,7 @@ Welcome to CenterMold!
 
 .. image:: _static/quotes.svg
    :align: center
-   :target: mailto: inquiry@centermold.com
+   :target: mailto:inquiry@centermold.com
 
 .. raw:: html
 
