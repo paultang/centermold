@@ -38,12 +38,6 @@ Precision Tooling and Machining
 .. figure:: _static/tooling.svg
    :align: center
 
-.. raw:: html
-   <div style="margin-bottom: 20px;"></div>
-
-.. figure:: _static/Process02.svg
-   :align: center
-
   - Rough Machining
   - Precision Machining: Utilizing advanced CNC machines to achieve precise dimensions and tolerances.
   - Sinker EDM: Creating complex shapes and fine details in mold components.
@@ -64,6 +58,12 @@ Fitting and Assemble
   - Assembling mold components and ensuring proper fit and function.
   - Performing any necessary final machining operations to ensure all parts fit together seamlessly.
   - Conducting dimensional inspections to verify all components meet design requirements.
+
+.. raw:: html
+   <div style="margin-bottom: 20px;"></div>
+
+.. figure:: _static/Process02.svg
+   :align: center
 
 T0 Trial shot
 ---------------
