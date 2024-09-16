@@ -78,8 +78,7 @@ T0 Trial shot
 .. figure:: _static/3d_conformal.svg
    :align: center
 
-.. raw:: html
-   <div style="margin-bottom: 20px;"></div>
+.. .. raw:: html
     <video width="700" controls autoplay muted>
       <source src="_static/centermold workshop.mp4" type="video/mp4">
       Your browser does not support the video tag.
