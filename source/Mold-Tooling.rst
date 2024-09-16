@@ -16,6 +16,9 @@ CenterMold is dedicated to delivering top-tier molds through a comprehensive and
 
 Our Manufacturing Process
 
+.. raw:: html
+
+   <div style="margin-bottom: 20px;"></div>
 .. figure:: _static/mtoolingp.svg
    :align: right
 
@@ -35,6 +38,9 @@ Our Manufacturing Process
   - Polishing: Hand and machine polishing to achieve the required surface finish and texture.
   - Inspection: Verifying surface finish and dimensional accuracy through detailed inspection.
 
+.. raw:: html
+
+   <div style="margin-bottom: 20px;"></div>
 .. figure:: _static/tooling.svg
    :align: center
 
@@ -52,7 +58,10 @@ Our Manufacturing Process
   - Performing any necessary final machining operations to ensure all parts fit together seamlessly.
   - Conducting dimensional inspections to verify all components meet design requirements.
 
-.. figure:: _static/3d_conformal Al.svg
+.. raw:: html
+
+   <div style="margin-bottom: 20px;"></div>
+.. figure:: _static/3d_conformal.svg
    :align: center
 
 .. .. raw:: html
