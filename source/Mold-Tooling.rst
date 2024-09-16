@@ -38,9 +38,7 @@ Precision Tooling and Machining
 .. raw:: html
    <div style="margin-bottom: 20px;"></div>
 
-.. figure:: _static/Process02.svg
-   :align: center
-   
+
 Precision Tooling and Machining
 
   - Rough Machining
@@ -60,6 +58,14 @@ Heat Treatment and Surface finishing(optional)
 
 Fitting and Assemble
 ------------------------
+.. raw:: html
+   <div style="margin-bottom: 20px;"></div>
+
+.. figure:: _static/Process02.svg
+   :align: center
+
+Fitting and Assembly
+
   - Assembling mold components and ensuring proper fit and function.
   - Performing any necessary final machining operations to ensure all parts fit together seamlessly.
   - Conducting dimensional inspections to verify all components meet design requirements.
