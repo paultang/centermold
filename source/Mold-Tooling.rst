@@ -35,7 +35,7 @@ Our Manufacturing Process
   - Polishing: Hand and machine polishing to achieve the required surface finish and texture.
   - Inspection: Verifying surface finish and dimensional accuracy through detailed inspection.
 
-.. figure:: _static/mtoolingp.svg
+.. figure:: _static/tooling.svg
    :align: center
 
 
@@ -52,7 +52,7 @@ Our Manufacturing Process
   - Performing any necessary final machining operations to ensure all parts fit together seamlessly.
   - Conducting dimensional inspections to verify all components meet design requirements.
 
-.. figure:: _static/mtoolingp.svg
+.. figure:: _static/3d_conformal Al.svg
    :align: center
 
 .. .. raw:: html
