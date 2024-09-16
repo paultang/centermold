@@ -31,13 +31,12 @@ Mold Design Process
 
 Our team of seasoned professionals brings decades of expertise in mold design and manufacturing.
 
-1. Reruirement Analysis and Design Review
+1. Initial Consultation and Design Review  
 ..
   
-  Understanding the client’s requirements, product specifications, and manufacturing goals.
-2. Mold Concept and 3D design
-  - Developing initial design concepts and discussing potential approaches with the client.  
-  - Gate Location and Type: Specifying the location, type, and size of the gate to ensure optimal flow and minimal defects.  
+  - Needs Assessment: Understanding the client’s requirements, product specifications, and manufacturing goals.
+  - Conceptual Design: Developing initial design concepts and discussing potential approaches with the client.  
+  -  Gate Location and Type: Specifying the location, type, and size of the gate to ensure optimal flow and minimal defects.  
   - Parting Line: Clearly defining the parting line to ensure proper mold separation and ease of manufacturing.
   - Ejector Pin Placement: Placing ejector pins to ensure smooth part removal without damaging the product.
 ..
@@ -46,21 +45,22 @@ Our team of seasoned professionals brings decades of expertise in mold design an
    :align: right
    :width: 450px
    
-3. Mold Flow and Detail Design
+2. Detailed Design
 ..
 
-  - :ref:`Mold-flow` 
   - 3D Modeling
+  - :ref:`Mold-flow` 
+  - Design for Manufacturability (DFM)
   - Cooling System Design: Designing efficient cooling channels to maintain consistent temperature and reduce cycle times
   - Export mold Considerations: Designing molds with export requirements in mind, considering the client's injection molding machine specifications.
  
 
-4. Client Communication and Approval and CAM Ready Validation
+3. Client Communication and Approval
 ..
 
-  - Conducting detailed design reviews with the client to ensure all requirements and expectations are met.
-  - Incorporating client feedback and making necessary adjustments.
-  - Securing client approval on the final design before proceeding to manufacturing.
+  - Design Reviews: Conducting detailed design reviews with the client to ensure all requirements and expectations are met.
+  - Feedback and Iteration: Incorporating client feedback and making necessary adjustments.
+  - Final Approval: Securing client approval on the final design before proceeding to manufacturing.
 
 
 
