@@ -9,13 +9,12 @@
 =======================
 Mold Design
 =======================
-.. figure:: _static/moldesign.svg
-   :align: right
-   :width: 450px
-   
+
 
 At CenterMold, our mold design team work hard to meet the unique needs of each client, ensuring the high levels of precision, efficiency, and quality. With over 30 years of experience in design, tooling, and injection molding, we leverage advanced design software and a customer-centric approach to deliver exceptional results.
 
+ .. figure:: _static/design_process.svg
+   :align: center
 
 Our Design Software
 --------------------
@@ -42,11 +41,11 @@ Our team of seasoned professionals brings decades of expertise in mold design an
   - Ejector Pin Placement: Placing ejector pins to ensure smooth part removal without damaging the product.
 ..
 
- .. figure:: _static/design_process.svg
-   :align: center
-   :target: mailto:inquiry@centermold.com
-
-1. Detailed Design
+.. figure:: _static/moldesign.svg
+   :align: right
+   :width: 450px
+   
+2. Detailed Design
 ..
 
   - 3D Modeling
