@@ -7,7 +7,7 @@
 =======================
 Mold Tooling
 =======================
-.. figure:: _static/moldtooling.jpg
+.. .. figure:: _static/moldtooling.jpg
    :align: right
    :width: 400px
 
@@ -28,7 +28,19 @@ Our Manufacturing Process
   - Core and Cavity Steel: Selecting high-quality steel for the core and cavity to ensure durability and performance.
   - Mold Components: Sourcing essential mold components such as ejector pins, guide pins, bushings, and other standard parts.
 
-2. Precision Tooling and Machining
+.. raw:: html
+
+   <div style="margin-bottom: 20px;"></div>
+.. figure:: _static/tooling.svg
+   :align: center
+
+.. raw:: html
+   <div style="margin-bottom: 20px;"></div>
+.. figure:: _static/Process02.svg
+   :align: center
+
+
+1. Precision Tooling and Machining
 
   - Rough Machining
   - Precision Machining: Utilizing advanced CNC machines to achieve precise dimensions and tolerances.
@@ -37,14 +49,6 @@ Our Manufacturing Process
   - Surface Grinding: Achieving precise flatness and smooth surfaces.
   - Polishing: Hand and machine polishing to achieve the required surface finish and texture.
   - Inspection: Verifying surface finish and dimensional accuracy through detailed inspection.
-
-.. raw:: html
-
-   <div style="margin-bottom: 20px;"></div>
-.. figure:: _static/tooling.svg
-   :align: center
-
-
   
 3 . Heat Treatment and Surface finishing(optional)
 
@@ -58,12 +62,6 @@ Our Manufacturing Process
   - Performing any necessary final machining operations to ensure all parts fit together seamlessly.
   - Conducting dimensional inspections to verify all components meet design requirements.
 
-.. raw:: html
-
-   <div style="margin-bottom: 20px;"></div>
-.. figure:: _static/3d_conformal.svg
-   :align: center
-
 .. .. raw:: html
 
 ..    <video width="700" controls autoplay muted>
@@ -76,6 +74,12 @@ Our Manufacturing Process
 
   - Conducting trial runs to test the mold.
   - Assessing mold performance, identifying any issues, and making necessary adjustments.
+
+.. raw:: html
+   <div style="margin-bottom: 20px;"></div>
+.. figure:: _static/3d_conformal.svg
+   :align: center
+
 
 
 .. raw:: html
