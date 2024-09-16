@@ -92,13 +92,13 @@ Welcome to CenterMold!
 
 .. .. image:: _static/project_lifecycle.svg
    :align: center
-   :target: Mailto:inquiry@centermold.com
+   :target: mailto:inquiry@centermold.com
 
-.. figure:: _static/project_lifecycle.svg
-   :align: center
+.. raw:: html
 
-   `Email us <mailto:inquiry@centermold.com>`_
-
+   <a href="mailto:inquiry@centermold.com">
+      <img src="_static/project_lifecycle.svg" align="center" />
+   </a>
 
 .. raw:: html
 
