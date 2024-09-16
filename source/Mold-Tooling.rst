@@ -33,6 +33,7 @@ Precision Tooling and Machining
 ---------------------------------
 
 .. raw:: html
+
    <div style="margin-bottom: 20px;"></div>
 
 .. figure:: _static/tooling.svg
