@@ -32,10 +32,10 @@ Material Procurement
 Precision Tooling and Machining
 ---------------------------------
 
-.. raw:: html
-
 .. figure:: _static/tooling.svg
    :align: center
+
+Precision Tooling and Machining
 
   - Rough Machining
   - Utilizing advanced CNC machines to achieve precise dimensions and tolerances.
