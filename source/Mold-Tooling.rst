@@ -28,6 +28,7 @@ Our Manufacturing Process
   - Core and Cavity Steel: Selecting high-quality steel for the core and cavity to ensure durability and performance.
   - Mold Components: Sourcing essential mold components such as ejector pins, guide pins, bushings, and other standard parts.
 
+2. Precision Tooling and Machining
 .. raw:: html
 
    <div style="margin-bottom: 20px;"></div>
@@ -39,8 +40,10 @@ Our Manufacturing Process
 .. figure:: _static/Process02.svg
    :align: center
 
-
-1. Precision Tooling and Machining
+.. raw:: html
+   <div style="margin-bottom: 20px;"></div>
+.. figure:: _static/3d_conformal.svg
+   :align: center
 
   - Rough Machining
   - Precision Machining: Utilizing advanced CNC machines to achieve precise dimensions and tolerances.
@@ -62,24 +65,17 @@ Our Manufacturing Process
   - Performing any necessary final machining operations to ensure all parts fit together seamlessly.
   - Conducting dimensional inspections to verify all components meet design requirements.
 
-.. .. raw:: html
-
-..    <video width="700" controls autoplay muted>
-      <source src="_static/centermold workshop.mp4" type="video/mp4">
-      Your browser does not support the video tag.
-    </video>
-
-
 5. T0 Trial shot
 
   - Conducting trial runs to test the mold.
   - Assessing mold performance, identifying any issues, and making necessary adjustments.
 
 .. raw:: html
-   <div style="margin-bottom: 20px;"></div>
-.. figure:: _static/3d_conformal.svg
-   :align: center
 
+    <video width="700" controls autoplay muted>
+      <source src="_static/centermold workshop.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
 
 
 .. raw:: html
