@@ -35,6 +35,12 @@ Precision Tooling and Machining
 .. figure:: _static/tooling.svg
    :align: center
 
+.. raw:: html
+   <div style="margin-bottom: 20px;"></div>
+
+.. figure:: _static/Process02.svg
+   :align: center
+   
 Precision Tooling and Machining
 
   - Rough Machining
@@ -58,11 +64,7 @@ Fitting and Assemble
   - Performing any necessary final machining operations to ensure all parts fit together seamlessly.
   - Conducting dimensional inspections to verify all components meet design requirements.
 
-.. raw:: html
-   <div style="margin-bottom: 20px;"></div>
 
-.. figure:: _static/Process02.svg
-   :align: center
 
 T0 Trial shot
 ---------------
