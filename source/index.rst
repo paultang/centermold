@@ -69,7 +69,7 @@ Welcome to CenterMold!
 
 .. image:: _static/quotes.svg
    :align: center
-   :target: mailto:inquiry@centermold.com
+   :target: mailto:inquiry&#64;centermold&#46;com
 
 .. raw:: html
 
@@ -99,7 +99,7 @@ Welcome to CenterMold!
    <a href="mailto:inquiry&#64;centermold&#46;com">
       <img src="_static/project_lifecycle.svg" align="center" />
    </a>
-   
+
 .. raw:: html
 
    <div style="margin-bottom: 20px;"></div>
