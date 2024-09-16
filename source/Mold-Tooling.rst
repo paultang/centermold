@@ -34,18 +34,16 @@ Precision Tooling and Machining
 
 .. raw:: html
 
-   <div style="margin-bottom: 20px;"></div>
-
 .. figure:: _static/tooling.svg
    :align: center
 
-  Rough Machining
-  Precision Machining: Utilizing advanced CNC machines to achieve precise dimensions and tolerances.
-  Sinker EDM: Creating complex shapes and fine details in mold components.
-  Wire EDM: Cutting intricate shapes.
-  Surface Grinding: Achieving precise flatness and smooth surfaces.
-  Polishing: Hand and machine polishing to achieve the required surface finish and texture.
-  Inspection: Verifying surface finish and dimensional accuracy through detailed inspection.
+  - Rough Machining
+  - Utilizing advanced CNC machines to achieve precise dimensions and tolerances.
+  - Sinker EDM: Creating complex shapes and fine details in mold components.
+  - Wire EDM: Cutting intricate shapes.
+  - Surface Grinding: Achieving precise flatness and smooth surfaces.
+  - Polishing: Hand and machine polishing to achieve the required surface finish andtexture
+  - Inspection: Verifying surface finish and dimensional accuracy through detailed inspection.
   
 Heat Treatment and Surface finishing(optional)
 ------------------------------------------------
