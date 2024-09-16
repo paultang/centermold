@@ -44,7 +44,7 @@ Our team of seasoned professionals brings decades of expertise in mold design an
 
  .. figure:: _static/design_process.svg
    :align: center
-    :target: mailto:inquiry@centermold.com
+   :target: mailto:inquiry@centermold.com
 
 1. Detailed Design
 ..

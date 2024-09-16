@@ -81,7 +81,8 @@ Welcome to CenterMold!
 
 .. image:: _static/project_lifecycle.svg
    :align: center
-   
+   :target: https://www.centermold.com/en/latest/Mold-Design.html
+
 .. raw:: html
 
    <div style="margin-bottom: 20px;"></div>
