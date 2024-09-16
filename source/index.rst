@@ -56,6 +56,10 @@ Welcome to CenterMold!
   
    <script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="1aead5fc-9cf4-4e96-9e11-9384bf1bcd3b" data-blockingmode="auto" type="text/javascript"></script>
 
+.. image:: _static/Misssion.svg
+   :align: center
+   
+
 .. image:: _static/quotes.svg
    :align: center
    :target: https://www.centermold.com/en/latest/Mold-Design.html
