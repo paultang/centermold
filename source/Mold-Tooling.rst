@@ -22,13 +22,16 @@ Our Manufacturing Process
 .. figure:: _static/mtoolingp.svg
    :align: right
 
-1. Material Procurement
+Material Procurement
+---------------------
 
   - Mold Base Selection: Choosing the appropriate mold base according to the design requirements and specifications.
   - Core and Cavity Steel: Selecting high-quality steel for the core and cavity to ensure durability and performance.
   - Mold Components: Sourcing essential mold components such as ejector pins, guide pins, bushings, and other standard parts.
 
-2. Precision Tooling and Machining
+Precision Tooling and Machining
+---------------------------------
+
 .. raw:: html
 
    <div style="margin-bottom: 20px;"></div>
@@ -45,7 +48,7 @@ Our Manufacturing Process
 .. raw:: html
    
    <div style="margin-bottom: 20px;"></div>
-   
+
 .. figure:: _static/3d_conformal.svg
    :align: center
 
@@ -57,19 +60,21 @@ Our Manufacturing Process
   - Polishing: Hand and machine polishing to achieve the required surface finish and texture.
   - Inspection: Verifying surface finish and dimensional accuracy through detailed inspection.
   
-3 . Heat Treatment and Surface finishing(optional)
+Heat Treatment and Surface finishing(optional)
+------------------------------------------------
 
   - Hardening: Applying heat treatment processes to enhance the hardness and durability of mold steel.
   - Tempering
   - Hardness Testing: Performing hardness tests to ensure the treated components meet the required specifications.
 
-4. Fitting and Assemble
-
+Fitting and Assemble
+------------------------
   - Assembling mold components and ensuring proper fit and function.
   - Performing any necessary final machining operations to ensure all parts fit together seamlessly.
   - Conducting dimensional inspections to verify all components meet design requirements.
 
-5. T0 Trial shot
+T0 Trial shot
+---------------
 
   - Conducting trial runs to test the mold.
   - Assessing mold performance, identifying any issues, and making necessary adjustments.
