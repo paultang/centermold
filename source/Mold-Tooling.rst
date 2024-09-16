@@ -32,16 +32,20 @@ Our Manufacturing Process
 .. raw:: html
 
    <div style="margin-bottom: 20px;"></div>
+
 .. figure:: _static/tooling.svg
    :align: center
 
 .. raw:: html
    <div style="margin-bottom: 20px;"></div>
+
 .. figure:: _static/Process02.svg
    :align: center
 
 .. raw:: html
+   
    <div style="margin-bottom: 20px;"></div>
+   
 .. figure:: _static/3d_conformal.svg
    :align: center
 
