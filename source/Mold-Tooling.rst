@@ -73,17 +73,19 @@ T0 Trial shot
   - Assessing mold performance, identifying any issues, and making necessary adjustments.
 
 .. raw:: html
+   <div style="margin-bottom: 20px;"></div>
 
+.. figure:: _static/3d_conformal.svg
+   :align: center
+
+.. raw:: html
+   <div style="margin-bottom: 20px;"></div>
     <video width="700" controls autoplay muted>
       <source src="_static/centermold workshop.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
 
-.. raw:: html
-   <div style="margin-bottom: 20px;"></div>
 
-.. figure:: _static/3d_conformal.svg
-   :align: center
 
 .. raw:: html
 
