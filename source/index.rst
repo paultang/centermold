@@ -90,9 +90,15 @@ Welcome to CenterMold!
 
    <div style="margin-bottom: 20px;"></div>
 
-.. image:: _static/project_lifecycle.svg
+.. .. image:: _static/project_lifecycle.svg
    :align: center
-   :target: mailto:inquiry@centermold.com
+   :target: Mailto:inquiry@centermold.com
+
+.. figure:: _static/project_lifecycle.svg
+   :align: center
+
+   `Email us <mailto:inquiry@centermold.com>`_
+
 
 .. raw:: html
 
