@@ -80,7 +80,7 @@ Welcome to CenterMold!
 
    <div style="margin-bottom: 20px;"></div>
 
-.. image:: _static/project lifecycle.svg
+.. image:: _static/project_lifecycle.svg
    :align: center
    :target: https://www.centermold.com/en/latest/Other-Services.html
    

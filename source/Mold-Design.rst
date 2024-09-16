@@ -57,7 +57,7 @@ Our team of seasoned professionals brings decades of expertise in mold design an
   - Final Approval: Securing client approval on the final design before proceeding to manufacturing.
 
 
-.. .. figure:: _static/moldprocess.svg
+ .. figure:: _static/design process.svg
    :align: center
 
 
