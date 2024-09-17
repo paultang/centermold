@@ -69,7 +69,7 @@ At CenterMold, we ensure that every step of the mold project is planned and exec
 
 Management Template
 --------------------
-Get more :ref:`resources-download`  
+We make some useful resouces document for download, Get more :ref:`resources-download`  
 
 .. raw:: html
 
