@@ -21,9 +21,12 @@ CenterMold is dedicated to delivering top-tier molds through a comprehensive and
 .. raw:: html
 
    <div style="text-align: center;">
-      Our Manufacturing Process
+      Manufacturing Process
    </div>
 ..
+.. raw:: html
+
+   <div style="margin-bottom: 20px;"></div>
 
 1. Material Procurement
 ------------------------
@@ -50,6 +53,9 @@ CenterMold is dedicated to delivering top-tier molds through a comprehensive and
    <div style="text-align: center;">
       Precision Tooling and Machining
    </div>
+.. raw:: html
+
+   <div style="margin-bottom: 20px;"></div>
 ..
 
   - Rough Machining
@@ -59,13 +65,21 @@ CenterMold is dedicated to delivering top-tier molds through a comprehensive and
   - Surface Grinding: Achieving precise flatness and smooth surfaces.
   - Polishing: Hand and machine polishing to achieve the required surface finish andtexture
   - Inspection: Verifying surface finish and dimensional accuracy through detailed inspection.
-  
+
+.. raw:: html
+
+   <div style="margin-bottom: 20px;"></div>
+
 3. Heat Treatment and Surface finishing(optional)
 --------------------------------------------------
 
   - Hardening: Applying heat treatment processes to enhance the hardness and durability of mold steel.
   - Tempering
   - Hardness Testing: Performing hardness tests to ensure the treated components meet the required specifications.
+
+.. raw:: html
+
+   <div style="margin-bottom: 20px;"></div>
 
 4. Fitting and Assemble
 ------------------------
@@ -86,7 +100,9 @@ CenterMold is dedicated to delivering top-tier molds through a comprehensive and
   - Performing any necessary final machining operations to ensure all parts fit together seamlessly.
   - Conducting dimensional inspections to verify all components meet design requirements.
 
+.. raw:: html
 
+   <div style="margin-bottom: 20px;"></div>
 
 5. T0 Trial shot
 ------------------
