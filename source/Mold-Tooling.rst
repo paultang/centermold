@@ -15,12 +15,6 @@ CenterMold is dedicated to delivering top-tier molds through a comprehensive and
 
 
 Our Manufacturing Process
-
-.. .. raw:: html
-   <div style="margin-bottom: 20px;"></div>
-.. .. figure:: _static/mtoolingp.svg
-   :align: right
-
 .. raw:: html
 
    <div style="text-align: center;margin-bottom: 20px;">
@@ -78,8 +72,7 @@ Fitting and Assemble
    <div style="text-align: center;">
       Fitting and Assembly
    </div>
-  
-.. 
+.. acks:: 
 
   - Assembling mold components and ensuring proper fit and function.
   - Performing any necessary final machining operations to ensure all parts fit together seamlessly.
@@ -105,7 +98,7 @@ T0 Trial shot
       Using 3D printing technology to make conformal cooling channel
    </div>
 .. acks:: 
-   
+
 
 
 .. raw:: html
