@@ -16,11 +16,16 @@ CenterMold is dedicated to delivering top-tier molds through a comprehensive and
 
 Our Manufacturing Process
 
+.. .. raw:: html
+   <div style="margin-bottom: 20px;"></div>
+.. .. figure:: _static/mtoolingp.svg
+   :align: right
+
 .. raw:: html
 
-   <div style="margin-bottom: 20px;"></div>
-.. figure:: _static/mtoolingp.svg
-   :align: right
+   <div style="text-align: center;margin-bottom: 20px;">
+         <img src="_static/mtoolingp.svg" />
+   </div>
 
 Material Procurement
 ---------------------
