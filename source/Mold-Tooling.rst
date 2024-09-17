@@ -42,7 +42,7 @@ Precision Tooling and Machining
    <div style="text-align: center;">
       Precision Tooling and Machining
    </div>
-
+<br />
 
   - Rough Machining
   - Utilizing advanced CNC machines to achieve precise dimensions and tolerances.
@@ -98,8 +98,7 @@ T0 Trial shot
       Using 3D printing technology to make conformal cooling channel
    </div>
 
-.. 
-
+<br />
 
 
 .. raw:: html
