@@ -7,17 +7,15 @@
 =======================
 Mold Tooling
 =======================
-.. .. figure:: _static/moldtooling.jpg
-   :align: right
-   :width: 400px
 
 CenterMold is dedicated to delivering top-tier molds through a comprehensive and precisely controlled manufacturing process. Our commitment to quality and precision drives us to continuously refine our methods, ensuring we meet the diverse needs of our clients.
 
 
 Our Manufacturing Process
+
 .. raw:: html
 
-   <div style="text-align: center;margin-bottom: 20px;">
+   <div style="text-align: center; margin-bottom: 20px;">
          <img src="_static/mtoolingp.svg" />
    </div>
 
@@ -69,7 +67,7 @@ Fitting and Assemble
 
 .. raw:: html
 
-   <div style="text-align: center;">
+   <div style="text-align: center;margin-bottom: 20px;">
       Fitting and Assembly
    </div>
 .. 
