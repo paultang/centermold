@@ -20,12 +20,14 @@ Your Partner in Plastic Mold Manufacturing
 
    <div style="margin-bottom: 20px;"></div>
 
+
 .. raw:: html
 
    <div style="margin-bottom: 20px;"></div>
 
 .. image:: _static/Mission.svg
    :align: center
+
 
    
 
@@ -60,10 +62,8 @@ Our location and efficient logistics enable us to offer reliable delivery schedu
    <div style="margin-bottom: 20px;"></div>
 
 
-
-.. raw:: html
- 
- <img src="_static/clients.svg" >
+.. image:: _static/clients.svg
+   :align: center
 
 .. raw:: html
 
