@@ -95,8 +95,7 @@ T0 Trial shot
    <div style="text-align: center;">
       Using 3D printing technology to make conformal cooling channel
    </div>
-
-<br />
+..
 
 
 .. raw:: html
