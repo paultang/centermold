@@ -61,7 +61,6 @@ Our long-standing relationships with mold factories in the UK and North America 
    <div style="margin-bottom: 20px;"></div>
 
 
-Contact us to learn more about how we can collaborate for mutual success.
 
 
 
