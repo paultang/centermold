@@ -43,8 +43,12 @@ Precision Tooling and Machining
 .. raw:: html
    <div style="margin-bottom: 20px;"></div>
 
+.. raw:: html
 
-Precision Tooling and Machining
+   <div style="text-align: center;">
+      Precision Tooling and Machining
+   </div>
+
 
   - Rough Machining
   - Utilizing advanced CNC machines to achieve precise dimensions and tolerances.
@@ -69,7 +73,11 @@ Fitting and Assemble
 .. figure:: _static/Process02.svg
    :align: center
 
-Fitting and Assembly
+.. raw:: html
+
+   <div style="text-align: center;">
+      Fitting and Assembly
+   </div>
 
   - Assembling mold components and ensuring proper fit and function.
   - Performing any necessary final machining operations to ensure all parts fit together seamlessly.
@@ -88,6 +96,13 @@ T0 Trial shot
 
 .. figure:: _static/3d_conformal.svg
    :align: center
+
+.. raw:: html
+
+   <div style="text-align: center;">
+      Using 3D printing technology to make conformal cooling channel
+   </div>
+
 
 .. .. raw:: html
     <video width="700" controls autoplay muted>
