@@ -11,13 +11,6 @@ Plastic Injection Molding
 ==========================
 Ensure high-quality injection molded products through meticulous material selection, precise machine parameter settings, controlled molding processes, rigorous quality inspections, and efficient automation, all implemented according to CenterMold's rigorous standards.
 
-.. raw:: html
-
-   <div style="text-align: center; margin-bottom: 20px;">
-         <img src="_static/Molding_Service.svg" />
-   </div>
-..
-
  .. figure:: _static/Molding_Service.svg
    :align: center
 
