@@ -60,7 +60,7 @@ Welcome to CenterMold!
 
    <div style="margin-bottom: 20px;"></div>
 
-.. image:: _static/Misssion.svg
+.. image:: _static/Mission.svg
    :align: center
    
 .. raw:: html
