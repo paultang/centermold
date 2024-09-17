@@ -27,9 +27,16 @@ Why choose us?
 
 - Timely Communication
 - Iterative Development: We support iterative design processes, accommodating modifications and refinements to meet evolving project needs.
+
 .. raw:: html
 
- <img src="_static/whyCM.svg"> 
+   <div style="margin-bottom: 20px;"></div>
+.. image:: _static/why.svg
+   :align: center
+
+.. raw:: html
+
+   <div style="margin-bottom: 20px;"></div>
 
 
 New Product Development Supporting
@@ -45,7 +52,14 @@ Our long-standing relationships with mold factories in the UK and North America 
 
 .. raw:: html
 
- <img src="_static/case_study.svg"> 
+   <div style="margin-bottom: 20px;"></div>
+.. image:: _static/testimonials.svg
+   :align: center
+
+.. raw:: html
+
+   <div style="margin-bottom: 20px;"></div>
+
 
 Contact us to learn more about how we can collaborate for mutual success.
 
