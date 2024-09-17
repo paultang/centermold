@@ -10,27 +10,6 @@ Our Facilities
 
 At Centermold, we take pride in our advanced equipment and clean, spacious workshop. Our high-tech machinery ensures that every mold is produced with precision and efficiency. Whether it's complex mold design or precise injection molding, our dedicated team focuses on the details to deliver on time and meet the needs of our global clients.
 
-.. raw:: html
-
-   <a href="_static/RFQ.pdf" style="
-      display: inline-block;
-      padding: 15px 30px;  /* 增加内边距，使按钮更大 */
-      background-color: #2980B9;
-      color: white;
-      text-align: center;
-      text-decoration: none;
-      border-radius: 5px;
-      position: fixed;
-      right: 0;
-      top: 50%;
-      transform: translateY(-50%);
-      margin-right: 10px;
-      font-size: 18px;  /* 增加字体大小 */
-      line-height: 20px;">
-      Get Instant Quote
-   </a>
-
-
 
 .. list-table:: CenterMold Facilities
    :widths: 30 10 50
@@ -61,6 +40,7 @@ At Centermold, we take pride in our advanced equipment and clean, spacious works
      - 1
      - Precision measurement up to 0.002 mm
 
-.. figure:: _static/inhousecapability.svg
+.. figure:: _static/equipment.svg
    :align: center
-   :width: 750px
+
+
