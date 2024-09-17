@@ -10,30 +10,15 @@
 Plastic Injection Molding 
 ==========================
 Ensure high-quality injection molded products through meticulous material selection, precise machine parameter settings, controlled molding processes, rigorous quality inspections, and efficient automation, all implemented according to CenterMold's rigorous standards.
-
 .. raw:: html
 
-   <a href="_static/RFQ.pdf" style="
-      display: inline-block;
-      padding: 15px 30px;  /* 增加内边距，使按钮更大 */
-      background-color: #2980B9;
-      color: white;
-      text-align: center;
-      text-decoration: none;
-      border-radius: 5px;
-      position: fixed;
-      right: 0;
-      top: 50%;
-      transform: translateY(-50%);
-      margin-right: 10px;
-      font-size: 18px;  /* 增加字体大小 */
-      line-height: 20px;">
-      Get Instant Quote
-   </a>
+   <div style="text-align: center; margin-bottom: 20px;">
+         <img src="_static/Molding_service.svg" />
+   </div>
 
 
 
-.. figure:: _static/molding.jpg
+.. .. figure:: _static/molding.jpg
    :align: right
    :width: 300px
 
@@ -65,7 +50,14 @@ Our Injection Molding Process
     * Dimensional Inspection: Using precision measuring tools to verify that the molded parts meet dimensional specifications.
     * Surface Finish Inspection: Checking for surface defects and ensuring the parts meet aesthetic and functional requirements.
 
-.. figure:: _static/t1.svg
+.. raw:: html
+
+   <div style="text-align: center; margin-bottom: 20px;">
+         <img src="_static/PartsMolding.svg" />
+   </div>
+
+
+.. .. figure:: _static/t1.svg
    :align: right
    :width: 300px
 
@@ -74,6 +66,13 @@ Our Injection Molding Process
     * Post-Molding Treatments: Performing additional treatments such as annealing, coating, or assembly as required by the client.
     * Finishing: Conducting trimming, deburring, and other finishing operations to prepare the parts for use.
     * Insert Installation: If not already done during molding, installing inserts such as threaded nuts, bushings, or other components.
+
+.. raw:: html
+
+   <div style="text-align: center; margin-bottom: 20px;">
+         <img src="_static/MoldingPost.svg" />
+   </div>
+
 
 6. Testing and Validation
 
@@ -85,3 +84,30 @@ Our Injection Molding Process
     * Protective Packaging: Ensuring molded parts are securely packaged to prevent damage during transportation.
     * Custom Packaging Solutions: Providing packaging solutions tailored to the specific requirements of the parts, including anti-static bags, custom boxes, and protective wraps.
     * Logistics Coordination: Coordinating with trusted logistics partners to ensure timely and safe delivery to the client’s location.
+
+.. raw:: html
+
+   <div style="text-align: center; margin-bottom: 20px;">
+         <img src="_static/lables.svg" />
+   </div>
+
+
+.. raw:: html
+
+   <a href="_static/RFQ.pdf" style="
+      display: inline-block;
+      padding: 15px 30px;  /* 增加内边距，使按钮更大 */
+      background-color: #2980B9;
+      color: white;
+      text-align: center;
+      text-decoration: none;
+      border-radius: 5px;
+      position: fixed;
+      right: 0;
+      top: 50%;
+      transform: translateY(-50%);
+      margin-right: 10px;
+      font-size: 18px;  /* 增加字体大小 */
+      line-height: 20px;">
+      Get Instant Quote
+   </a>
