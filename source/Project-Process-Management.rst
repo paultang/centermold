@@ -9,6 +9,15 @@ Project Management
 =======================
 At CenterMold, we ensure that every step of the mold project is planned and executed to guarantee success. From creating detailed timelines and adhering to schedules to maintaining communication with clients, our goal is to deliver outstanding quality and ensure the success of every project. 
 
+.. raw:: html
+
+   <div style="margin-bottom: 20px;"></div>
+.. image:: _static/project_lifecycle.svg
+   :align: center
+
+.. raw:: html
+
+   <div style="margin-bottom: 20px;"></div>
 
 1. Initial Planning
 
