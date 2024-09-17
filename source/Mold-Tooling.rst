@@ -25,15 +25,15 @@ CenterMold is dedicated to delivering top-tier molds through a comprehensive and
    </div>
 ..
 
-Material Procurement
----------------------
+1. Material Procurement
+------------------------
 
   - Mold Base Selection: Choosing the appropriate mold base according to the design requirements and specifications.
   - Core and Cavity Steel: Selecting high-quality steel for the core and cavity to ensure durability and performance.
   - Mold Components: Sourcing essential mold components such as ejector pins, guide pins, bushings, and other standard parts.
 
-Precision Tooling and Machining
----------------------------------
+2. Precision Tooling and Machining
+-------------------------------------
 
 .. raw:: html
    <div style="margin-bottom: 20px;"></div>
@@ -56,14 +56,14 @@ Precision Tooling and Machining
   - Polishing: Hand and machine polishing to achieve the required surface finish andtexture
   - Inspection: Verifying surface finish and dimensional accuracy through detailed inspection.
   
-Heat Treatment and Surface finishing(optional)
-------------------------------------------------
+3. Heat Treatment and Surface finishing(optional)
+--------------------------------------------------
 
   - Hardening: Applying heat treatment processes to enhance the hardness and durability of mold steel.
   - Tempering
   - Hardness Testing: Performing hardness tests to ensure the treated components meet the required specifications.
 
-Fitting and Assemble
+4. Fitting and Assemble
 ------------------------
 .. raw:: html
    <div style="margin-bottom: 20px;"></div>
@@ -84,8 +84,8 @@ Fitting and Assemble
 
 
 
-T0 Trial shot
----------------
+5. T0 Trial shot
+------------------
 
   - Conducting trial runs to test the mold.
   - Assessing mold performance, identifying any issues, and making necessary adjustments.
