@@ -69,9 +69,11 @@ Welcome to CenterMold!
 
 .. raw:: html
 
-   <a href="mailto:inquiry&#64;centermold&#46;com">
-      <img src="_static/quotes.svg" align="center" />
-   </a>
+   <div style="text-align: center;">
+      <a href="mailto:inquiry&#64;centermold&#46;com">
+         <img src="_static/quotes.svg" />
+      </a>
+   </div>
 
 .. raw:: html
 
@@ -96,11 +98,14 @@ Welcome to CenterMold!
    :align: center
    :target: mailto:inquiry@centermold.com
 
+
 .. raw:: html
 
-   <a href="mailto:inquiry&#64;centermold&#46;com">
-      <img src="_static/project_lifecycle.svg" align="center" />
-   </a>
+   <div style="text-align: center;">
+      <a href="mailto:inquiry&#64;centermold&#46;com">
+         <img src="_static/project_lifecycle.svg" />
+      </a>
+   </div>
 
 .. raw:: html
 
