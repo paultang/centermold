@@ -26,11 +26,6 @@ At CenterMold, we offer a comprehensive range of post-injection molding services
    :align: right
    :width: 300px
 
-- Silk Screening 
-- Laser Engraving
-- Color Matching
-- Assembly and Sub-Assembly: Integration of multiple components into finished assemblies to streamline production and reduce costs.
-- 
 
 Contact us today to discover how we can support your project with our expertise and capabilities.
 
