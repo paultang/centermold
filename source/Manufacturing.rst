@@ -18,6 +18,9 @@ At CenterMold, we understand the importance of flexibility and efficiency in tod
 .. image:: _static/sbp.svg
    :align: center
 
+.. raw:: html
+
+   <div style="margin-bottom: 20px;"></div>
 
 
 Mold Lifelone Maintenance
@@ -39,6 +42,9 @@ China's robust infrastructure make CenterMold an excellent choice for small-batc
 .. image:: _static/equipment.svg
    :align: center
 
+.. raw:: html
+
+   <div style="margin-bottom: 20px;"></div>
 
 Proven Success with Leading Companies
 --------------------------------------
@@ -49,6 +55,10 @@ We are proud to serve industry leaders like Agilent, providing small-batch produ
    <div style="margin-bottom: 20px;"></div>
 .. image:: _static/testimonials.svg
    :align: center
+
+.. raw:: html
+
+   <div style="margin-bottom: 20px;"></div>
 
 .. raw:: html
 
