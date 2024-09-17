@@ -32,7 +32,9 @@ CenterMold is dedicated to delivering top-tier molds through a comprehensive and
   - Core and Cavity Steel: Selecting high-quality steel for the core and cavity to ensure durability and performance.
   - Mold Components: Sourcing essential mold components such as ejector pins, guide pins, bushings, and other standard parts.
 
-<br />
+.. raw:: html
+
+   <div style="margin-bottom: 20px;"></div>
 
 2. Precision Tooling and Machining
 -------------------------------------
