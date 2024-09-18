@@ -37,9 +37,11 @@ Mold Design Process
 Our team of seasoned professionals brings decades of expertise in mold design and manufacturing.
 
 1. Requirement Analysis and Design Review
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ..
 
 2. Mold Concept and 3D design
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ..
 
   - Developing initial design concepts and discussing potential approaches with the client.  
