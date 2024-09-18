@@ -58,6 +58,7 @@ Our team of seasoned professionals brings decades of expertise in mold design an
 
 
 3. Mold Flow and Detail Design
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ..
 
   - :ref:`Mold-flow` 
@@ -66,6 +67,7 @@ Our team of seasoned professionals brings decades of expertise in mold design an
  
 
 4. Client Communication and Approval and CAM Ready Validation
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ..
 
   - Conducting detailed design reviews with the client to ensure all requirements and expectations are met.
