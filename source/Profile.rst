@@ -7,8 +7,7 @@
 =======================
 Profile
 =======================
-Your Partner in Plastic Mold Manufacturing
--------------------------------------------
+
 .. raw:: html
 
    <div style="margin-bottom: 20px;"></div>
@@ -28,18 +27,25 @@ Your Partner in Plastic Mold Manufacturing
 .. image:: _static/Mission.svg
    :align: center
 
+Our Vision
+-------------
+To be the preferred mold partner for business worldwide, recognized   for our commitment to innovatioin reliability, and building long-term relationships with clients
 
+Our Mission
+--------------
+To deliver high-quality, custom mold design and manufacturing solutions with precision, efficiency, and personalized service.
    
 
-
+introduction
+--------------
 Located in Shenzhen, CenterMold is a private company specializing in plastic mold manufacturing. 
 
 Established in 2003, CenterMold has grown into a medium-scale mold factory, boasting a 3,000 square meter facility and a dedicated team of 30 skilled employees. Our state-of-the-art manufacturing equipment, including CNC machines, EDM, and wire-cutting, allows us to produce up to 20 large to medium-sized molds per month.
 
 
-Location and Shipping Advantages
--------------------------------------------
-Our proximity to major ports in Shenzhen offers significant advantages for international shipping. We have access to numerous direct sea routes, ensuring fast and cost-effective delivery to major ports around the world.
+Convenient Location
+------------------------------
+Located in Shenzhen, our mold factory benefits from the city's highly developed port infrastructure, ensuring efficient and convenient export logistics. It offers significant advantages for international shipping. We have access to numerous direct sea routes, ensuring fast and cost-effective delivery to major ports around the world.
 
 Shenzhen or Hongkong - North America
 
@@ -55,7 +61,7 @@ Shenzhen or Hongkong - Europe
 - Southampton
 - Liverpool
 
-Our location and efficient logistics enable us to offer reliable delivery schedules, ensuring your molds and products arrive on time and within budget.
+the location and efficient logistics enable us to offer reliable delivery schedules, ensuring your molds and products arrive on time and within budget.
 
 .. raw:: html
 
