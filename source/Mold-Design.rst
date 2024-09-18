@@ -16,6 +16,11 @@ At CenterMold, our mold design team work hard to meet the unique needs of each c
  .. figure:: _static/design_process.svg
    :align: center
 
+.. raw:: html
+
+   <div style="margin-bottom: 20px;"></div>
+
+
 Our Design Software
 --------------------
 To provide the best mold design services, we utilize industry-leading software such as:
@@ -42,9 +47,14 @@ Our team of seasoned professionals brings decades of expertise in mold design an
   - Clearly defining the parting line to ensure proper mold separation.
   - Placing ejector pins to ensure smooth part removal.
 ..
+.. raw:: html
+
+   <div style="margin-bottom: 20px;"></div>
+
 .. figure:: _static/molddesign.svg
    :align: center
-   
+
+
 3. Mold Flow and Detail Design
 ..
 
