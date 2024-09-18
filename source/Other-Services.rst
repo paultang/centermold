@@ -14,20 +14,12 @@ At CenterMold, we offer a comprehensive range of post-injection molding services
 .. image:: _static/MoldingPost.svg
    :alt: Post Operation
    :align: center
-
-.. raw:: html
-
-   <style>
-   img {
-       margin-bottom: 40px;
-   }
-   </style>
-
-..
+   :class: img-with-margin
    
 .. .. figure:: _static/t1.svg
    :align: center
    :width: auto
+
 Contact us today to discover how we can support your project with our expertise and capabilities.
 
 

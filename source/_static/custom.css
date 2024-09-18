@@ -2,3 +2,7 @@
 .wy-nav-content {
     max-width: 80%; /* 设置为90%的宽度 */
 }
+
+.img-with-margin {
+    margin-bottom: 20px;
+}
