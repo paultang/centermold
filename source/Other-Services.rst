@@ -18,7 +18,7 @@ At CenterMold, we offer a comprehensive range of post-injection molding services
    :align: center
 
 .. raw:: html
-   <div style="margin-bottom: 20px;"></div>
+   <div style="margin-bottom: 40px;"></div>
 
 .. .. figure:: _static/t1.svg
    :align: center
