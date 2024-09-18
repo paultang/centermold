@@ -27,7 +27,7 @@ Mold Lifelone Maintenance
 --------------------------
 One of our standout services is the lifelong maintenance of your molds. We ensure your molds remain in optimal condition, guaranteeing consistent quality and performance throughout their lifecycle.
 
-Comprehensive Support and Cost Efficiency
+Comprehensive Support
 ------------------------------------------
 China's robust infrastructure make CenterMold an excellent choice for small-batch production. Here’s why:
 
@@ -46,7 +46,7 @@ China's robust infrastructure make CenterMold an excellent choice for small-batc
 
    <div style="margin-bottom: 20px;"></div>
 
-Proven Success with Leading Companies
+Proven Success
 --------------------------------------
 We are proud to serve industry leaders like Agilent, providing small-batch production services that meet their stringent requirements. Our ability to deliver high-quality, cost-effective solutions has earned us the trust and loyalty of clients worldwide.
 
