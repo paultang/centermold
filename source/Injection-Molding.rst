@@ -14,7 +14,7 @@ Ensure high-quality injection molded products through meticulous material select
  .. figure:: _static/Molding_Service.svg
    :align: center
 
-Our Injection Molding Process
+Injection Molding Process
 ------------------------------
 
 
