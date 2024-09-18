@@ -13,6 +13,17 @@ At CenterMold, we pride ourselves on being a trusted partner for overseas compan
 
 Why choose us?
 ---------------------------
+.. raw:: html
+
+   <div style="margin-bottom: 20px;"></div>
+.. image:: _static/why.svg
+   :align: center
+
+.. raw:: html
+
+   <div style="margin-bottom: 20px;"></div>
+
+
 1. Expertise and Compliance
 
 - Standards Familiarity
@@ -28,16 +39,6 @@ Why choose us?
 - Timely Communication
 - Iterative Development: We support iterative design processes, accommodating modifications and refinements to meet evolving project needs.
 
-.. raw:: html
-
-   <div style="margin-bottom: 20px;"></div>
-.. image:: _static/why.svg
-   :align: center
-
-.. raw:: html
-
-   <div style="margin-bottom: 20px;"></div>
-
 
 New Product Development Supporting
 -----------------------------------
@@ -48,8 +49,6 @@ We specialize in supporting new product development projects, which often requir
 
 Long-Term Partnerships
 -------------------------
-Our long-standing relationships with mold factories in the UK and North America are a testament to our collaborative success. By working closely with our partners, we achieve Mutual Growth and Trust.
-
 .. raw:: html
 
    <div style="margin-bottom: 20px;"></div>
@@ -59,6 +58,10 @@ Our long-standing relationships with mold factories in the UK and North America 
 .. raw:: html
 
    <div style="margin-bottom: 20px;"></div>
+
+Our long-standing relationships with mold factories in the UK and North America are a testament to our collaborative success. By working closely with our partners, we achieve Mutual Growth and Trust.
+
+
 
 
 
