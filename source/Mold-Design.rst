@@ -36,15 +36,14 @@ Our team of seasoned professionals brings decades of expertise in mold design an
 
 2. Mold Concept and 3D design
 ..
-   
+
   - Developing initial design concepts and discussing potential approaches with the client.  
   - Specifying the location, type, and size of the gate to ensure optimal flow and minimal defects.  
   - Clearly defining the parting line to ensure proper mold separation.
   - Placing ejector pins to ensure smooth part removal.
 ..
-.. figure:: _static/moldesign.svg
-   :align: right
-   :width: 450px
+.. figure:: _static/molddesign.svg
+   :align: center
    
 3. Mold Flow and Detail Design
 ..
