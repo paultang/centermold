@@ -36,7 +36,7 @@ Our Injection Molding Process
     * Parameter Setup: Precisely setting up machine parameters, including temperature, pressure, and cycle time, to ensure consistent product quality.
     * Automated Handling: Employing automated robotic arms to enhance efficiency and prevent workplace injuries, ensuring safe and precise handling of molded parts.
 
-4. Quality Control and Inspection
+4. Production and Quality Control and Inspection
 
     * In-Process Monitoring: Conducting real-time monitoring and adjustments during the molding process to maintain consistent quality.
     * Dimensional Inspection: Using precision measuring tools to verify that the molded parts meet dimensional specifications.
