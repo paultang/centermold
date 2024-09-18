@@ -22,9 +22,9 @@ At CenterMold, we offer a comprehensive range of post-injection molding services
 
 
 
-.. .. figure:: _static/t1.svg
-   :align: right
-   :width: 300px
+ .. figure:: _static/t1.svg
+   :align: center
+   :width: auto
 
 
 Contact us today to discover how we can support your project with our expertise and capabilities.
