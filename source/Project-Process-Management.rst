@@ -19,43 +19,45 @@ At CenterMold, we ensure that every step of the mold project is planned and exec
 
    <div style="margin-bottom: 20px;"></div>
 
+How we Manage Project
+----------------------
 1. Initial Planning
-
+~~~~~~~~~~~~~~~~~~~~
     * Understanding the client’s needs, specifications.
     * Conducting a feasibility study to assess potential challenges.
     * Creating a detailed project plan, including timelines, milestones.
 
 2. Order Confirmation and Scheduling
-
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     * Detailed Timeline: Upon receiving an order, we create a detailed timeline outlining every phase of the project.
     
 3. Design and Engineering
-
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
     * Design for Manufacturability
     * Modeling: Creating detailed 3D models using software like UG and SolidWorks.
     * Client Approval: Reviewing designs with the client.
 
 4. Mold Fabrication
-
+~~~~~~~~~~~~~~~~~~~~~~~~
     * Material Procurement
     * Machining
     * Heat Treatment: Applying heat treatment to enhance material properties and durability.
     * Fitting and Assembly: Assembling the mold components and ensuring precise alignment and fit.
 
 5. Quality Control and Testing
-
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     * Dimensional Inspection
     * Functional Testing
     * Sample Production: Producing sample parts for client approval.
 
 6. Project Monitoring and Control
-
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     * Progress Tracking: Continuously monitoring project progress against the plan.
     * Client Updates: Providing regular updates to the client on project status.
     * Timely Communication: Ensuring prompt communication with clients for any design changes or additional requirements, adjusting plans and schedules as needed.
 
 7. Delivery and Support
-
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     * Final Inspection
     * Logistics Coordination
     * After-Sales Support: Offering ongoing support and maintenance services as needed.

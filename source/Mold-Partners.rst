@@ -25,15 +25,15 @@ Why choose us?
 
 
 1. Expertise
-
+~~~~~~~~~~~~~~~~~
 With over 20 years of experience, we excel in designing and manufacturing molds for various applications. Our team has worked with more than 30 types of plastic materials and specializes in multiple mold types, ensuring precise, efficient, and reliable production. We adhere to international standards, delivering trusted solutions tailored to your needs.
 
 2. Quality Assurance
-
+~~~~~~~~~~~~~~~~~~~~~
 We utilize advanced manufacturing equipment and cutting-edge design software to ensure precision at every step. Our strict quality management processes, combined with a dedicated and experienced team, guarantee that every mold meets the highest performance and durability standards.
 
 3. Flexible and Timely Delivery
-
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 We are committed to a customer-centric approach, ensuring that every need is met efficiently. Our flexible production and storage solutions support timely delivery, enabling quick turnaround and adaptability to market demands. With competitive pricing, we guarantee high-quality results and reliable service, delivering excellence without compromise.
 
 New Product Development Supporting
