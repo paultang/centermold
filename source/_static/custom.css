@@ -4,5 +4,7 @@
 }
 
 .img-with-margin {
+    display: block;
     margin-bottom: 20px;
+    margin-top: 20px;
 }
