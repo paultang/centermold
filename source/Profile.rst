@@ -7,19 +7,6 @@
 =======================
 Profile
 =======================
-
-.. raw:: html
-
-   <div style="margin-bottom: 20px;"></div>
-
-.. image:: _static/Profile.svg
-   :align: center
-   
-.. raw:: html
-
-   <div style="margin-bottom: 20px;"></div>
-
-
 .. raw:: html
 
    <div style="margin-bottom: 20px;"></div>
