@@ -63,3 +63,15 @@ efficiency.
       line-height: 20px;">
       Get Instant Quote
    </a>
+
+.. raw:: html
+
+   <!-- Google tag (gtag.js) -->
+   <script async src="https://www.googletagmanager.com/gtag/js?id=AW-819245903"></script>
+   <script>
+     window.dataLayer = window.dataLayer || [];
+     function gtag(){dataLayer.push(arguments);}
+     gtag('js', new Date());
+
+     gtag('config', 'AW-819245903');
+   </script>
