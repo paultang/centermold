@@ -123,14 +123,43 @@ Level 4 - Sub-subsection Title
 
 .. raw:: html
 
-    <div>
-        <button onclick="saveCode()">Save to Favorites</button>
-    </div>
+   <style>
+       /* 设置按钮的样式 */
+       .bookmark-btn {
+           display: inline-block;
+           padding: 10px 20px;
+           font-size: 16px;
+           background-color: #4CAF50;
+           color: white;
+           border: none;
+           border-radius: 5px;
+           cursor: pointer;
+           text-align: center;
+           margin-top: 20px; /* 距离上方的空白 */
+       }
 
-    <script>
-        function saveCode() {
-            const code = document.getElementById('code-block').innerText;
-            localStorage.setItem('favoriteCode', code);
-            alert('Code saved to favorites!');
-        }
-    </script>
+       .bookmark-btn:hover {
+           background-color: #45a049;
+       }
+   </style>
+
+   <!-- 书签按钮 -->
+   <button class="bookmark-btn" onclick="addBookmark()">Add Bookmark</button>
+
+   <script>
+       /* 添加书签功能的JavaScript */
+       function addBookmark() {
+           const url = window.location.href;
+           const title = document.title;
+           if (window.sidebar && window.sidebar.addPanel) { // Firefox <=22
+               window.sidebar.addPanel(title, url, '');
+           } else if (window.external && ('AddFavorite' in window.external)) { // IE
+               window.external.AddFavorite(url, title);
+           } else if (window.opera && window.print) { // Opera <=12
+               this.title = title;
+               return true;
+           } else { // Others (e.g., Chrome, Safari)
+               alert('Press Ctrl+D (Windows) or Cmd+D (Mac) to bookmark this page.');
+           }
+       }
+   </script>
