@@ -119,3 +119,22 @@ Level 4 - Sub-subsection Title
 .. figure:: _static/layout.png
    :align: right
    :width: 300px
+
+
+.. raw:: html
+
+    <div>
+        <pre id="code-block">
+            def hello_world():
+                print("Hello, World!")
+        </pre>
+        <button onclick="saveCode()">Save to Favorites</button>
+    </div>
+
+    <script>
+        function saveCode() {
+            const code = document.getElementById('code-block').innerText;
+            localStorage.setItem('favoriteCode', code);
+            alert('Code saved to favorites!');
+        }
+    </script>
