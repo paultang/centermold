@@ -124,10 +124,6 @@ Level 4 - Sub-subsection Title
 .. raw:: html
 
     <div>
-        <pre id="code-block">
-            def hello_world():
-                print("Hello, World!")
-        </pre>
         <button onclick="saveCode()">Save to Favorites</button>
     </div>
 
