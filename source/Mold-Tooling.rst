@@ -109,18 +109,6 @@ CenterMold is dedicated to delivering top-tier molds through a comprehensive and
 
   - Conducting trial runs to test the mold.
   - Assessing mold performance, identifying any issues, and making necessary adjustments.
-
-.. raw:: html
-   <div style="margin-bottom: 20px;"></div>
-
-.. figure:: _static/3d_conformal.svg
-   :align: center
-
-.. raw:: html
-
-   <div style="text-align: center;">
-      Using 3D printing technology to make conformal cooling channel
-   </div>
 ..
 
 
