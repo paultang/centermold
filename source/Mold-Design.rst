@@ -93,3 +93,42 @@ Our team of seasoned professionals brings decades of expertise in mold design an
       line-height: 20px;">
       Get Instant Quote
    </a>
+
+.. raw:: html
+
+   <style>
+       /* 设置按钮的样式 */
+       .bookmark-btn {
+           display: inline-block;
+           padding: 10px 20px;
+           font-size: 16px;
+           background-color: #4CAF50;
+           color: white;
+           border: none;
+           border-radius: 5px;
+           cursor: pointer;
+           text-align: center;
+           position: fixed; /* 固定定位，使按钮悬浮在页面上 */
+           top: 80px; /* 距离浏览器顶端 80px */
+           right: 20px; /* 距离浏览器右侧 20px */
+           z-index: 1000; /* 保证按钮在最上层 */
+       }
+
+       .bookmark-btn:hover {
+           background-color: #45a049;
+       }
+   </style>
+
+   <!-- 书签按钮，悬浮在页面顶部 80px 的位置 -->
+   <button class="bookmark-btn" onclick="bookmarkPrompt()">Add Bookmark</button>
+
+   <script>
+       /* 提示用户手动添加书签 */
+       function bookmarkPrompt() {
+           if (navigator.userAgent.toLowerCase().indexOf('mac') != -1) {
+               alert('Press Cmd+D to bookmark this page.');
+           } else {
+               alert('Press Ctrl+D to bookmark this page.');
+           }
+       }
+   </script>
