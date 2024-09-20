@@ -120,21 +120,9 @@ Level 4 - Sub-subsection Title
    :align: right
    :width: 300px
 
+.. 
 
-ute; /* 绝对定位 */
-           top: 50px; /* 距离页面顶部的距离 */
-           right: 50px; /* 距离页面右侧的距离 */
-       }
-
-       .bookmark-btn:hover {
-           background-color: #45a049;
-       }
-   </style>
-
-   <!-- 书签按钮 -->
-   <button class="bookmark-btn" on.. raw:: html
-
-   .. raw:: html
+.. raw:: html
 
    <style>
        /* 设置按钮的样式 */
