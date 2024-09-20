@@ -9,14 +9,20 @@
 ==========================
 Plastic Injection Molding 
 ==========================
-Ensure high-quality injection molded products through meticulous material selection, precise machine parameter settings, controlled molding processes, rigorous quality inspections, and efficient automation, all implemented according to CenterMold's rigorous standards.
-
  .. figure:: _static/Molding_Service.svg
    :align: center
 
+Ensure high-quality injection molded products through meticulous material selection, precise machine parameter settings, controlled molding processes, rigorous quality inspections, and efficient automation, all implemented according to CenterMold's rigorous standards.
+
+
+
 Injection Molding Process
 ------------------------------
+.. raw:: html
 
+   <div style="text-align: center; margin-bottom: 20px;">
+         <img src="_static/PartsMolding.svg" />
+   </div>
 
 1. Material Selection and Procurement
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -42,11 +48,7 @@ Injection Molding Process
     * Dimensional Inspection: Using precision measuring tools to verify that the molded parts meet dimensional specifications.
     * Surface Finish Inspection: Checking for surface defects and ensuring the parts meet aesthetic and functional requirements.
 
-.. raw:: html
 
-   <div style="text-align: center; margin-bottom: 20px;">
-         <img src="_static/PartsMolding.svg" />
-   </div>
 
 
 .. .. figure:: _static/t1.svg
