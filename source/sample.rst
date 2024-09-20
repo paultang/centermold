@@ -121,7 +121,20 @@ Level 4 - Sub-subsection Title
    :width: 300px
 
 
-.. raw:: html
+ute; /* 绝对定位 */
+           top: 50px; /* 距离页面顶部的距离 */
+           right: 50px; /* 距离页面右侧的距离 */
+       }
+
+       .bookmark-btn:hover {
+           background-color: #45a049;
+       }
+   </style>
+
+   <!-- 书签按钮 -->
+   <button class="bookmark-btn" on.. raw:: html
+
+   .. raw:: html
 
    <style>
        /* 设置按钮的样式 */
@@ -135,10 +148,10 @@ Level 4 - Sub-subsection Title
            border-radius: 5px;
            cursor: pointer;
            text-align: center;
-           margin-top: 40px; /* 距离上方的空白 */
-           position: absolute; /* 绝对定位 */
-           top: 50px; /* 距离页面顶部的距离 */
-           right: 50px; /* 距离页面右侧的距离 */
+           position: fixed; /* 固定定位，使按钮悬浮在页面上 */
+           top: 80px; /* 距离浏览器顶端 80px */
+           right: 20px; /* 距离浏览器右侧 20px */
+           z-index: 1000; /* 保证按钮在最上层 */
        }
 
        .bookmark-btn:hover {
@@ -146,7 +159,7 @@ Level 4 - Sub-subsection Title
        }
    </style>
 
-   <!-- 书签按钮 -->
+   <!-- 书签按钮，悬浮在页面顶部 80px 的位置 -->
    <button class="bookmark-btn" onclick="addBookmark()">Add Bookmark</button>
 
    <script>
