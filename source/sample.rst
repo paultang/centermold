@@ -148,22 +148,15 @@ Level 4 - Sub-subsection Title
    </style>
 
    <!-- 书签按钮，悬浮在页面顶部 80px 的位置 -->
-   <button class="bookmark-btn" onclick="addBookmark()">Add Bookmark</button>
+   <button class="bookmark-btn" onclick="bookmarkPrompt()">Save this Web as Bookmark</button>
 
    <script>
-       /* 添加书签功能的JavaScript */
-       function addBookmark() {
-           const url = window.location.href;
-           const title = document.title;
-           if (window.sidebar && window.sidebar.addPanel) { // Firefox <=22
-               window.sidebar.addPanel(title, url, '');
-           } else if (window.external && ('AddFavorite' in window.external)) { // IE
-               window.external.AddFavorite(url, title);
-           } else if (window.opera && window.print) { // Opera <=12
-               this.title = title;
-               return true;
-           } else { // Others (e.g., Chrome, Safari)
-               alert('Press Ctrl+D (Windows) or Cmd+D (Mac) to bookmark this page.');
+       /* 提示用户手动添加书签 */
+       function bookmarkPrompt() {
+           if (navigator.userAgent.toLowerCase().indexOf('mac') != -1) {
+               alert('Press Cmd+D to bookmark this page.');
+           } else {
+               alert('Press Ctrl+D to bookmark this page.');
            }
        }
    </script>
