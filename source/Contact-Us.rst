@@ -98,7 +98,7 @@ Approximately 20 minutes
    </style>
 
    <!-- 书签按钮，悬浮在页面顶部 80px 的位置 -->
-   <button class="bookmark-btn" onclick="bookmarkPrompt()">Add Bookmark</button>
+   <button class="bookmark-btn" onclick="bookmarkPrompt()">Save This Page for Later!</button>
 
    <script>
        /* 提示用户手动添加书签 */
