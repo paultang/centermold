@@ -44,7 +44,7 @@ def setup(app):
 # html_theme = 'alabaster'
 html_theme = 'sphinx_rtd_theme'
 html_static_path = ['_static']
-html_title = "Centermold, a Professtional Mold Maker and a Plastic Injection Molding Factory"
+html_title = "CENTERMOLD, a Professtional Mold Maker and a Plastic Injection Molding Factory"
 html_context = {
     'ga_tracking_id': 'G-LJ9L3WNCW5',  # Replace with your tracking ID
 }
