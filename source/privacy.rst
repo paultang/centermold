@@ -43,9 +43,9 @@ Contact Us
 If you have any questions about this Privacy Policy or how we handle your personal information, please contact us at:
 
 CenterMold
-Address: 
-B17,Tantou West industrial park, SongGang Town,
-Shenzhen, Guangdong,
-China
-Phone: +86 0755 27226835
-Email: info@centermold.com
+| Address: 
+| B17,Tantou West industrial park, SongGang Town,
+| Shenzhen, Guangdong,
+| China
+| Phone: +86 0755 27226835
+| Email: info@centermold.com
