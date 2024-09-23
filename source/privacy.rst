@@ -27,7 +27,7 @@ Sharing Your Information
 We do not sell, trade, or rent your personal information to third parties. However, we may share your data with trusted partners who assist us in operating our website, conducting our business, or servicing you, provided that these parties agree to keep this information confidential and comply with relevant privacy laws.
 
 Your Rights
-
+-------------
 You have the right to:
 
 Access and Correct Your Data: You may request access to your personal data and correct any inaccuracies.
