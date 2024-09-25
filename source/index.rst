@@ -134,7 +134,7 @@ Welcome to CenterMold!
       </video>
     </div>
 
-.. raw:: html
+.. .. raw:: html
 
    <a href="_static/RFQ.pdf" style="
       display: inline-block;
@@ -153,6 +153,7 @@ Welcome to CenterMold!
       line-height: 20px;">
       Get Instant Quote
    </a>
+.. 
 
 .. raw:: html
 
@@ -172,3 +173,19 @@ Welcome to CenterMold!
       }
     }
     </script>
+
+.. raw:: html
+
+    <!--Start of Tawk.to Script-->
+    <script type="text/javascript">
+    var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+    (function(){
+    var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+    s1.async=true;
+    s1.src='https://embed.tawk.to/66f361964cbc4814f7de2e86/1i8jbadm4';
+    s1.charset='UTF-8';
+    s1.setAttribute('crossorigin','*');
+    s0.parentNode.insertBefore(s1,s0);
+    })();
+    </script>
+    <!--End of Tawk.to Script-->
