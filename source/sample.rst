@@ -160,7 +160,6 @@ Level 4 - Sub-subsection Title
            }
        }
    </script>
-..
 
 .. raw:: html
 
