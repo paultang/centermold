@@ -52,7 +52,7 @@ Approximately 20 minutes
  </script>
 
    
-.. raw:: html
+.. .. raw:: html
 
     <!--Start of Tawk.to Script-->
     <script type="text/javascript">
