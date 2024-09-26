@@ -154,7 +154,7 @@ Welcome to CenterMold!
     }
     </script>
 
-.. .. raw:: html
+.. raw:: html
 
     <!--Start of Tawk.to Script-->
     <script type="text/javascript">
